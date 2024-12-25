@@ -1,0 +1,99 @@
+name: Build MRS Daily
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 13 * * *"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: repo
+
+      - name: 0.1 Get current date
+        id: date
+        run: |
+          echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+          echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
+          echo "month=$(date +'%m')" >> $GITHUB_OUTPUT
+          echo "day=$(date +'%d')" >> $GITHUB_OUTPUT
+          echo "hour=$(date +'%H')" >> $GITHUB_OUTPUT
+          echo "minute=$(date +'%M')" >> $GITHUB_OUTPUT
+          echo "second=$(date +'%S')" >> $GITHUB_OUTPUT
+
+      # - name: 0.2 Restore cache.db
+      #   uses: actions/cache/restore@v4
+      #   with:
+      #     path: |
+      #       workdir/previous_ref
+      #     key: ruleset-${{ runner.os }}-v3-${{ steps.date.outputs.year }}-${{ steps.date.outputs.month }}-${{ steps.date.outputs.day }} ${{ steps.date.outputs.hour }}:${{ steps.date.outputs.minute }}:${{ steps.date.outputs.second }}
+      #     # If source files changed but packages didn't, rebuild from a prior cache.
+      #     restore-keys: |
+      #       ruleset-${{ runner.os }}-v3-${{ steps.date.outputs.year }}-${{ steps.date.outputs.month }}-${{ steps.date.outputs.day }} ${{ steps.date.outputs.hour }}:${{ steps.date.outputs.minute }}:
+      #       ruleset-${{ runner.os }}-v3-${{ steps.date.outputs.year }}-${{ steps.date.outputs.month }}-${{ steps.date.outputs.day }} ${{ steps.date.outputs.hour }}:
+      #       ruleset-${{ runner.os }}-v3-${{ steps.date.outputs.year }}-${{ steps.date.outputs.month }}-${{ steps.date.outputs.day }}
+      #       ruleset-${{ runner.os }}-v3-${{ steps.date.outputs.year }}-${{ steps.date.outputs.month }}-
+      #       ruleset-${{ runner.os }}-v3-${{ steps.date.outputs.year }}-
+      #       ruleset-${{ runner.os }}-v3-
+
+      - name: 0.3 Prepare
+        run: |
+          mkdir build
+
+      # - name: 1.1 Process Sukka's ruleset
+      #   run: |
+      #     cd workdir && git clone https://github.com/SukkaLab/ruleset.skk.moe sukka
+      #     cd sukka && git rev-parse HEAD > ../current_ref
+
+      #     [[ -f ../previous_ref ]] && \
+      #       git diff --name-only `cat ../previous_ref`..HEAD > ../process-list || \
+      #       find . -type f > ../process-list
+
+      - name: 1.1 Run collectors
+        run: |
+          cd repo/collectors
+          for i in $(find . -type f); do $i; done
+
+      - uses: actions/checkout@v4
+        with:
+          path: upload
+          ref: release
+
+      - name: 2.1 Update Release
+        run: |
+          cp -r build/* upload/
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update ${{ steps.date.outputs.year }}${{ steps.date.outputs.month }}${{ steps.date.outputs.day }}"
+          branch: release
+          file_pattern: '*'
+          repository: upload
+
+      # - uses: actions/upload-artifact@v4
+      #   with:
+      #     name: build-artifact-${{ github. ref_name }}
+      #     path: public
+      #     if-no-files-found: error
+      #     retention-days: 1
+      #     compression-level: 4
+      #     include-hidden-files: false
+
+      # - name: 2.2 Store checksums to cache
+      #   if: always()
+      #   uses: actions/cache/save@v4
+      #   with:
+      #     path: |
+      #       workdir/previous.sums
+      #     key: ${{ runner.os }}-v3-${{ steps.date.outputs.year }}-${{ steps.date.outputs.month }}-${{ steps.date.outputs.day }} ${{ steps.date.outputs.hour }}:${{ steps.date.outputs.minute }}:${{ steps.date.outputs.second }}
