@@ -65,6 +65,10 @@ jobs:
           cd repo/collectors
           for i in $(find . -type f); do $i; done
 
+      - name: 1.2 Copy snippets
+        run: |
+          cp repo/snippets/* build/
+
       - uses: actions/checkout@v4
         with:
           path: upload
