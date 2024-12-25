@@ -1,0 +1,5 @@
+api.steampowered.com
+test.steampowered.com
++.cm.steampowered.com
++.steamserver.net
++.steamstatic.com
