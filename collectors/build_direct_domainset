@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+
+project_rootpath=`realpath "$(dirname "$0")/.."`
+utils_path="$project_rootpath/utils"
+output_path="$project_rootpath/dist"
+snippet_path="$project_rootpath/snippets"
+
+. $utils_path/tools
+
+[[ -d $output_path ]] || mkdir -p $output_path
+
+dnsmasq_cnlist_file="$output_path/domainset_cn.txt"
+echo "[*] Fetching dnsmasq-china-list..."
+curl -sL https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf -o $dnsmasq_cnlist_file
+sed -i 's#server=/##g;s#/114.114.114.114##g;/#/d' $dnsmasq_cnlist_file
+simplify -i "$dnsmasq_cnlist_file" -o "$dnsmasq_cnlist_file"
+
+nonip_rulesets=(
+  "https://ruleset.skk.moe/List/non_ip/apple_cdn.conf"
+  "https://ruleset.skk.moe/List/non_ip/apple_cn.conf"
+  "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
+  "https://ruleset.skk.moe/List/non_ip/direct.conf"
+  "https://ruleset.skk.moe/List/non_ip/domestic.conf"
+)
+
+direct_domainset="$output_path/domainset_direct.txt"
+dl_ruleset="$output_path/domainset_direct.tmp"
+rm -f "$direct_domainset"
+for ruleset in ${nonip_rulesets[*]}; do
+  echo "[*] Fetching `echo $ruleset | cut -d'/' -f5-`..."
+  curl -sL "$ruleset" -o $dl_ruleset
+  shim_ruleset "$dl_ruleset" >> $direct_domainset
+done
+rm -f "$dl_ruleset"
+
+for snippet in `find $snippet_path -type f -name 'direct*'`; do
+    cat $snippet >> $direct_domainset
+done
+
+simplify -i "$direct_domainset" -o "$direct_domainset"

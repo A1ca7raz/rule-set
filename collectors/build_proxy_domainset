@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+
+project_rootpath=`realpath "$(dirname "$0")/.."`
+utils_path="$project_rootpath/utils"
+output_path="$project_rootpath/dist"
+snippet_path="$project_rootpath/snippets"
+
+. $utils_path/tools
+
+[[ -d $output_path ]] || mkdir -p $output_path
+
+domainsets=(
+  "https://ruleset.skk.moe/List/domainset/speedtest.conf"
+  "https://ruleset.skk.moe/List/domainset/download.conf"
+  "https://ruleset.skk.moe/List/domainset/cdn.conf"
+  # "https://ruleset.skk.moe/List/domainset/game-download.conf"
+)
+
+nonip_rulesets=(
+  "https://ruleset.skk.moe/List/non_ip/ai.conf"
+  "https://ruleset.skk.moe/List/non_ip/global.conf"
+  "https://ruleset.skk.moe/List/non_ip/telegram.conf"
+  "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
+  "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
+  "https://ruleset.skk.moe/List/non_ip/stream.conf"
+)
+
+proxy_domainset="$output_path/domainset_proxy.txt"
+dl_ruleset="$output_path/domainset_proxy.tmp"
+rm -f "$proxy_domainset"
+for domainset in ${domainsets[*]}; do
+  echo "[*] Fetching `echo $domainset | cut -d'/' -f5-`..."
+  curl -sL "$domainset" -o $dl_ruleset
+  shim_domainset "$dl_ruleset" >> $proxy_domainset
+done
+for ruleset in ${nonip_rulesets[*]}; do
+  echo "[*] Fetching `echo $ruleset | cut -d'/' -f5-`..."
+  curl -sL "$ruleset" -o $dl_ruleset
+  shim_ruleset "$dl_ruleset" >> $proxy_domainset
+done
+rm -f "$dl_ruleset"
+
+for snippet in `find $snippet_path -type f -name 'proxy*'`; do
+    cat $snippet >> $proxy_domainset
+done
+
+simplify -i "$proxy_domainset" -o "$proxy_domainset"

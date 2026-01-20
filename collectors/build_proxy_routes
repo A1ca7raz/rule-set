@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+
+project_rootpath=`realpath "$(dirname "$0")/.."`
+utils_path="$project_rootpath/utils"
+output_path="$project_rootpath/dist"
+snippet_path="$project_rootpath/snippets"
+
+. $utils_path/tools
+
+[[ -d $output_path ]] || mkdir -p $output_path
+
+ipsets=(
+  "https://core.telegram.org/resources/cidr.txt"
+  "https://www.cloudflare.com/ips-v4"
+  "https://www.cloudflare.com/ips-v6"
+)
+
+ipv4_regex='^((^|(?<!^)\.)(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){4}(/(3[0-2]|2[0-9]|1[0-9]|[1-9]))$'
+ipv6_regex='^[0-9a-fA-F:]+/([0-9]|[1-9][0-9]|1[0-1][0-9]|12[0-8])$'
+
+proxy_ipset4="$output_path/ipset_proxy_ipv4.txt"
+proxy_ipset6="$output_path/ipset_proxy_ipv6.txt"
+dl_ipset="$output_path/ipset_proxy.tmp"
+rm -f "$proxy_ipset4" "$proxy_ipset6"
+for ipset in ${ipsets[*]}; do
+  echo "[*] Fetching `echo $ipset | cut -d'/' -f3-`..."
+  curl -sL "$ipset" -o $dl_ipset
+  grep -P "$ipv4_regex" $dl_ipset >> $proxy_ipset4
+  grep -P "$ipv6_regex" $dl_ipset >> $proxy_ipset6
+done
+rm -f "$dl_ipset"
+
+sort "$proxy_ipset4" -o "$proxy_ipset4"
+sort "$proxy_ipset6" -o "$proxy_ipset6"
