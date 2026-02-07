@@ -1,11 +1,11 @@
-define TPROXY_MARK=0x250
-define TPROXY_PORT=2501
-define TPROXY_L4PROTO={ tcp }
+define TPROXY_MARK = 0x250
+define TPROXY_PORT = 2501
+define TPROXY_L4PROTO = { tcp, udp }
 
-define FAKEIP_V4=7.0.0.0/8
-define FAKEIP_V6=3fff::/48
+define FAKEIP_V4 = 7.0.0.0/8
+define FAKEIP_V6 = 3fff::/48
 
-define BYPASS_IPV4={
+define BYPASS_IPV4 = {
     0.0.0.0/8, 127.0.0.0/8, 169.254.0.0/16, 224.0.0.0/3,        # Reseverd for local use
     10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16, 100.64.0.0/10,   # Private network
     198.18.0.0/15, 192.0.0.0/24                                 # Internal network
