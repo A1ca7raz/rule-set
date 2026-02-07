@@ -38,23 +38,23 @@ __update_nftset() {
   }
 }
 
-update_chnroutes() {
-  __update_nftset "chnroutes" "/var/chnroutes.gz" "https://chnroutes2.cdn.skk.moe/chnroutes.txt"
-  __update_nftset "chnroutes6" "/var/chnroutes6.gz" "https://china-operator-ip.yfgao.com/china6.txt"
-  __update_nftset "proxy_routes" "/var/proxy_routes.gz" ""
-  __update_nftset "proxy_routes6" "/var/proxy_routes6.gz" ""
+update_nftsets() {
+  __update_nftset "chnroutes" "/var/tproxy_chnroutes.gz" "https://chnroutes2.cdn.skk.moe/chnroutes.txt"
+  __update_nftset "chnroutes6" "/var/tproxy_chnroutes6.gz" "https://china-operator-ip.yfgao.com/china6.txt"
+  __update_nftset "proxy_routes" "/var/tproxy_proxy_routes.gz" "https://gcore.jsdelivr.net/gh/A1ca7raz/rule-set@dist/ipset_proxy_ipv4.txt"
+  __update_nftset "proxy_routes6" "/var/tproxy_proxy_routes6.gz" "https://gcore.jsdelivr.net/gh/A1ca7raz/rule-set@dist/ipset_proxy_ipv6.txt"
 }
 
 hook_start_tproxy() {
   ip -4 route add local default dev lo table $ROUTE_TABLE
   ip -4 rule add pref $ROUTE_PREF fwmark $TPROXY_MARK table $ROUTE_TABLE
   nft -f $NFT_BASEFILE
-  update_chnroutes
+  update_nftsets
 }
 
 hook_clean_tproxy() {
   ip -4 rule del table $ROUTE_TABLE > /dev/null 2>&1
   ip -4 route flush table $ROUTE_TABLE > /dev/null 2>&1
   nft delete table $NFT_TABLE > /dev/null 2>&1
-  rm -f "$CHNROUTES_FILE"
+  rm -f "/var/tproxy_*"
 }
