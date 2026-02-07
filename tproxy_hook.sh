@@ -23,12 +23,12 @@ __update_nftset() {
       echo "flush set $NFT_TABLE $set"
       echo "add element $NFT_TABLE $set { ${NEW_LIST//$'\n'/, } }"
     else
-      local OLD_LIST=$(zcat "$file" | awk '!/:/ && NF')
+      local OLD_LIST=$(zcat "$file")
       local TO_ADD=$(comm -13 <(echo "$OLD_LIST") <(echo "$NEW_LIST"))
       local TO_DEL=$(comm -23 <(echo "$OLD_LIST") <(echo "$NEW_LIST"))
 
-      [[ $TO_ADD ]] && echo "add element $NFT_TABLE $set { ${TO_ADD//$'\n'/, } }"
-      [[ $TO_DEL ]] && echo "delete element $NFT_TABLE $set { ${TO_DEL//$'\n'/, } }"
+      [[ "$TO_ADD" ]] && echo "add element $NFT_TABLE $set { ${TO_ADD//$'\n'/, } }"
+      [[ "$TO_DEL" ]] && echo "delete element $NFT_TABLE $set { ${TO_DEL//$'\n'/, } }"
     fi
   } | nft -f - && {
     echo "$NEW_LIST" | gzip > "$file"
@@ -48,6 +48,8 @@ update_nftsets() {
 hook_start_tproxy() {
   ip -4 route add local default dev lo table $ROUTE_TABLE
   ip -4 rule add pref $ROUTE_PREF fwmark $TPROXY_MARK table $ROUTE_TABLE
+  ip -6 route add local default dev lo table $ROUTE_TABLE
+  ip -6 rule add pref $ROUTE_PREF fwmark $TPROXY_MARK table $ROUTE_TABLE
   nft -f $NFT_BASEFILE
   update_nftsets
 }
@@ -55,6 +57,8 @@ hook_start_tproxy() {
 hook_clean_tproxy() {
   ip -4 rule del table $ROUTE_TABLE > /dev/null 2>&1
   ip -4 route flush table $ROUTE_TABLE > /dev/null 2>&1
+  ip -6 rule del table $ROUTE_TABLE > /dev/null 2>&1
+  ip -6 route flush table $ROUTE_TABLE > /dev/null 2>&1
   nft delete table $NFT_TABLE > /dev/null 2>&1
-  rm -f "/var/tproxy_*"
+  rm -f /var/tproxy_*
 }
