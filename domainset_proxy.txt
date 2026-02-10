@@ -5273,6 +5273,7 @@ speedtest.greenhills.net
 speedtest.greenlightnetworks.com
 speedtest.gretna.myriverstreet.net
 speedtest.grm.net
+speedtest.grr1-mi.incx.net
 speedtest.grupoip2.com.br
 speedtest.gruponetfibra.com.br
 speedtest.gslnetworks.com
