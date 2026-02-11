@@ -904,6 +904,7 @@ cdn.imageengine.io
 cdn.imago-images.com
 cdn.imghaste.com
 cdn.insightmediagroup.io
+cdn.inviter.co
 cdn.ip2location.com
 cdn.ip2location.io
 cdn.ipinfo.io
@@ -2425,6 +2426,9 @@ i.snap.as
 i.typlog.com
 i.vgy.me
 i.xxxshake.com
+i1.xiaoyakankan.com
+i2.xiaoyakankan.com
+i3.xiaoyakankan.com
 iaea.org
 iana.org
 ibb.co
@@ -4147,6 +4151,7 @@ platform-assets.typekit.net
 platform.vox.com
 platforms.makemytrip.com
 play.gotolstoy.com
+play.modujx11.com
 play.publicradio.org
 play.vidyard.com
 play.xfvod.pro
