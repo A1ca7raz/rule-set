@@ -3964,6 +3964,7 @@ ookla01.citynet.net
 ookla1.ccspublichost.com
 ookla1.hub66.com
 ookla1.talkiefiber.com
+ookla1.the.net.1310.io
 ookla2.mbspeed.net
 ooklaserver.net
 ooklaserver1-del1.skymaxbroadband.com
@@ -5033,6 +5034,7 @@ speedtest-rs-1.zoominternet.net
 speedtest-sd-da1.scalematrix.com
 speedtest-sdt.cosys.cc
 speedtest-sea.dish-wireless.com
+speedtest-seattle.ripplefiber.com
 speedtest-server-ash.starry.com
 speedtest-server-lax.starry.com
 speedtest-server-nyc.starry.com
@@ -5586,6 +5588,7 @@ speedtest.spectrumvoip.com
 speedtest.speedfi.xyz
 speedtest.springcom.com
 speedtest.sptel.com
+speedtest.srvcyber.com
 speedtest.starhub.com
 speedtest.stellarbb.com
 speedtest.steppod.io
