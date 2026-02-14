@@ -5130,6 +5130,7 @@ speedtest-lon.retn.net
 speedtest-lon.veloxserv.net
 speedtest-lon06.vorboss.net
 speedtest-london.its-tg.net
+speedtest-losangeles.ripplefiber.com
 speedtest-mad.masmovil.com
 speedtest-mad.melbicom.net
 speedtest-marseille-10g.emtelnet.com
@@ -5281,6 +5282,7 @@ speedtest.atl1.nitelusa.net
 speedtest.atln.ga.wtsky.net
 speedtest.auratelecom.com.br
 speedtest.b2.mhn.cloud
+speedtest.barcconnects.net
 speedtest.bellaliant.net
 speedtest.belmontcountygig.com
 speedtest.bigventuresmedia.com
