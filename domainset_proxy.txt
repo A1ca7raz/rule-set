@@ -5945,6 +5945,7 @@ speedtest4.plateautel.net
 speedtest4.point-broadband.com
 speedtest5.fybercom.net
 speedtest5.nmsurf.com
+speedtest9200.sea.acsalaska.net
 speedtestac.vtal.net.br
 speedtestalbq.vexusfiber.com
 speedtestalmtelecom.com.br
