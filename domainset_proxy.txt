@@ -1,3 +1,4 @@
+-.akmcdnoversea-tw.inter.ptqy.gitv.tv
 -.antigravity.google
 -.apm-misaka.biliapi.net
 -.athome.fandango.com
@@ -7,6 +8,7 @@
 -.cbsplaylistserver.aws.syncbak.com
 -.cbsservice.aws.syncbak.com
 -.ccmdl.adobe.com
+-.chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 -.community.oneplus.com
 -.dashasiafox.akamaized.net
 -.ds-linear-abematv.akamaized.net
@@ -21,11 +23,13 @@
 -.prod-api.crackle.com
 -.staticasiafox.akamaized.net
 -.store.ui.com.cn
+-.tubi.tv
 -.tubitv.com
 -.upos-bstar-mirrorakam.akamaized.net
 -.upos-bstar1-mirrorakam.akamaized.net
 -.vudu.com
 -.wego.here.com
+-.www.tubi.tv
 -.www.tubitv.com
 1010.hkspeedtest.com
 123av.com
@@ -55,11 +59,13 @@
 4cdn.org
 4chan.org
 4everland.io
+4gtv.tv
 4shared.com
 500px.com
 500px.org
 520cc.cc
 52netflix.com
+5itv.tv
 666565.xyz
 77.testdebit.info
 7facile.brsserver.com.br
@@ -97,6 +103,7 @@ abebooks.com
 abebookscdn.com
 abema-tv.com
 abema.io
+abema.tv
 about.me
 ac
 account-widget-mfe.gcore.com
@@ -547,6 +554,7 @@ betterstackcdn.com
 bftuvip.com
 bfzypic.com
 bg
+bgm.tv
 bgp.tools
 bgstatic.com
 bhl.scpwikicn.com
@@ -558,6 +566,7 @@ bigfiles.virustotal.com
 bikaa.xyz
 bikac.xyz
 bikaios.xyz
+bilibili.tv
 biliintl.com
 binance.cc
 binance.com
@@ -620,6 +629,7 @@ bucket1.notaku.so
 bugly.qcloud.com
 builds.paranoidandroid.co
 builds.parsec.app
+bulletin.svc.litv.tv
 bundle.5gtb.com
 bundle.9gtb.com
 bundle.dyn-rev.app
@@ -659,6 +669,7 @@ ca.dyi.ng
 ca.nfs.pub
 ca00svp-speed11.svc.tds.net
 ca1.onlyhentaistuff.com
+cableav.tv
 cacerts.digicert.com
 cacerts.rapidssl.com
 cache-05.filehippo.net
@@ -743,6 +754,7 @@ cdn-widgetsrepository.yotpo.com
 cdn-www.bluestacks.com
 cdn-yotpo-images-production.yotpo.com
 cdn.17app.co
+cdn.18jav.tv
 cdn.7tv.app
 cdn.accessibly.app
 cdn.accounts.nintendo.com
@@ -1114,6 +1126,7 @@ cdn1.edgedatg.com
 cdn1.epicgames.com
 cdn1.ettoday.net
 cdn1.hentaicity.com
+cdn1.hotmoza.tv
 cdn1.identitymind.com
 cdn1.plesk.com
 cdn1.stamped.io
@@ -1281,6 +1294,7 @@ cloudflare-ipfs.com
 cloudflare.com
 cloudflare.dev
 cloudflare.ltd
+cloudflare.tv
 cloudflareaccess.com
 cloudflareapps.com
 cloudflaremirrors.com
@@ -1873,6 +1887,7 @@ experience-ap.piano.io
 explainthis.io
 explorer-api.walletconnect.com
 expressvpn.com
+ext-twitch.tv
 externulls.com
 ezocdn.com
 f-droid.org
@@ -1959,6 +1974,7 @@ findagrave.com
 finew.openspeed.org
 finitytelecom.brsserver.com.br
 finkmirrors.net
+fino.svc.litv.tv
 firebase.com
 firebaseapp.com
 firebaseio.com
@@ -2437,6 +2453,7 @@ h-cdn.co
 h-cdn.com
 hackerone-user-content.com
 hackmd.io
+hanime.tv
 hanime1.com
 hanime1.me
 hanimeone.me
@@ -2543,6 +2560,7 @@ hugebil.com
 huggingface.co
 hugoal.com
 hulu.com
+hulu.tv
 huluim.com
 hulustream.com
 huobi.com
@@ -2831,6 +2849,11 @@ img8.socialshopwave.com
 img9.socialshopwave.com
 imgair.net
 imgbox.com
+imgcn.bgmbk.tv
+imgcn2.bgmbk.tv
+imgcn3.bgmbk.tv
+imgcn4.bgmbk.tv
+imgcn5.bgmbk.tv
 imgfile.shop
 imgflip.com
 imgikuncdn.com
@@ -2956,8 +2979,10 @@ itunes.com
 itv.com
 itvstatic.com
 ivry.testdebit.info
+iwara.tv
 ixxx.com
 j.mp
+jable.tv
 jac.yahoosandbox.com
 jav.pw
 jav321.com
@@ -3039,6 +3064,7 @@ jsdelivr.ioiox.net
 jsdelivr.net
 jsfiddle.net
 jslibs.blackmagicdesign.com
+jsmodule.svc.litv.tv
 jsonplaceholder.typicode.com
 jspm.dev
 jspm.io
@@ -3830,6 +3856,7 @@ mtcspeedtest.catskill.net
 mu.st.spacecore.pro
 mubicdn.net
 mui.com
+muku.tv
 mullvad.net
 mum-speedtest.digianaspeednet.com
 mumbaispeedtest.pioneeronline.com
@@ -3844,6 +3871,7 @@ mx
 mxmcdn.net
 my
 my-json-server.typicode.com
+my5.tv
 myanimelist.net
 myanimeshelf.com
 myavlive.com
@@ -3924,6 +3952,7 @@ nitrocdn.com
 nitter.net
 nj.com
 njav.com
+njav.tv
 nl
 nl.altushost.com
 nl.st.spacecore.pro
@@ -4171,6 +4200,7 @@ ovo.wxw.moe
 ovpnleaktest.com
 owst.gilat.net
 oxfrma-speedtest-ookla-01.st.charter.com
+p-cdnstatic.svc.litv.tv
 p-smith.com
 p.depot.dev
 p.inari.site
@@ -4225,6 +4255,7 @@ peeringdb.com
 perf-01.ixn.as42689.net
 perf.keyyo.net
 perfect-privacy.com
+periscope.tv
 permaweb.io
 pgl.yoyo.org
 ph
@@ -4301,6 +4332,7 @@ playboy.com
 player-frontend.cnevids.com
 player.cnevids.com
 player.interactivity.brightcove.com
+player.svc.litv.tv
 players.brightcove.net
 playgroundcdn.typescriptlang.org
 plugins-artifacts.gradle.org
@@ -4308,6 +4340,7 @@ plugins.dprint.dev
 plugins.pubtailer.com
 plurk.com
 plus.unsplash.com
+pluto.tv
 pm
 pm1.aninoapps.com
 png.pngtree.com
@@ -4354,6 +4387,7 @@ pp-static.monotype.com
 ppa.launchpad.net
 pplusstatic.com
 pplx-res.cloudinary.com
+pptstatic.iyf.tv
 pravatar.cc
 prcdn.co
 prd-www-cdn.ubnt.com
@@ -4369,6 +4403,7 @@ primevideo.cc
 primevideo.com
 primevideo.info
 primevideo.org
+primevideo.tv
 prisma.io
 prismlauncher.org
 privacytest.info
@@ -4401,6 +4436,7 @@ prppsn.com
 ps
 ps.w.org
 pscdn.co
+pscp.tv
 pstatic.net
 pstorage.space
 ptb.speedtest.gci.net
@@ -4600,6 +4636,7 @@ runkit-packages-static.com
 runkit-packages.com
 runkitcdn.com
 s-cdn.phonearena.com
+s-cdnstatic.svc.litv.tv
 s-nbcnews.com
 s.abcnews.com
 s.gishan.cc
@@ -6008,6 +6045,7 @@ speedtestto2.tilab.com
 speedtestunonet.com.br
 speedtestus.pvdatanet.com
 speedtestvlc.zafirotelecom.com
+speedtestwa1.sweet.tv
 spetstfla04.timbrasil.com.br
 spetstmns01.timbrasil.com.br
 split.io
@@ -6229,6 +6267,7 @@ static.inflect.com
 static.ipgeolocation.io
 static.iplocate.io
 static.iris.informa.com
+static.iyf.tv
 static.izanmei.icu
 static.j51.net
 static.k2s.cc
@@ -6292,6 +6331,8 @@ static.srcspot.com
 static.staff-start.com
 static.start.me
 static.status.io
+static.svc.litv.tv
+static.tella.tv
 static.test-beta.com
 static.themebuilder.aws.arc.pub
 static.threatlocker.com
@@ -6309,6 +6350,7 @@ static.webclicks24.com
 static.whatsapp.net
 static.wwto.net
 static.xxxshake.com
+static.yfsp.tv
 static.zaobao.com
 static.zuora.com
 static1.lottiefiles.com
@@ -6443,6 +6485,7 @@ storillia.rogers.com
 storilliawireless.rogers.com
 storj.io
 storjipfs-gateway.com
+storry.tv
 storybooks.fluentui.dev
 stosat-albq-01.sys.comcast.net
 stosat-atlt-01.sys.comcast.net
@@ -6819,13 +6862,13 @@ turbo.build
 turbobit.net
 turboimg.net
 tutu1.space
-tv
 tvb.com
 tw
 twemoji.maxcdn.com
 twenty-icons.com
 twimg.co
 twimg.com
+twitch.tv
 twitchcdn.net
 twitchsvc.net
 twitpic.com
@@ -7062,6 +7105,7 @@ virtualearth.net
 visualstudio.com
 viu-static.akamaized.net
 viu.com
+viu.tv
 vivaldi.com
 vjav.com
 vjs.zencdn.net
