@@ -6184,6 +6184,7 @@ static-images.remax.com
 static-landing.probiplacehold.cot.com
 static-main.moovit.com
 static-mh.content.disney.io
+static-oforms.onlyoffice.com
 static-overlay.ubisoft.com
 static-r.kamihimeproject.net
 static-r2.gear4music.com
