@@ -641,6 +641,7 @@ bundler.nice-team.net
 bundler.wix-code.com
 bunnycdn-video-assets.b-cdn.net
 bunnycdn.com
+bursaspeedtest.pendns.net
 businessinsider.com
 busuanzi.ibruce.info
 bwh1.net
@@ -1187,6 +1188,7 @@ cdnclouder.com
 cdndoe.xyz
 cdnfonts.com
 cdnfonts.devolutions.net
+cdni.iconscout.com
 cdninstagram.com
 cdnjav.com
 cdnjhd.com
@@ -4259,6 +4261,7 @@ periscope.tv
 permaweb.io
 pgl.yoyo.org
 ph
+ph.northflank.com
 phishing.army
 phl01.screenshot.download
 phlph0001speedtestserver02.wiline.com
@@ -5594,6 +5597,7 @@ speedtest.mcr0.uk.as61049.net
 speedtest.mdtc.net
 speedtest.me.mycci.net
 speedtest.meerfarbig.net
+speedtest.meghlink.com
 speedtest.mel.mhn.cloud
 speedtest.metalink.net
 speedtest.mhcable.com
