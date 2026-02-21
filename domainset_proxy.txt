@@ -5283,6 +5283,7 @@ speedtest.alexf.cc
 speedtest.altimatel.com
 speedtest.alwyzon.net
 speedtest.ama-networx.net
+speedtest.amazonasfiber.com.br
 speedtest.americatelecom.net.br
 speedtest.amesiaaa.metronetinc.com
 speedtest.amnet.net.br
@@ -5979,6 +5980,7 @@ speedtest3.myninestar.net
 speedtest3.point-broadband.com
 speedtest3.westmancom.com
 speedtest31.suddenlink.net
+speedtest3a.socket.net
 speedtest4.ekowebtech.net
 speedtest4.ezeefiber.net
 speedtest4.fastfortechnologies.com
