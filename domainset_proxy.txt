@@ -4584,6 +4584,7 @@ resize-image.vocus.cc
 resizing.flixster.com
 resource-accel.fs.com
 resource.fs.com
+resource.logitech.com
 resource.tnlmediagene.com
 resources.allstate.com
 resources.chessbase.com
