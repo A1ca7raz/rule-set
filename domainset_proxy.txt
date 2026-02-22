@@ -5760,6 +5760,7 @@ speedtest.slic.com
 speedtest.snghosting.com
 speedtest.snnet.com.br
 speedtest.softechinfosol.com
+speedtest.softwareeni.com
 speedtest.sogetel.net
 speedtest.solutechzk.com
 speedtest.sonepat.softechinfosol.com
