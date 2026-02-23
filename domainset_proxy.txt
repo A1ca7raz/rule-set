@@ -819,6 +819,7 @@ cdn.concert.io
 cdn.configcat.com
 cdn.consentmanager.net
 cdn.contentful.com
+cdn.convertbox.com
 cdn.conveythis.com
 cdn.cookielaw.org
 cdn.corso.com
@@ -5294,6 +5295,7 @@ speedtest.ams0.nl.as61049.net
 speedtest.ams1.hivelocity.net
 speedtest.ams1.macarne.com
 speedtest.ams14.usenet.farm
+speedtest.amsterdam.valtrix.org
 speedtest.angolacables.co.ao
 speedtest.ank01.edge.kernzen.com
 speedtest.anksoft.net
