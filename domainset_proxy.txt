@@ -393,6 +393,7 @@ assets.mailgun.com
 assets.map.brightcove.com
 assets.mastercard.com
 assets.matters.news
+assets.maxon.net
 assets.mcp.corespeed.io
 assets.media-platform.com
 assets.monei.com
@@ -3871,6 +3872,7 @@ muscdn.com
 mvnrepository.com
 mwf-service.akamaized.net
 mx
+mx-app-blob-prod.maxon.net
 mxmcdn.net
 my
 my-json-server.typicode.com
