@@ -372,6 +372,7 @@ assets.freespeechcoalition.com
 assets.frontegg.com
 assets.gcore.pro
 assets.geeksforgeeks.org
+assets.gemcommerce.com
 assets.getkirby.com
 assets.getpocket.com
 assets.getpostman.com
@@ -1331,6 +1332,7 @@ cms-cdn.goat.com
 cms.blavity.com
 cms.myfonts.com
 cms.recordedfuture.com
+cms.socialinsider.io
 cms.therecord.media
 cms.typenetwork.com
 cms.worldpokerdeals.com
@@ -1965,6 +1967,7 @@ filebin.net
 filecunhua.top
 files.1drv.com
 files.buildwithfern.com
+files.gempages.net
 files.mastodon.online
 files.namecheap.com
 files.readme.io
@@ -2716,6 +2719,7 @@ images.icon-icons.com
 images.idgesg.net
 images.indianexpress.com
 images.justwatch.com
+images.klipfolio.com
 images.loox.io
 images.macrumors.com
 images.mathworks.com
@@ -2732,6 +2736,7 @@ images.purevpn-tools.com
 images.samsung.com
 images.scalero.io
 images.scrolller.com
+images.socialblade.com
 images.softwaresuggest.com
 images.spectrumnews1.com
 images.spr.so
@@ -2868,6 +2873,7 @@ imglink.win
 imgmrplay.xyz
 imgpng.xyz
 imgproxy.fourthwall.com
+imgs.socialinsider.io
 imgs02.aventertainments.com
 imgs3.hcaptcha.com
 imgssl.constantcontact.com
@@ -7222,6 +7228,7 @@ widget.usepylon.com
 widget.user.com
 widget.usersnap.com
 widgets.automizely.com
+widgets.goaffpro.app
 widgets.listenlive.co
 widgets.outbrain.com
 widgets.pinterest.com
