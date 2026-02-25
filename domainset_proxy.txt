@@ -5864,6 +5864,7 @@ speedtest.warian.net
 speedtest.warsaw.valtrix.org
 speedtest.waterloofiber.com
 speedtest.wb1.loopinternet.com
+speedtest.wccta.com
 speedtest.webdiscount.net
 speedtest.webfibertelecom.com.br
 speedtest.webturbo.net.br
