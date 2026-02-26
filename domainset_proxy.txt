@@ -786,6 +786,7 @@ cdn.bfe.dev
 cdn.bfldr.com
 cdn.bigcloud.click
 cdn.birdie.so
+cdn.bitmovin.com
 cdn.blogarama.com
 cdn.bogos.io
 cdn.boldmethod.com
@@ -2460,6 +2461,7 @@ h-cdn.co
 h-cdn.com
 hackerone-user-content.com
 hackmd.io
+hanime-cdn.com
 hanime.tv
 hanime1.com
 hanime1.me
@@ -2573,6 +2575,7 @@ hulustream.com
 huobi.com
 huobi.pro
 hwinfo.com
+hydaelyn-25x-18.top
 hyvor.com
 hzl.speedtest.secv.com
 i.111666.best
@@ -2678,10 +2681,16 @@ image.worthepenny.com
 image.xmanhua.net
 image.yymanhua.com
 image8899.net
+imageb.top
 imagebam.com
+imagec.top
 imagecdn.mixlr.com
+imaged.top
 imagedelivery.net
+imagee.top
+imagef.top
 imagefap.com
+imageg.top
 imagehub.cc
 imagekit.io
 imagepost.com
@@ -3148,7 +3157,6 @@ kwcdn.com
 kym-cdn.com
 la-ookla.geolinks.com
 laby.net
-larksuitecdn.com
 lasspeed.sharktech.net
 lasvegas-speedtest.commnetbroadband.com
 latam.orbitor.dev
@@ -3176,6 +3184,7 @@ leetcode.com
 lencr.org
 lethe.chinstrap.org
 letsencrypt.org
+lf16-larkversion.larksuitecdn.com
 lg-ams.fdcservers.net
 lg-atl.fdcservers.net
 lg-chie.fdcservers.net
@@ -3939,6 +3948,7 @@ newsweek.com
 newyorker.com
 nextdns.io
 nextjs.org
+nextplore.vercel.zapier-deployment.com
 nextra.site
 nextui.org
 nflxext.com
@@ -4217,6 +4227,8 @@ p.depot.dev
 p.inari.site
 p.sda1.dev
 p.typekit.net
+p16-hera-sg.larksuitecdn.com
+p16-hera-va.larksuitecdn.com
 pa1.aninoapps.com
 package-assets.oomol.com
 packagecloud.io
@@ -4785,7 +4797,10 @@ sex
 sex.com
 sf-coze-web-cdn.coze.com
 sf-flow-web-cdn.ciciai.com
+sf-ibf-sg.larksuitecdn.com
+sf-ibf-va.larksuitecdn.com
 sf.net
+sf19-scmcdn.larksuitecdn.com
 sfbassets.com
 sfdcstatic.com
 sfiles.cnyes.cool
