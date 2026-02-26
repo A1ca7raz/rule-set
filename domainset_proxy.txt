@@ -5781,6 +5781,7 @@ speedtest.spectrumvoip.com
 speedtest.speedfi.xyz
 speedtest.springcom.com
 speedtest.sptel.com
+speedtest.squirrellogic.com
 speedtest.srvcyber.com
 speedtest.starhub.com
 speedtest.stellarbb.com
