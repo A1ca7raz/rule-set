@@ -796,6 +796,7 @@ cdn.brandfetch.io
 cdn.britannica.com
 cdn.builder.io
 cdn.bullwhip.cloud
+cdn.buttercms.com
 cdn.buymeacoffee.com
 cdn.c1.amplience.net
 cdn.calibermind.com
@@ -1807,6 +1808,7 @@ ebayimg.com
 ebaystatic.com
 ec
 eclats.crans.org
+eclipsecontent.org
 economist.com
 edge.marker.io
 edge.personalizer.io
@@ -2552,6 +2554,7 @@ hsto.org
 html5rocks.com
 http.krfoss.org
 httpd-mirror.sergal.org
+htv-hydaelyn.com
 hub-assets.displaycal.net
 hubspotlinks.com
 hubspotlinksstarter.com
@@ -2734,6 +2737,7 @@ images.macrumors.com
 images.mathworks.com
 images.mattel.net
 images.microcms-assets.io
+images.mobilism.org
 images.moegoat.com
 images.moovitapp.com
 images.now-tv.com
@@ -6383,6 +6387,7 @@ static.vanta.com
 static.vinted.com
 static.vocadb.net
 static.webclicks24.com
+static.websites.data-crypt.com
 static.whatsapp.net
 static.wwto.net
 static.xxxshake.com
@@ -7119,6 +7124,7 @@ version.cyberduck.io
 vesselfinder.com
 vesselfinder.net
 vfat.classicreload.com
+vg-bunny-cdn.b-cdn.net
 via0.com
 viber.com
 viblast.com
