@@ -4822,6 +4822,7 @@ sgarooklaspeed1.jioconnect.com
 sghome.govpro.app
 sgmlooklaspeed1.jioconnect.com
 sgn-nperf.verizon.net
+sgp-speedtest.limtechlabs.top
 sgspeed.chinaunicomglobal.com
 sh
 shadowsocks.org
