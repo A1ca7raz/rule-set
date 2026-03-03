@@ -3932,6 +3932,7 @@ nel.bgptools-agent-cf.com
 nelreports.net
 nest.com
 nest.land
+net-ookla-dc.p.foundation
 net.anydesk.com
 netflix.com
 netflix.net
