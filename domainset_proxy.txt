@@ -844,6 +844,7 @@ cdn.db.io
 cdn.decrypt.co
 cdn.decrypt.day
 cdn.delight-vr.com
+cdn.delve.co
 cdn.designsystem.arm.com
 cdn.deta.space
 cdn.devdojo.com
@@ -1756,6 +1757,7 @@ download.savannah.gnu.org
 download.snipaste.com
 download.sysinternals.com
 download.todesktop.com
+download.umbrel.com
 download.visualstudio.microsoft.com
 download2.epicgames.com
 download3.epicgames.com
@@ -6928,6 +6930,7 @@ txg-speedtest.infinirc.com
 ty-bgp-speedtest.nearoute.io
 tyo.st.spacecore.pro
 typedoc.org
+typeless-static.com
 typescript-eslint.io
 typography.com
 typora.io
