@@ -5215,6 +5215,7 @@ speedtest-msk.melbicom.net
 speedtest-msk.refoxcloud.xyz
 speedtest-msk.retn.net
 speedtest-mtl.beanfield.com
+speedtest-net-fra.dispaisy.systems
 speedtest-net.xjtlu.edu.cn
 speedtest-nl.bellaliant.net
 speedtest-nl.hyperfilter.com
@@ -5976,6 +5977,7 @@ speedtest1.tecsattelecom.net.br
 speedtest1.top-ix.org
 speedtest1.whsdk12.net
 speedtest1.xbase.com
+speedtest10.haashnet.com
 speedtest10.vqbn.com
 speedtest10g.atl.as13760.net
 speedtest10g.bhm.as13760.net
@@ -6244,6 +6246,7 @@ static.afterpay.com
 static.ahrefs.com
 static.ahu.moe
 static.aizanmei.org
+static.ampcode.com
 static.amplience.net
 static.animaapp.com
 static.aninoapps.com
