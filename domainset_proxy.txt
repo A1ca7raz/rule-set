@@ -764,6 +764,7 @@ cdn.accounts.nintendo.com
 cdn.activity.smart-bdash.com
 cdn.adguard.info
 cdn.affine.pro
+cdn.affonso.io
 cdn.amcharts.com
 cdn.amgreatness.com
 cdn.animenewsnetwork.com
@@ -1094,6 +1095,7 @@ cdn.usd.fan
 cdn.userreport.com
 cdn.userway.org
 cdn.vector.co
+cdn.vemetric.com
 cdn.verifypass.com
 cdn.viafoura.net
 cdn.vidyard.com
@@ -5924,6 +5926,7 @@ speedtest.xprimehost.com
 speedtest.yalniz.net
 speedtest.zenex5ive.com
 speedtest.zentrointernet.com
+speedtest.zerospace.cloud
 speedtest.zivlinaa.metronetinc.com
 speedtest.zoominternet.net
 speedtest001.bfinetworks.com
