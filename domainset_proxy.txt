@@ -360,6 +360,7 @@ assets.customer.io
 assets.cyberghostvpn.com
 assets.dnsfilter.com
 assets.documentcloud.org
+assets.driffle.com
 assets.dub.co
 assets.embeddables.com
 assets.endorsely.com
@@ -415,6 +416,7 @@ assets.positional-bucket.com
 assets.queue-it.net
 assets.redbullshop.com
 assets.repair.org
+assets.reviews.io
 assets.safing.io
 assets.salesmartly.com
 assets.scaleflex.com
@@ -765,6 +767,7 @@ cdn.activity.smart-bdash.com
 cdn.adguard.info
 cdn.affine.pro
 cdn.affonso.io
+cdn.allkeyshop.com
 cdn.amcharts.com
 cdn.amgreatness.com
 cdn.animenewsnetwork.com
@@ -6283,6 +6286,7 @@ static.coinall.ltd
 static.comicbz.com
 static.corespeed.io
 static.domains
+static.driffle.com
 static.edge.microsoftapp.net
 static.elfsight.com
 static.esimplus.net
@@ -6469,7 +6473,6 @@ steamcontent.com
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
-steamserver.net
 steamstatic.com
 steamusercontent.com
 stedmontonwireless.rogers.com
@@ -7254,12 +7257,14 @@ whoer.net
 widen.net
 widencdn.net
 widevine.com
+widget.allkeyshop.com
 widget.automizely.com
 widget.cluster.groovehq.com
 widget.clutch.co
 widget.finlogix.com
 widget.freshworks.com
 widget.gotolstoy.com
+widget.reviews.io
 widget.usepylon.com
 widget.user.com
 widget.usersnap.com

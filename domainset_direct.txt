@@ -1,4 +1,3 @@
-+.cm.steampowered.com
 +.steamstatic.com
 -.acg.tv
 -.api.smoot.apple.cn
@@ -351,6 +350,7 @@ clientflow.apple.com
 clientflow.apple.com.akadns.net
 cloudglab.com
 cls.cn
+cm.steampowered.com
 cmbchina.cn
 cmbchina.com
 cmbimg.cn
@@ -738,6 +738,7 @@ lan
 lancdn.com
 landian.vip
 landiannews.com
+lcdn-locator.apple.com
 le.com
 leaguehd.com
 leetcode-cn.com
