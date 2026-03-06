@@ -4112,6 +4112,7 @@ ookla-lax.extentit.com
 ookla-london.briantbroadband.com
 ookla-london01.tropicalgames.net
 ookla-mia.gigsouth.com
+ookla-mispeed.rackgenius.com
 ookla-speedtest.fsr.com
 ookla-speedtest.iu13.net
 ookla-speedtests.e2ro.com
