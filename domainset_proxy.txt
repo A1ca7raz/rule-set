@@ -476,6 +476,7 @@ atom.com
 attach.setn.com
 au
 au.st.spacecore.pro
+au1.ocean.host
 aurora-customization-usw2.lithium.com
 aus-nperf.verizon.net
 auth0.com
@@ -4037,6 +4038,7 @@ nxedge.io
 ny.st.spacecore.pro
 ny00svp-speed11.svc.tds.net
 ny1.com
+ny1.ocean.host
 ny2-speedtest.tier.net
 ny3-speedtest.tier.net
 nyaa.land
@@ -5035,6 +5037,7 @@ spdtst.iad.xenyth.net
 spdtst.xenyth.net
 spec.org
 speed-bhm2.cspirefiber.com
+speed-miss.systemlifeline.com
 speed-mix.dimensione.com
 speed-rm.dimensione.com
 speed-server3.summit-broadband.com
@@ -5326,6 +5329,7 @@ speedtest.altimatel.com
 speedtest.alwyzon.net
 speedtest.ama-networx.net
 speedtest.amazonasfiber.com.br
+speedtest.amazontelecom.com.br
 speedtest.americatelecom.net.br
 speedtest.amesiaaa.metronetinc.com
 speedtest.amnet.net.br
