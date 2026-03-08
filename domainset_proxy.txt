@@ -5039,6 +5039,7 @@ spec.org
 speed-bhm2.cspirefiber.com
 speed-miss.systemlifeline.com
 speed-mix.dimensione.com
+speed-oak.systemlifeline.com
 speed-rm.dimensione.com
 speed-server3.summit-broadband.com
 speed-test.ukservers.com
@@ -5373,6 +5374,7 @@ speedtest.b2.mhn.cloud
 speedtest.barcconnects.net
 speedtest.bellaliant.net
 speedtest.belmontcountygig.com
+speedtest.bemol.com.br
 speedtest.bigventuresmedia.com
 speedtest.bitel.io
 speedtest.bkfiber.com
