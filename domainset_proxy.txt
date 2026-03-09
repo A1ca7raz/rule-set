@@ -795,6 +795,7 @@ cdn.bitmovin.com
 cdn.blogarama.com
 cdn.bogos.io
 cdn.boldmethod.com
+cdn.boostcommerce.io
 cdn.botframework.com
 cdn.branch.io
 cdn.brandfetch.io
@@ -879,6 +880,7 @@ cdn.fluidplayer.com
 cdn.fontshare.com
 cdn.fosstodon.org
 cdn.fourthwall.com
+cdn.foxycart.com
 cdn.freebiesupply.com
 cdn.freesound.org
 cdn.freshdesk.com
@@ -901,6 +903,7 @@ cdn.hero-sms.com
 cdn.hextom.com
 cdn.highporn.net
 cdn.hiive.space
+cdn.himetrica.com
 cdn.hinative.com
 cdn.hongkongcard.com
 cdn.hubble.team
@@ -1519,6 +1522,7 @@ data.debugbear.com
 data.pendo.io
 data.schemaapp.com
 data.web.clickup.com
+data3.answerbase.com
 dataplane.rudderstack.com
 datocms-assets.com
 daum.net
@@ -6209,6 +6213,7 @@ st2.wificanarias.com
 st2a.les.net
 st3.surajnetwork.com
 st3.wificanarias.com
+stackassets.com
 stackblitz.com
 stackblitz.io
 stackexchange.com
