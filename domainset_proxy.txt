@@ -4032,6 +4032,7 @@ npms.io
 npr.org
 ns-cdn.neustar.biz
 ns1.fab5network.com
+ns10.fab5network.com
 nsfwr34.com
 nsimg.net
 nssurge.com
@@ -4904,6 +4905,7 @@ slack-imgs.com
 slack.com
 slackhq.com
 sleazyfork.org
+slgrooklaspeed1.jioconnect.com
 slideshare.net
 slidesharecdn.com
 sllgooklaspeed1.jioconnect.com
