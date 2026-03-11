@@ -1898,6 +1898,7 @@ eu2.hamreus.com
 eu3.hamreus.com
 euc-widget.freshworks.com
 euronews.com
+event-assets.gsma.com
 events.backtrace.io
 events.ld.catamorphic.com
 events.tableplus.com
@@ -1923,6 +1924,7 @@ f002.backblazeb2.com
 f003.backblazeb2.com
 f004.backblazeb2.com
 f8.com
+fa.gsma.com
 faceit-cdn.net
 fakestoreapi.com
 fanbox.cc
@@ -2036,6 +2038,7 @@ fonts.cat.net
 fonts.codeberg.org
 fonts.com
 fonts.gishan.cc
+fonts.gsma.com
 fonts.loox.io
 fonts.mailerlite.com
 fonts.net

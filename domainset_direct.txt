@@ -30,6 +30,7 @@
 -.ocsp.globalsign.com
 -.ocsp2.globalsign.com
 -.pi.hole
+-.public.localsend.org
 -.repeater.asus.com
 -.res-1.cdn.office.net
 -.res-2.cdn.office.net
