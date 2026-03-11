@@ -4594,6 +4594,7 @@ reimu.net
 release.runcloud.io
 releases.grapheneos.org
 releases.hashicorp.com
+releases.landrop.app
 releases.warp.dev
 releases.whatpulse.org
 reload.getsentry.net
@@ -4965,6 +4966,7 @@ sp01.rbfibra.net.br
 sp1.adnbroadband.com
 sp1.angelbroadband.com
 sp1.asthriona.com
+sp1.biocablesur.cl
 sp1.boomerangtelecom.com.br
 sp1.burstfire.net
 sp1.campanaworks.com
@@ -5229,6 +5231,7 @@ speedtest-mci.dish-wireless.com
 speedtest-mel.vocus.net
 speedtest-melbourne.macquarietelecom.com
 speedtest-mia.dish-wireless.com
+speedtest-miami.grupogtd.com
 speedtest-msk.melbicom.net
 speedtest-msk.refoxcloud.xyz
 speedtest-msk.retn.net
@@ -5889,6 +5892,7 @@ speedtest.us-la.kamatera.com
 speedtest.us-mi2.kamatera.com
 speedtest.us-se.kamatera.com
 speedtest.us-tx.kamatera.com
+speedtest.us.grupogtd.com
 speedtest.us.mirhosting.net
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
