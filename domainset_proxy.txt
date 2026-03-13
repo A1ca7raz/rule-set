@@ -5178,6 +5178,7 @@ speedtest-atl.dish-wireless.com
 speedtest-atl.melbicom.net
 speedtest-aus.chainlinkhosting.com
 speedtest-az.bambroadband.com
+speedtest-az.survivalflight.net
 speedtest-baltimore.greenlightnetworks.com
 speedtest-bd-1.zoominternet.net
 speedtest-binghamton.greenlightnetworks.com
