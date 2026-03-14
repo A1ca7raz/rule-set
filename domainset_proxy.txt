@@ -423,6 +423,7 @@ assets.scaleflex.com
 assets.scaleway.com
 assets.sendinblue.com
 assets.shazam.com
+assets.shots.so
 assets.slater.app
 assets.sololearn.com
 assets.speedvitals.com
@@ -1776,6 +1777,7 @@ downloads.cloudflareclient.com
 downloads.cursor.com
 downloads.lemonsqueezy.com
 downloads.majestic.com
+downloads.portainer.io
 downloads.x-wrt.com
 downloads.xiph.org
 downloads.xrite.com
@@ -3107,6 +3109,7 @@ jsmodule.svc.litv.tv
 jsonplaceholder.typicode.com
 jspm.dev
 jspm.io
+jspm.org
 jsr.io
 jssdk.opin.media
 jssdkcdns.mparticle.com
