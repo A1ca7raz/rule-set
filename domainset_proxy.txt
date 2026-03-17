@@ -1770,6 +1770,7 @@ download.sysinternals.com
 download.todesktop.com
 download.umbrel.com
 download.visualstudio.microsoft.com
+download01.logi.com
 download2.epicgames.com
 download3.epicgames.com
 download4.epicgames.com
@@ -1988,6 +1989,7 @@ filecunhua.top
 files.1drv.com
 files.buildwithfern.com
 files.gempages.net
+files.ghostty.org
 files.mastodon.online
 files.namecheap.com
 files.readme.io
@@ -2467,6 +2469,7 @@ gumroad.com
 guru
 guwahati-speedtest.ishancloud.com
 gv.com
+gvc-speed.twmbroadband.com
 gvt0.com
 gvt1.com
 gvt2.com
@@ -2549,6 +2552,7 @@ hkepc.com
 hkspeedtest.netvigator.com
 hkt.hkspeedtest.com
 hkthspeedtest02.telstraglobal.net
+hl-speed.twmbroadband.com
 hls.hentaicity.com
 holopin.io
 home.integrate.com
@@ -3365,6 +3369,7 @@ maven.neoforged.net
 max.com
 maxjav.com
 mayoclinic.org
+mct-speed.twmbroadband.com
 mcusercontent.com
 md
 me.com
@@ -4311,6 +4316,7 @@ permaweb.io
 pgl.yoyo.org
 ph
 ph.northflank.com
+phc-speed.twmbroadband.com
 phishing.army
 phl01.screenshot.download
 phlph0001speedtestserver02.wiline.com
@@ -5267,6 +5273,7 @@ speedtest-phl.dish-wireless.com
 speedtest-phx.dish-wireless.com
 speedtest-pit.omnifiber.com
 speedtest-pl.the.hosting
+speedtest-preston-wv.prodigiwv.net
 speedtest-prs.vts.bf
 speedtest-pth.vocus.net
 speedtest-rd-1.zoominternet.net
@@ -6892,6 +6899,7 @@ tokto-motion.net
 tokyomotion.net
 tokyonline.com
 tokyvideo.com
+tomshardware-data.community.forum
 toolforge.org
 tools.refokus.com
 top1cdn.top1health.com
@@ -7433,6 +7441,7 @@ yarnpkg.com
 yastatic.net
 yelpcdn.com
 yimg.com
+yjl-speed.twmbroadband.com
 ymq.cool
 you.com
 youjizz.com
