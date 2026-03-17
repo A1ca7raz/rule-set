@@ -255,6 +255,7 @@ app-analytics-services.com
 app-api.vidjet.io
 app-cdn.logo.com
 app-spm.com
+app-static-prod.posthog.com
 app-static.eu.posthog.com
 app-static.turtl.co
 app-updates.agilebits.com
