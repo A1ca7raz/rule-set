@@ -3994,6 +3994,7 @@ nhentai.com
 nhentai.net
 nhentaimg.com
 nic.funet.fi
+nic2.speedtest.mire.sfr.net
 nicehash.com
 nightly.link
 nikkei.com
@@ -5633,6 +5634,7 @@ speedtest.labixe.net
 speedtest.lagrangeremcisp.net
 speedtest.lakelandnetworks.com
 speedtest.lamasatpro.com
+speedtest.lanvegas.com.br
 speedtest.las.sharktech.net
 speedtest.lax.gigenet.com
 speedtest.lax.hivelocity.net
