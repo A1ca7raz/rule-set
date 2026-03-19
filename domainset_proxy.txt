@@ -204,6 +204,7 @@ anpoimages.com
 anpustream.com
 ant.design
 anthropic.com
+antiqua-ux-cdn.monotype.com
 anyhentai.com
 anyporn.com
 anysex.com
@@ -1451,6 +1452,7 @@ cpan.tetaneutral.net
 cpan.zbr.pt
 cpp-content.bhn.cards
 cpuid.com
+cr.yandex
 craftassets.unraid.net
 crashlytics.com
 crates.io
@@ -1608,6 +1610,7 @@ designsystem.brevo.com
 desktop.parallels.com
 desmos.com
 detnews.com
+dev.visualwebsiteoptimizer.com
 deviantart.com
 deviantart.net
 devicons.railway.com
@@ -3370,6 +3373,7 @@ maven.neoforged.net
 max.com
 maxjav.com
 mayoclinic.org
+mcr.microsoft.com
 mct-speed.twmbroadband.com
 mcusercontent.com
 md
@@ -6375,6 +6379,7 @@ static.microsoft
 static.mocortech.com
 static.moegoat.com
 static.monei.net
+static.monotype.com
 static.moonpay.com
 static.music.com
 static.mytonwallet.io
