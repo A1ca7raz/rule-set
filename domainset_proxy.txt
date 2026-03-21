@@ -611,6 +611,7 @@ bnbstatic.com
 bombay-speedtest.ishancloud.com
 bookface-static.ycombinator.com
 boomio-cdn.com
+boot.arcboxcdn.com
 boot.netboot.xyz
 bootstrapcdn.com
 botsrv2.com
@@ -4789,6 +4790,7 @@ scribdassets.com
 script.custobar.com
 scripts.gatorapi.com
 scripts.scriptwrapper.com
+scripts.tabler.io
 scripts.webeo.com
 sdk-cdn.fun.xyz
 sdk-static.loyaltylion.net
