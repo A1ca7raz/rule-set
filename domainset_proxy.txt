@@ -1783,6 +1783,7 @@ downloads.cloudflareclient.com
 downloads.cursor.com
 downloads.lemonsqueezy.com
 downloads.majestic.com
+downloads.marketplace.jetbrains.com
 downloads.portainer.io
 downloads.x-wrt.com
 downloads.xiph.org
