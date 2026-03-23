@@ -7461,6 +7461,7 @@ www-res.cablelabs.com
 www.10086.win
 www.bbthat.com
 www.envoyproxy.io
+www.fumadocs.dev
 www.gnu.org
 www.gnupg.org
 www.pngmart.com
