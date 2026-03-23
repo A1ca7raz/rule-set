@@ -5702,6 +5702,7 @@ speedtest.lucas.company
 speedtest.luminet.cr
 speedtest.lumischvps.cloud
 speedtest.lumos.net
+speedtest.lungustefan.com
 speedtest.lwlcom.net
 speedtest.maanglobalnetworks.com
 speedtest.macapatelecom.net.br
@@ -5755,6 +5756,7 @@ speedtest.ncn.net
 speedtest.nehost.site
 speedtest.neitel.net
 speedtest.nemr.net
+speedtest.nesildc.com
 speedtest.net
 speedtest.net360.cloud
 speedtest.netafy.com
