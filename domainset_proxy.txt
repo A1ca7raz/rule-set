@@ -458,6 +458,7 @@ assets.zilliz.com
 assets0.headwayapp.co
 assets1.lottiefiles.com
 assets10.lottiefiles.com
+assets2.blubrry.com
 assets2.canny.io
 assets2.lottiefiles.com
 assets3.lottiefiles.com
@@ -1136,6 +1137,7 @@ cdn.zapier.com
 cdn.zeabur.com
 cdn.zhujiwiki.com
 cdn.zigpoll.com
+cdn.zolplay.com
 cdn0-i.techbang.com
 cdn0.dan.com
 cdn0.techbang.com
@@ -2779,6 +2781,7 @@ images.pexels.com
 images.pling.com
 images.prismic.io
 images.purevpn-tools.com
+images.rss.app
 images.samsung.com
 images.scalero.io
 images.scrolller.com
@@ -3014,6 +3017,7 @@ ipleak.net
 ipns.co
 iporntv.net
 ipstatp.com
+ipxy.io
 iq.com
 ir
 ir.ubuntu.sindad.cloud
@@ -6368,6 +6372,7 @@ static.animaapp.com
 static.aninoapps.com
 static.arxiv.org
 static.assetlab.io
+static.assets-stash.eet-china.com
 static.beebom.com
 static.bit.cloud
 static.bit.dev
