@@ -477,6 +477,7 @@ at
 atlassian.com
 atlassian.net
 atlat0001speedtestserver01.wiline.com
+atlat0001speedtestserver02.wiline.com
 atom.com
 attach.setn.com
 au
@@ -1806,6 +1807,7 @@ drtvpdspeedtestb.voiped.com
 dsc.cloud
 dssott.com
 dtci-pe-vp-image-resizer.platform.edgedatg.com
+dubassets.com
 dubcdn.com
 duck.com
 duckduckgo.com
@@ -3973,6 +3975,7 @@ ndtv.com
 ndtvimg.com
 nel.bgptools-agent-cf.com
 nelreports.net
+neolinktt-speed.net
 nest.com
 nest.land
 net-ookla-dc.p.foundation
@@ -6098,6 +6101,7 @@ speedtest10g.atl.as13760.net
 speedtest10g.bhm.as13760.net
 speedtest10g.ics-llc.net
 speedtest11.hotspot.koeln
+speedtest120.dal1.tx.hostedbackbone.net
 speedtest13.suddenlink.net
 speedtest14.point-broadband.com
 speedtest15.suddenlink.net
@@ -6299,6 +6303,7 @@ st.ruinet.work
 st0.dal.tularosa.net
 st02.fynncloud.net
 st02.mtnsat.net
+st04.mtnsat.net
 st1-lax.panaops.com
 st1.htva.net
 st1.liberty-connect.com
