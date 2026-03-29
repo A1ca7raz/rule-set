@@ -5258,6 +5258,7 @@ speedtest-hv-1.zoominternet.net
 speedtest-iad.acreto.net
 speedtest-iad.dish-wireless.com
 speedtest-ict.ideatek.com
+speedtest-iowa.airstreamcomm.net
 speedtest-it.the.hosting
 speedtest-jp.tgb-host.com
 speedtest-jp.unihost.com
