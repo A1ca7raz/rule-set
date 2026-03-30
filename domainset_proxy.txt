@@ -2472,6 +2472,7 @@ grok.com
 groq.com
 ground.news
 groundnews.b-cdn.net
+grouponcdn.com
 gs
 gsrc.io
 gstatic.com
@@ -2777,6 +2778,7 @@ images.microcms-assets.io
 images.mobilism.org
 images.moegoat.com
 images.moovitapp.com
+images.nebula.tv
 images.now-tv.com
 images.nvidia.com
 images.pexels.com
@@ -6328,6 +6330,7 @@ staffdigital.com.br
 staging-pubfeed.linkby.com
 stajax.rogers.com
 stapecdn.com
+starlight.nebula.tv
 start-page.buffer.com
 startpage.com
 static-00.iconduck.com
@@ -7477,6 +7480,7 @@ www.envoyproxy.io
 www.fumadocs.dev
 www.gnu.org
 www.gnupg.org
+www.librespeed.fi
 www.pngmart.com
 www.s81c.com
 www.tbstat.com
@@ -7566,6 +7570,7 @@ ziglang.org
 zippyshare.com
 zkcdn.net
 zndsk.com
+zobj.net
 zod.dev
 zohocdn.com
 zohostatic.com
