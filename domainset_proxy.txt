@@ -441,6 +441,7 @@ assets.streamlinehq.com
 assets.swoogo.com
 assets.tatlerasia.com
 assets.the-independent.com
+assets.tigerdata.com
 assets.tokopedia.net
 assets.tvtropes.org
 assets.unifi-ai.com
@@ -840,6 +841,7 @@ cdn.convertbox.com
 cdn.conveythis.com
 cdn.cookielaw.org
 cdn.corso.com
+cdn.cr-proxy.com
 cdn.craft.cloud
 cdn.create.microsoft.com
 cdn.credible.com
@@ -1758,6 +1760,7 @@ download.dm.origin.com
 download.eassos.com
 download.edovia.com
 download.epicgames.com
+download.garmin.com
 download.gigabyte.com
 download.gimp.org
 download.jetbrains.com
@@ -2055,6 +2058,7 @@ fonts.bunny.net
 fonts.cat.net
 fonts.codeberg.org
 fonts.com
+fonts.garmin.com
 fonts.gishan.cc
 fonts.gsma.com
 fonts.loox.io
@@ -2162,6 +2166,7 @@ gameflare.com
 gameloft.com
 gamesgamescdn.com
 gammacdn.com
+garmincdn.com
 gartner.com
 gate.io
 gateway.originprotocol.com
@@ -4136,6 +4141,7 @@ olympics.com
 omaha.speedtest.fiberfirst.com
 omniroot.com
 omnisnippet1.com
+omtmapupdate.garmin.com
 on-fleek.app
 on.cc
 one
@@ -4666,6 +4672,7 @@ repos.interior.edu.uy
 repository.jboss.org
 res.cloudinary.com
 res.craft.do
+res.garmin.com
 res2.weblium.site
 rescript-lang.org
 resize-image.vocus.cc
@@ -4889,6 +4896,7 @@ sgp-speedtest.limtechlabs.top
 sgspeed.chinaunicomglobal.com
 sh
 shadowsocks.org
+share-assets.fe.garmin.com
 share.chessbase.com
 sharepoint.com
 sharepointonline.com
@@ -6140,6 +6148,7 @@ speedtest3.airbeam.cloud
 speedtest3.connectja.com.br
 speedtest3.dal.nxlink.com
 speedtest3.myninestar.net
+speedtest3.networks.bt.com
 speedtest3.point-broadband.com
 speedtest3.westmancom.com
 speedtest31.suddenlink.net
@@ -6151,6 +6160,7 @@ speedtest4.plateautel.net
 speedtest4.point-broadband.com
 speedtest5.fybercom.net
 speedtest5.nmsurf.com
+speedtest61.turk.net
 speedtest9200.sea.acsalaska.net
 speedtestac.vtal.net.br
 speedtestalbq.vexusfiber.com
@@ -6423,6 +6433,7 @@ static.filestackapi.com
 static.foxbusiness.com
 static.frame.work
 static.freeimages.com
+static.garmin.com
 static.getbutton.io
 static.getpostman.com
 static.giant-bicycles.com
