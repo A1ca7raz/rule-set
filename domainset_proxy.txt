@@ -5166,6 +5166,7 @@ speed.turbodc.com
 speed.turbonetce.com.br
 speed.ultranetrr.com.br
 speed.upnetcaucaia.com.br
+speed.wdtcinfo.com
 speed.webseitenserver.com
 speed.weendeavor.com
 speed.x-sy.com
@@ -6221,6 +6222,7 @@ speedtestspeednet.com.br
 speedtestsrs.angelbroadband.com
 speedtestss2.angelbroadband.com
 speedtestto2.tilab.com
+speedtesttucson.arkdnacloud.com
 speedtestunonet.com.br
 speedtestus.pvdatanet.com
 speedtestvlc.zafirotelecom.com
