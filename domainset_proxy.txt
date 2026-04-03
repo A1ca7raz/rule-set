@@ -5116,6 +5116,7 @@ speed.brandaonet.com.br
 speed.btcbroadband.com
 speed.circlecityinternet.com
 speed.ckt.net
+speed.clair.global
 speed.connextelecom.com.br
 speed.cronomagic.com
 speed.cyborgtelecom.com.br
@@ -5239,6 +5240,7 @@ speedtest-az.bambroadband.com
 speedtest-az.survivalflight.net
 speedtest-baltimore.greenlightnetworks.com
 speedtest-bd-1.zoominternet.net
+speedtest-bethlehem.greenlightnetworks.com
 speedtest-binghamton.greenlightnetworks.com
 speedtest-bne.vocus.net
 speedtest-bom.melbicom.net
@@ -6096,6 +6098,7 @@ speedtest1.nyc1.nitelusa.net
 speedtest1.oma.nxlink.com
 speedtest1.powertel.org
 speedtest1.ptd.net
+speedtest1.ric1.va.hostedbackbone.net
 speedtest1.sailweb.cloud
 speedtest1.sc.chinamobile.com
 speedtest1.seiontec.com
