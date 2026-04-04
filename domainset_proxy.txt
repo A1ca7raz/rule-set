@@ -1780,6 +1780,7 @@ download.prss.microsoft.com
 download.savannah.gnu.org
 download.snipaste.com
 download.sysinternals.com
+download.technitium.com
 download.todesktop.com
 download.umbrel.com
 download.visualstudio.microsoft.com
@@ -3214,6 +3215,7 @@ lasspeed.sharktech.net
 lasvegas-speedtest.commnetbroadband.com
 latam.orbitor.dev
 launchdarkly.com
+launchpadcontent.net
 launchpadlibrarian.net
 lax-st.sumofiber.com
 lax01.screenshot.download
@@ -5272,6 +5274,7 @@ speedtest-iad.acreto.net
 speedtest-iad.dish-wireless.com
 speedtest-ict.ideatek.com
 speedtest-iowa.airstreamcomm.net
+speedtest-ist1.netlojik.com
 speedtest-it.the.hosting
 speedtest-jp.tgb-host.com
 speedtest-jp.unihost.com
@@ -5930,6 +5933,7 @@ speedtest.starhub.com
 speedtest.stellarbb.com
 speedtest.steppod.io
 speedtest.stgscloud.com
+speedtest.stradacomm.com
 speedtest.stratoone.com
 speedtest.summithq.com
 speedtest.sunnysidehosting.net
@@ -6156,6 +6160,8 @@ speedtest3.networks.bt.com
 speedtest3.point-broadband.com
 speedtest3.westmancom.com
 speedtest31.suddenlink.net
+speedtest31.turk.net
+speedtest33.turk.net
 speedtest3a.socket.net
 speedtest4.ekowebtech.net
 speedtest4.ezeefiber.net
