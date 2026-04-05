@@ -2082,6 +2082,7 @@ foxplus.com
 fr
 fr-1.node.delton.ovh
 fr2.rpmfind.net
+fra.speedtest.csgobans.com
 fra1speedtest01.skylogic.com
 framer.com
 framercdn.com
@@ -6210,6 +6211,7 @@ speedtestlon.telefonica.com
 speedtestlondon.telecom.mu
 speedtestlscr.vexusfiber.com
 speedtestmacapa.webflash.net.br
+speedtestmarion.arkdnacloud.com
 speedtestmera.vs.mythic-beasts.com
 speedtestmi2.tilab.com
 speedtestmia.gethotwired.com
