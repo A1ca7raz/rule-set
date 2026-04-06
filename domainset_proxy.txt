@@ -1206,6 +1206,7 @@ cdn77-storage.com
 cdn77.boyfriendtv.com
 cdn8.bigcommerce.com
 cdn9.bigcommerce.com
+cdna.pcpartpicker.com
 cdnanp.com
 cdnapi.kaltura.com
 cdnbf.net
@@ -4263,6 +4264,7 @@ orbstack.dev
 oreillystatic.com
 organicfruitapps.com
 organizer.bizzabo.com
+origin.picgo.net
 orionbrowser.com
 os-cdn.virtfusion.net
 osmand.net
@@ -4645,6 +4647,7 @@ registry.fedoraproject.org
 registry.oomol.com
 registry.terraform.io
 reimu.net
+release.arcboxcdn.com
 release.runcloud.io
 releases.grapheneos.org
 releases.hashicorp.com
