@@ -412,6 +412,7 @@ assets.openshift.com
 assets.openshift.net
 assets.orz.uno
 assets.peatio.com
+assets.pingie.com
 assets.pinterest.com
 assets.pixlee.com
 assets.polarbyte.com
@@ -1694,6 +1695,7 @@ dl.pstmn.io
 dl.snipaste.com
 dl.tailscale.com
 dl.vanadium.app
+dl.vibeisland.app
 dl.wechat.com
 dl2.nwjs.io
 dl2.xmind.net
@@ -4306,7 +4308,6 @@ p.typekit.net
 p16-hera-sg.larksuitecdn.com
 p16-hera-va.larksuitecdn.com
 pa1.aninoapps.com
-package-assets.oomol.com
 packagecloud.io
 packagephobia.com
 packages-cf.termux.dev
@@ -6502,7 +6503,6 @@ static.observablehq.com
 static.oklink.com
 static.onlinewebfonts.com
 static.onlyfans.com
-static.oomol.com
 static.openreplay.com
 static.opensuse.org
 static.parallels.com
