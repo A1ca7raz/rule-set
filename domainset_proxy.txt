@@ -5340,6 +5340,7 @@ speedtest-prs.vts.bf
 speedtest-pth.vocus.net
 speedtest-rd-1.zoominternet.net
 speedtest-rochester.greenlightnetworks.com
+speedtest-rp.verte.cloud
 speedtest-rs-1.zoominternet.net
 speedtest-sd-da1.scalematrix.com
 speedtest-sdt.cosys.cc
@@ -7154,6 +7155,7 @@ uicdn.net
 uim.9uu22.com
 uk
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
+ukms-speedtest-newyork.tropicalgames.net
 ukms-speedtest.tropicalgames.net
 ulises.hostalia.com
 umblr.com
