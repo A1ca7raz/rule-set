@@ -1073,6 +1073,7 @@ cdn.sitesearch360.com
 cdn.skymavis.com
 cdn.smooch.io
 cdn.snaptravel.com
+cdn.socket.io
 cdn.softswiss.net
 cdn.sphlabs.com
 cdn.sprig.com
@@ -1875,6 +1876,7 @@ els-cdn.com
 embed-cloudfront.wistia.com
 embed-ssl.wistia.com
 embed.culturalspot.org
+embed.getwally.net
 embed.runkit.com
 embed.savvycal.com
 embed.ted.com
@@ -3429,6 +3431,7 @@ media.cleanshot.cloud
 media.contentapi.ea.com
 media.convertkit.com
 media.crazyshit.com
+media.currys.biz
 media.d.tube
 media.daily.dev
 media.datacenterdynamics.com
@@ -6474,6 +6477,7 @@ static.inflect.com
 static.ipgeolocation.io
 static.iplocate.io
 static.iris.informa.com
+static.isitetv.com
 static.iyf.tv
 static.izanmei.icu
 static.j51.net
