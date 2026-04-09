@@ -1764,7 +1764,6 @@ download.dm.origin.com
 download.eassos.com
 download.edovia.com
 download.epicgames.com
-download.garmin.com
 download.gigabyte.com
 download.gimp.org
 download.jetbrains.com
@@ -2064,7 +2063,6 @@ fonts.bunny.net
 fonts.cat.net
 fonts.codeberg.org
 fonts.com
-fonts.garmin.com
 fonts.gishan.cc
 fonts.gsma.com
 fonts.loox.io
@@ -2173,6 +2171,7 @@ gameflare.com
 gameloft.com
 gamesgamescdn.com
 gammacdn.com
+garmin.com
 garmincdn.com
 gartner.com
 gate.io
@@ -2977,6 +2976,7 @@ intercomassets.com
 intercomcdn.com
 intercomcdn.io
 internet.org
+intervals.icu
 interwiki.scpwikicn.com
 intl-rcd.iqiyi.com
 intl-subscription.iqiyi.com
@@ -4150,7 +4150,6 @@ olympics.com
 omaha.speedtest.fiberfirst.com
 omniroot.com
 omnisnippet1.com
-omtmapupdate.garmin.com
 on-fleek.app
 on.cc
 one
@@ -4682,7 +4681,6 @@ repos.interior.edu.uy
 repository.jboss.org
 res.cloudinary.com
 res.craft.do
-res.garmin.com
 res2.weblium.site
 rescript-lang.org
 resize-image.vocus.cc
@@ -4906,7 +4904,6 @@ sgp-speedtest.limtechlabs.top
 sgspeed.chinaunicomglobal.com
 sh
 shadowsocks.org
-share-assets.fe.garmin.com
 share.chessbase.com
 sharepoint.com
 sharepointonline.com
@@ -5957,6 +5954,7 @@ speedtest.syscom.manaus.br
 speedtest.systemlifeline.com
 speedtest.tcaexpress.net
 speedtest.tctelco.net
+speedtest.technobulut.com
 speedtest.technofiber.co
 speedtest.telbo.net
 speedtest.telecablecr.com
@@ -6158,6 +6156,7 @@ speedtest2.sailweb.cloud
 speedtest2.springnet.net
 speedtest21.hkbn.net
 speedtest21.hotspot.koeln
+speedtest25.turk.net
 speedtest25.wiatel.com
 speedtest26.csisp.info
 speedtest27.suddenlink.net
@@ -6179,6 +6178,8 @@ speedtest4.plateautel.net
 speedtest4.point-broadband.com
 speedtest5.fybercom.net
 speedtest5.nmsurf.com
+speedtest54.turk.net
+speedtest59.turk.net
 speedtest61.turk.net
 speedtest9200.sea.acsalaska.net
 speedtestac.vtal.net.br
@@ -6454,7 +6455,6 @@ static.filestackapi.com
 static.foxbusiness.com
 static.frame.work
 static.freeimages.com
-static.garmin.com
 static.getbutton.io
 static.getpostman.com
 static.giant-bicycles.com
@@ -6966,7 +6966,6 @@ tile.skybrush.io
 tile.stamen.com
 tile.thunderforest.com
 tile.waymarkedtrails.org
-tile2.intervals.icu
 tile2.opencyclemap.org
 tilecache.rainviewer.com
 tiledbasemaps.arcgis.com
