@@ -33,13 +33,8 @@
 -.pi.hole
 -.public.localsend.org
 -.repeater.asus.com
--.res-1.cdn.office.net
--.res-2.cdn.office.net
--.res-h3.public.cdn.office.net
--.res.cdn.office.net
 -.router.asus.com
 -.setmeup.arubanetworks.com
--.statics.teams.cdn.office.net
 -.unifi
 -.url.cn
 -.www.intel.cn
@@ -213,10 +208,6 @@ avgv.cc
 avistaz.to
 awesome-hd.me
 awtmt.com
-azuremigrate.download.prss.microsoft.com
-azuremigratetest.download.prss.microsoft.com
-azurestackhub.download.prss.microsoft.com
-azurestackhubuat.download.prss.microsoft.com
 baidu.cn
 baidu.com
 baidubce.com
@@ -288,7 +279,6 @@ cainiaoyizhan.com
 caiyunapp.com
 camera360.com
 camscanner.com
-cbdstest.download.prss.microsoft.com
 ccb.com
 ccfbits.org
 ccgslb.com
@@ -364,7 +354,6 @@ cn-smp-paymentservices.apple.com
 cn-ssl.ls.apple.com
 cn.apple.com
 cn.ls.apple.com
-cn.windowssearch.com
 cnb.cool
 cnblogs.com
 cnnic.cn
@@ -373,8 +362,6 @@ cntv.cn
 codehub.cn
 coding.me
 coding.net
-collaborate.download.prss.microsoft.com
-collaborateppe.download.prss.microsoft.com
 coloros.com
 com.cn
 comicat.org
@@ -395,7 +382,6 @@ csdnimg.cn
 cstat.apple.com
 cstat.cdn-apple.com
 ctfile.com
-ctldl.windowsupdate.com
 ctrip.com
 cz88.net
 d-ctrip.com
@@ -414,8 +400,6 @@ dcarvod.com
 dcloud.io
 dd-cdn.origin-apple.com.akadns.net
 dejavu.apple.com
-devblogs.microsoft.com
-developer.microsoft.com
 dewu.com
 dfcfw.com
 dianping.com
@@ -462,12 +446,7 @@ douyucdn2.cn
 douyuscdn.com
 douyutv.com
 download.developer.apple.com
-download.microsoft.com
-download.visualstudio.microsoft.com
-download.windowsupdate.com
 dpfile.com
-dreamspark.download.prss.microsoft.com
-dreamsparkuat.download.prss.microsoft.com
 duapp.com
 duba.net
 duokan.com
@@ -511,7 +490,6 @@ fqnovelpic.com
 frdic.com
 freshhema.com
 freshippo.com
-fs.microsoft.com
 fun.tv
 funshion.com
 futu5.com
@@ -678,8 +656,6 @@ is4-ssl.mzstatic.com
 is4.mzstatic.com
 is5-ssl.mzstatic.com
 is5.mzstatic.com
-itacademy.download.prss.microsoft.com
-itacademyuat.download.prss.microsoft.com
 itc.cn
 ithome.com
 itunes-apple.com.akadns.net
@@ -747,8 +723,6 @@ leiniao.com
 leleketang.com
 lenovomm.com
 letvimg.com
-lex.download.prss.microsoft.com
-lexuat.download.prss.microsoft.com
 lf127.net
 lianjia.com
 linkedin.cn
@@ -770,8 +744,6 @@ m2m
 madsrevolution.net
 maoyan.com
 maoyun.tv
-mbs.download.prss.microsoft.com
-mbsuat.download.prss.microsoft.com
 mcd.cn
 meipai.com
 meitu.com
@@ -808,15 +780,8 @@ mobike.com
 mobileservice.cn
 moecat.best
 mojicdn.com
-mpnbenefits.download.prss.microsoft.com
-mpnbenefitsrtl.download.prss.microsoft.com
-mpnbenefitsrtluat.download.prss.microsoft.com
 mrw.so
-msdn.download.prss.microsoft.com
-msdprod-ad.download.prss.microsoft.com
 msg.vg
-msproduct.download.prss.microsoft.com
-msproductuat.download.prss.microsoft.com
 msstatic.com
 mtyun.com
 mubu.com
@@ -829,8 +794,6 @@ mybank.cn
 myoppo.com
 myqcloud.com
 myssl.com
-myvs.download.prss.microsoft.com
-myvsuat.download.prss.microsoft.com
 myzaker.com
 mzres.com
 nanyangpt.com
@@ -859,11 +822,6 @@ ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
-oemsoc.download.prss.microsoft.com
-oemsocuat.download.prss.microsoft.com
-officecdn.microsoft.com
-officemkt.download.prss.microsoft.com
-officemktuat.download.prss.microsoft.com
 officewebapps.cn
 okr.com
 oneplus.cn
@@ -890,7 +848,6 @@ oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 oschina.net
 osgeo.cn
-osrelease.download.prss.microsoft.com
 osxapps.itunes.g.aaplimg.com
 oup.com
 ourbits.club
@@ -978,7 +935,6 @@ ronghub.com
 router
 routerlogin.com
 routerlogin.net
-rsm.download.prss.microsoft.com
 rsproxy.cn
 ruanmei.com
 ruguoapp.com
@@ -993,7 +949,6 @@ science.org
 sciencemag.org
 scopus.com
 sdbits.org
-sdx.microsoft.com
 seed-sequoia.siri.apple.com
 seed-swallow.siri.apple.com
 seed.siri.apple.com
@@ -1021,7 +976,6 @@ smtcdns.net
 smzdm.com
 snssdk.com
 so.com
-software.download.prss.microsoft.com
 sogo.com
 sogou.com
 sogoucdn.com
@@ -1053,14 +1007,10 @@ store.apple.com.edgekey.net
 store.apple.com.edgekey.net.globalredir.akadns.net
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
-storecorefulfillment.download.prss.microsoft.com
-storeedge.microsoft.com
-storeedgefd.dsx.mp.microsoft.com
 suning.cn
 suning.com
 support-china.apple-support.akadns.net
 support.apple.com
-surface.download.prss.microsoft.com
 swallow-apple-com.v.aaplimg.com
 swallow.apple.com
 swcatalog-cdn.apple.com.akadns.net
@@ -1142,16 +1092,12 @@ variflight.com
 veryzhun.com
 vip.com
 vivo.com
-vlportal.download.prss.microsoft.com
 vmall.com
 vmallres.com
 volccdn.com
 volcengine.com
 volces.com
 volcvideo.com
-volic.download.prss.microsoft.com
-vscode.download.prss.microsoft.com
-vz.download.prss.microsoft.com
 wallstreetcn.com
 wandoujia.com
 wangsu.com
@@ -1176,7 +1122,6 @@ weiyun.com
 west.cn
 wifi8.com
 wiley.com
-windbg.download.prss.microsoft.com
 wmsj.cn
 wmsjsteam.com
 wo.cn
@@ -1185,8 +1130,6 @@ wps.cn
 wpscdn.cn
 wpscdn.com
 wscn.net
-wscont1.apps.microsoft.com
-wscont2.apps.microsoft.com
 wukong.com
 www.apple.com
 www.apple.com.edgekey.net
