@@ -5690,6 +5690,7 @@ speedtest.kappenhagen.tech
 speedtest.kapper.net
 speedtest.kazzara.net
 speedtest.kc2.everfastfiber.com
+speedtest.kdatacenter.com
 speedtest.keiminem.com
 speedtest.kko.me
 speedtest.kmtel.com
