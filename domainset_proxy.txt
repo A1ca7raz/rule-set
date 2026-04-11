@@ -5525,6 +5525,7 @@ speedtest.currenta.net
 speedtest.cvalley.net
 speedtest.cyberline.com.br
 speedtest.cyberlinkinternet.com.br
+speedtest.cytranet.net
 speedtest.dakshbroadband.com
 speedtest.dal.hivelocity.net
 speedtest.dal1.nitelusa.net
@@ -6350,6 +6351,7 @@ st1.tbaytel.net
 st1.tzulo.com
 st2-lax.panaops.com
 st2-msn.5nines.com
+st2.3c1b.com
 st2.wificanarias.com
 st2a.les.net
 st3.surajnetwork.com
