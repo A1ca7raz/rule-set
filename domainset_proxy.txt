@@ -334,7 +334,6 @@ assets.adobedtm.com
 assets.airbuddy.app
 assets.apilayer.com
 assets.atlasobscura.com
-assets.auth.magic.link
 assets.awwwards.com
 assets.basehub.com
 assets.bbhub.io
@@ -3379,6 +3378,7 @@ macupdate.com
 macysassets.com
 madewithcode.com
 madvpdspeedtesta.voiped.com
+magic.link
 mailchimp.com
 majsoul.union-game.com
 makerworld.com
@@ -3459,6 +3459,7 @@ media.lantern.io
 media.letsdeel.com
 media.licdn.com
 media.loom-app.com
+media.marshmallow-qa.com
 media.masto.nu
 media.mstdn.io
 media.nationwide.com
