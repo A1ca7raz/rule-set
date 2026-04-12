@@ -1281,6 +1281,7 @@ checkout.stripe.com
 chess.com
 chesscomfiles.com
 chi-speedtest.net.sangoma.net
+chi-speedtest.shifthosting.com
 chicago.speedtest.brightspeed.com
 chicago1.cabospeed.com
 chich0003ooklaspeedtestserver01.wiline.com
@@ -1855,6 +1856,8 @@ edgeapp.net
 edgecastcdn.net
 edgecdn-embza6g8cacagcbn.z01.azurefd.net
 edgecompute.app
+edgemark-chi.cust.edgemark.io
+edgemark-lax.cust.edgemark.io
 edgeone.app
 edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net
 edgesuite.net
