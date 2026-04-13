@@ -3747,6 +3747,7 @@ mirror.thunderhosting.cloud
 mirror.tngnet.com
 mirror.tochlab.net
 mirror.transip.net
+mirror.tw.ossplanet.net
 mirror.ubuntu.ikoula.com
 mirror.ubuntu.serverforge.org
 mirror.uchile.cl
@@ -4298,6 +4299,7 @@ oss.1p3a.com
 oss.moe.cat
 oss.ypt.com
 ossmirror.mycloud.services
+ossplanet.org
 otstatic.com
 outlook.com
 outlookmobile.com
