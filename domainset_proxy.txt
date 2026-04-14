@@ -132,6 +132,7 @@ agechecker-northern-apps.com
 agechecker.northern-apps.com
 ah-cdn.merge.dev
 ahcdn.com
+ahrefscomscreenshot-3b70.kxcdn.com
 ai
 ai.com
 aicoin.com
@@ -4369,6 +4370,7 @@ permaweb.io
 pgl.yoyo.org
 ph
 ph.northflank.com
+ph.tryprofound.com
 phc-speed.twmbroadband.com
 phishing.army
 phl01.screenshot.download
@@ -4406,6 +4408,7 @@ pikpak.me
 ping0.cc
 pinimg.com
 pipedriveassets.com
+pixel-cdn.default.com
 pixelcdn.net
 pixeldrain.com
 pixelscan.net
@@ -6378,6 +6381,7 @@ start-page.buffer.com
 startpage.com
 static-00.iconduck.com
 static-act.imoim.net
+static-app.ahrefs.com
 static-app.klaviyo.com
 static-assets-prod.epicgames.com
 static-assets-prod.unrealengine.com
@@ -6541,6 +6545,7 @@ static.replay.io
 static.rust-lang.org
 static.salidzini.lv
 static.seel.com
+static.semrush.com
 static.serverhunter.com
 static.skyassets.com
 static.skymavis.com
@@ -6562,6 +6567,7 @@ static.tokenview.io
 static.toss.im
 static.touhoudb.com
 static.tp-link.com
+static.tryprofound.com
 static.tvtropes.org
 static.typingclub.com
 static.uptimia.com
