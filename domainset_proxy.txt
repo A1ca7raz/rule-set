@@ -5117,6 +5117,7 @@ spec.org
 speed-bhm2.cspirefiber.com
 speed-miss.systemlifeline.com
 speed-mix.dimensione.com
+speed-mix.dispaisy.systems
 speed-oak.systemlifeline.com
 speed-rm.dimensione.com
 speed-server3.summit-broadband.com
@@ -6848,6 +6849,7 @@ telegram.me
 telegram.org
 telegram.space
 telemetry.stepsecurity.io
+telemetry.timescale.com
 telemetry2.devolutions.net
 tem11-speedtest01.as15108.com
 tenor.com
