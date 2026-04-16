@@ -2852,6 +2852,7 @@ img.321cdn.com
 img.4khd.com
 img.adspower.net
 img.announcekit.app
+img.api.tryprofound.com
 img.api.video
 img.applealmond.com
 img.apponic.com
