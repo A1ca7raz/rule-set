@@ -1,5 +1,5 @@
 +.steamstatic.com
--.127.atlas.skk.moe
+-.127.skk.moe
 -.acg.tv
 -.api.smoot.apple.cn
 -.appleintelligencefeedback.care.apple.com
