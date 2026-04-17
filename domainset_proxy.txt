@@ -161,6 +161,7 @@ algolianet.com
 allawnofs.com
 alln-ks-st.highlinefast.com
 alonestreaming.com
+alotporn.com
 alpha-gnu-org.ip-connect.vn.ua
 alpha.gnu.org
 alphafish.top
@@ -2114,6 +2115,7 @@ fsdn.com
 fsvod1.com
 ft.com
 ftcdn.net
+ftchinese.com
 ftp-chi.osuosl.org
 ftp-gnu-org.ip-connect.vn.ua
 ftp-nyc.osuosl.org
@@ -2688,6 +2690,7 @@ icons.simplesvg.com
 icons.veryicon.com
 icons.zeabur.com
 id
+idcflare.com
 identity-assets.getpostman.com
 idportal-cdn-prd.unity.com
 idrive.com
@@ -2895,6 +2898,7 @@ img.perfops.net
 img.represent.com
 img.riskified.com
 img.shoplineapp.com
+img.sooplive.com
 img.sparemin.com
 img.sparknotes.com
 img.telemetr.io
@@ -3319,6 +3323,7 @@ live.com
 live.fanmingming.com
 live.net
 live.visually-io.com
+liveimg.sooplive.com
 livejasmin.com
 livemediahost.com
 lllcdn.autos
@@ -4684,6 +4689,7 @@ repos.interior.edu.uy
 repository.jboss.org
 res.cloudinary.com
 res.craft.do
+res.sooplive.com
 res2.weblium.site
 rescript-lang.org
 resize-image.vocus.cc
@@ -6235,6 +6241,7 @@ speedtestmnc.grainconnect.com
 speedtestmoga.angelbroadband.com
 speedtestnet.relaix.net
 speedtestnet.velocity.net
+speedtestnorthpointe.arkdnacloud.com
 speedtestookla.itgate.net
 speedtestrm2.tilab.com
 speedtestro.vtal.net.br
@@ -6545,6 +6552,7 @@ static.smartframe.io
 static.snyk.io
 static.socialshopwave.com
 static.solarwinds.com
+static.sooplive.com
 static.spigotmc.org
 static.srcspot.com
 static.staff-start.com
@@ -6652,6 +6660,7 @@ sthamilton.rogers.com
 sthamiltonwireless.rogers.com
 stheadline.com
 sthlstatic.com
+stimg.sooplive.com
 stkanata.rogers.com
 stkanatawireless.rogers.com
 stkelownawireless.rogers.com
@@ -7341,6 +7350,7 @@ voachinese.com
 voanews.com
 vox-cdn.com
 vpnunlimited.com
+vrchat.com
 vrporn.com
 vsassets.io
 vscode-cdn.net
@@ -7462,6 +7472,7 @@ wikipedia.org
 wikiplus-app.com
 wikiquote.org
 wikisource.org
+wikissl.com
 wikiversity.org
 wikivoyage.org
 wikiwand.com
