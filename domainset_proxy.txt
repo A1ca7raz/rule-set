@@ -5174,6 +5174,7 @@ speed.serveroyun.com
 speed.sgf01.as17303.net
 speed.sparcs.net
 speed.srv.rent
+speed.stgscloud.com
 speed.tajbroadband.net
 speed.telcomnetwork.net
 speed.telfo.com.br
