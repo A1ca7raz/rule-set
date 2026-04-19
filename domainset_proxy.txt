@@ -5877,6 +5877,7 @@ speedtest.pnpt.com
 speedtest.polycomm.net
 speedtest.premieronline.net
 speedtest.previder.net
+speedtest.princemj.net
 speedtest.progetto8.net
 speedtest.prometeus.net
 speedtest.pronetsuaconexao.com
