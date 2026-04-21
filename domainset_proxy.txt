@@ -1760,6 +1760,7 @@ download-core.sys.truenas.net
 download.amelabs.net
 download.ameliorated.io
 download.anydesk.com
+download.bbbike.org
 download.beeper.com
 download.cdp.bethesda.net
 download.clashverge.dev
@@ -3292,6 +3293,7 @@ lifitelecom.brsserver.com.br
 lift-ai-js.marketlinc.com
 light.spicegems.org
 lihkg.com
+lil2.speedtest.mire.sfr.net
 line-apps-beta.com
 line-apps-rc.com
 line-apps.com
@@ -6992,6 +6994,7 @@ tilecache.rainviewer.com
 tiledbasemaps.arcgis.com
 tilemaps.icgc.cat
 tiles-a.koordinates.com
+tiles-eu.stadiamaps.com
 tiles.arcgis.com
 tiles.immich.cloud
 tiles.mapilion.com
