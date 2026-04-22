@@ -5125,6 +5125,7 @@ speed-mix.dispaisy.systems
 speed-oak.systemlifeline.com
 speed-rm.dimensione.com
 speed-server3.summit-broadband.com
+speed-test.ornethd.net
 speed-test.ukservers.com
 speed.airwavesinternet.com
 speed.alsalamnet.net
@@ -5514,6 +5515,7 @@ speedtest.citizens.coop
 speedtest.citycom-austria.com
 speedtest.cloudinet.com.br
 speedtest.clouvider.net
+speedtest.cltel.com
 speedtest.cmcnetworks.net
 speedtest.cmltelephone.com
 speedtest.cod4-server.com
@@ -5610,6 +5612,7 @@ speedtest.getstreamhosting.com
 speedtest.getwireless.net
 speedtest.giganetbroadband.net
 speedtest.giganetesmejor.com
+speedtest.gigas.com
 speedtest.gigawebtecnologia.com.br
 speedtest.gilarivertel.com
 speedtest.global-layer.com
@@ -5857,6 +5860,7 @@ speedtest.ozarksgo.net
 speedtest.p1.mhn.cloud
 speedtest.pa5.as198831.net
 speedtest.packetworks.net
+speedtest.palmerone.com
 speedtest.par1.adky.net
 speedtest.parishbroadband.com
 speedtest.pavlovmedia.net
