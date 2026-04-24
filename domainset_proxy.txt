@@ -626,6 +626,7 @@ box.com
 boxcdn.net
 bp.blogspot.com
 bpwoippy.vialis.net
+brand-assets.cne.ngc.nvidia.com
 brand-sdk.kmsmep.com
 brandwidgets.outtra.com
 brave.com
@@ -4234,6 +4235,7 @@ ookla.rcp.net
 ookla.siditelecom-isp.com.br
 ookla.slimnet.com.br
 ookla.speedtest.cnix.cn
+ookla.speedtest.mbs.cloud
 ookla.svw.as6453.net
 ookla.tv2.as6453.net
 ookla.ukcell.net
@@ -5206,6 +5208,7 @@ speed07.gonetspeed.com
 speed08.gonetspeed.com
 speed09.gonetspeed.com
 speed1.directnet7star.com
+speed1.sandiego.intrepidfiber.com
 speed1.spitfireuk.net
 speed1.syseleven.net
 speed1.teratelecom.com.br
@@ -5862,6 +5865,7 @@ speedtest.pa5.as198831.net
 speedtest.packetworks.net
 speedtest.palmerone.com
 speedtest.par1.adky.net
+speedtest.par2.as216190.net
 speedtest.parishbroadband.com
 speedtest.pavlovmedia.net
 speedtest.pendc.com
