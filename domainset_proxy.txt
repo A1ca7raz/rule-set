@@ -5879,6 +5879,7 @@ speedtest.pimcommcorp.com
 speedtest.pinerichland.org
 speedtest.pingless.com
 speedtest.pinguimtelecom.net.br
+speedtest.pl-waw.as210558.net
 speedtest.plasmanodes.com
 speedtest.pld.com
 speedtest.pldi.net
