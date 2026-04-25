@@ -1896,6 +1896,7 @@ ensighten.com
 envato-static.com
 envatousercontent.com
 eomd1.fembeqq.xyz
+ep1.pinkbike.org
 epic-social-social-modules-prod.ol.epicgames.com
 epicgames-download1.akamaized.net
 epicgamescdn.com
@@ -1906,6 +1907,7 @@ erocdn.co
 eroimg.net
 eroterest.net
 es
+es.pinkbike.org
 esc-apps-cdn.com
 eslint-react.xyz
 eslint.org
@@ -2225,6 +2227,7 @@ gimp.ip-connect.info
 gimp.ip-connect.vn.ua
 girlsgogames.com
 girlsgogamescdn.com
+gis.pinkbike.org
 giscus.app
 git.io
 gitbook.com
@@ -7508,6 +7511,7 @@ wix.com
 wixmp.com
 wixstatic.com
 wixstudio.io
+wklcdn.com
 wl-apps.yourwebsite.life
 wmflabs.org
 wmfusercontent.org
