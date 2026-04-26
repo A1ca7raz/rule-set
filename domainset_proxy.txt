@@ -2585,6 +2585,7 @@ hiztesti.isimkayit.com
 hiztesti2.ondiso.io
 hk
 hk-bgp-speedtest.nearoute.io
+hk.mymonitor.space
 hk01.bigball.top
 hk01.com
 hkepc.com
