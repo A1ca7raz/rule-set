@@ -5212,6 +5212,7 @@ speed07.gonetspeed.com
 speed08.gonetspeed.com
 speed09.gonetspeed.com
 speed1.directnet7star.com
+speed1.e-caps.net
 speed1.sandiego.intrepidfiber.com
 speed1.spitfireuk.net
 speed1.syseleven.net
