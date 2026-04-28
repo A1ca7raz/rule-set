@@ -5044,6 +5044,7 @@ sp01.rbfibra.net.br
 sp1.adnbroadband.com
 sp1.angelbroadband.com
 sp1.asthriona.com
+sp1.atcc-gns.net
 sp1.biocablesur.cl
 sp1.boomerangtelecom.com.br
 sp1.burstfire.net
