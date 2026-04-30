@@ -970,6 +970,7 @@ cdn.masto.host
 cdn.mathjax.org
 cdn.matterhorn.app
 cdn.mcr.ea.com
+cdn.mer.run
 cdn.mercury.com
 cdn.metadata.io
 cdn.mewe.com
