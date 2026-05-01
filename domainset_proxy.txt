@@ -3364,6 +3364,7 @@ lowescdn.com
 lr-ingest.com
 lsanca-speedtest-ookla-02.st.charter.com
 lsdspeed01.lsdops.net
+lsdspeed02.lsdops.net
 lsposed.org
 lsv11-speedtest01.as15108.com
 ltwebstatic.com
@@ -5432,6 +5433,7 @@ speedtest.agilityparacuru.com.br
 speedtest.agw1.as49436.net
 speedtest.agw2.as49436.net
 speedtest.airlinkdc.com
+speedtest.airmaxnetwork.com
 speedtest.airnetnetworks.com
 speedtest.ak4digital.com.br
 speedtest.alagas.net
@@ -5528,6 +5530,7 @@ speedtest.clouvider.net
 speedtest.cltel.com
 speedtest.cmcnetworks.net
 speedtest.cmltelephone.com
+speedtest.co-fi.net
 speedtest.cod4-server.com
 speedtest.coliseunet.com.br
 speedtest.comunica.com
@@ -5570,6 +5573,7 @@ speedtest.digitalconnections.net
 speedtest.dllstx97.metronetinc.com
 speedtest.dsgroupmedia.com
 speedtest.dukekunshan.edu.cn
+speedtest.duocast.net
 speedtest.dvnpiaaa.metronetinc.com
 speedtest.dvois.com
 speedtest.ecfaccess.net
@@ -5674,6 +5678,7 @@ speedtest.ihrtelecom.com
 speedtest.il.mycci.net
 speedtest.image1tech.net
 speedtest.imais.com.br
+speedtest.inclusivebytes.org
 speedtest.ind1.gigabitnow.com
 speedtest.infinirc.com
 speedtest.infocotelecom.com.br
