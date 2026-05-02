@@ -5267,6 +5267,7 @@ speedtest-ash.vts.bf
 speedtest-atl.conexonconnect.com
 speedtest-atl.dish-wireless.com
 speedtest-atl.melbicom.net
+speedtest-atlanta.ripplefiber.com
 speedtest-aus.chainlinkhosting.com
 speedtest-az.bambroadband.com
 speedtest-az.survivalflight.net
