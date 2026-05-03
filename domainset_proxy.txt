@@ -5617,6 +5617,7 @@ speedtest.foxnettelecom.net.br
 speedtest.fra01.fusionflare.cloud
 speedtest.fra1.hivelocity.net
 speedtest.frankfurt-am-main.valtrix.org
+speedtest.frantic.link
 speedtest.frontier.com
 speedtest.ftmojave.net
 speedtest.ftth.wien
