@@ -7226,6 +7226,7 @@ updates-cdn.bravesoftware.com
 updates.64gr.am
 updates.bravesoftware.com
 updates.edovia.com
+updates.vibeisland.app
 updownradar.com
 upjav.org
 uplinkfibra.brsserver.com.br
