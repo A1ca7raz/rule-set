@@ -5188,6 +5188,7 @@ speed.sgf01.as17303.net
 speed.sparcs.net
 speed.srv.rent
 speed.stgscloud.com
+speed.supersonicinternet.com
 speed.tajbroadband.net
 speed.telcomnetwork.net
 speed.telfo.com.br
