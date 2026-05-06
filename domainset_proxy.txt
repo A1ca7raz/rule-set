@@ -1381,6 +1381,7 @@ code.ionicframework.com
 code.jquery.com
 code.piano.io
 code.upscope.io
+codeberg.org
 codeberg.page
 codecov.io
 codeforces.com
@@ -1620,7 +1621,6 @@ denspeed.sharktech.net
 descopecdn.com
 design-assets.hubspot.com
 design-system.yext.com
-design.codeberg.org
 design.keyoxide.org
 designsystem.brevo.com
 desktop.parallels.com
@@ -2072,7 +2072,6 @@ font-public.canva.com
 fontawesome.com
 fonts.bunny.net
 fonts.cat.net
-fonts.codeberg.org
 fonts.com
 fonts.gishan.cc
 fonts.gsma.com
@@ -4931,6 +4930,7 @@ shattered.io
 shgcdn.com
 shhdooklaspeed1.jioconnect.com
 shields.io
+shields.rbtlog.dev
 shiprock-speedtest.commnetbroadband.com
 sho.com
 shodan.io
