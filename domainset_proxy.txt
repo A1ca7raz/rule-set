@@ -5192,6 +5192,7 @@ speed.supersonicinternet.com
 speed.tajbroadband.net
 speed.telcomnetwork.net
 speed.telfo.com.br
+speed.tnahosting.net
 speed.tritan-bb.net
 speed.tudoall.com.br
 speed.turbodc.com
