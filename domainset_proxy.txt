@@ -3114,6 +3114,7 @@ jotai.org
 jotform.com
 jp
 jp-nperf.verizon.net
+jp.speedtest.bug.pw
 jpgjingpinx.com
 js-1-cdn.airdroid.com
 js-eu1.hubspot.com

@@ -771,7 +771,6 @@ madsrevolution.net
 maoyan.com
 maoyun.tv
 mbs.download.prss.microsoft.com
-mbsuat.download.prss.microsoft.com
 mcd.cn
 meipai.com
 meitu.com
@@ -830,7 +829,6 @@ myoppo.com
 myqcloud.com
 myssl.com
 myvs.download.prss.microsoft.com
-myvsuat.download.prss.microsoft.com
 myzaker.com
 mzres.com
 nanyangpt.com
