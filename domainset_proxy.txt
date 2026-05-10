@@ -1853,6 +1853,7 @@ ec
 eclats.crans.org
 eclipsecontent.org
 economist.com
+edge.kernel.org
 edge.marker.io
 edge.personalizer.io
 edge.sitecorecloud.io
@@ -1924,7 +1925,6 @@ eu
 eu-assets.i.posthog.com
 eu-images.contentstack.com
 eu.cdnbye.com
-eu.edge.kernel.org
 eu.hamreus.com
 eu.orbitor.dev
 eu.org
@@ -3178,6 +3178,8 @@ kagi.com
 kakao.com
 kakaocdn.net
 kali.download
+kali.itsec.am
+kali.koyanet.lv
 kali.org
 kami.smartone.com
 kansas-city.speedtest.brightspeed.com
@@ -3556,6 +3558,7 @@ mirror.23m.com
 mirror.5i.fi
 mirror.a1.mk
 mirror.ac.ke
+mirror.africloud.com
 mirror.alastyr.com
 mirror.alwyzon.net
 mirror.amberit.com.bd
@@ -3596,6 +3599,7 @@ mirror.constant.com
 mirror.corbina.net
 mirror.cov.ukservers.com
 mirror.creoline.net
+mirror.cspacehostings.com
 mirror.cyberbits.asia
 mirror.cyberchains.org
 mirror.dal.nexril.net
@@ -3618,6 +3622,7 @@ mirror.ekiphost.com
 mirror.elice.io
 mirror.eliv.digital
 mirror.enzu.com
+mirror.es.cdn-perfprod.com
 mirror.esecuredata.com
 mirror.eu-fr.kamatera.com
 mirror.eu-lo.kamatera.com
@@ -3633,6 +3638,7 @@ mirror.fcix.net
 mirror.fi.ossplanet.net
 mirror.fjordos.com
 mirror.flokinet.net
+mirror.fr.cdn-perfprod.com
 mirror.freedif.org
 mirror.frontiernet.net
 mirror.fst.kz
@@ -3643,6 +3649,7 @@ mirror.gotmyhost.com
 mirror.gsl.icu
 mirror.gtcomm.net
 mirror.hashy0917.net
+mirror.hemino.net
 mirror.hnd.cl
 mirror.hoobly.com
 mirror.host.ag
@@ -3659,6 +3666,7 @@ mirror.imt-systems.com
 mirror.init7.net
 mirror.insacom.cl
 mirror.internode.on.net
+mirror.ionos.com
 mirror.iphh.net
 mirror.iranserver.com
 mirror.iweb.com
@@ -3721,6 +3729,7 @@ mirror.pop-sc.rnp.br
 mirror.positive-internet.com
 mirror.pregi.net
 mirror.ps.kz
+mirror.pyratelan.org
 mirror.rackspace.com
 mirror.raiolanetworks.com
 mirror.realcompute.io
@@ -3772,6 +3781,7 @@ mirror.us-midwest-1.nexcess.net
 mirror.us-ny2.kamatera.com
 mirror.us-sc.kamatera.com
 mirror.us-tx.kamatera.com
+mirror.us.cdn-perfprod.com
 mirror.us.leaseweb.net
 mirror.us.mirhosting.net
 mirror.us.oneandone.net
@@ -3788,6 +3798,7 @@ mirror.vpsnet.com
 mirror.vu.lt
 mirror.wearetriple.com
 mirror.webtastix.net
+mirror.wonchan.net
 mirror.xenyth.net
 mirror.xeonbd.com
 mirror.xmission.com
@@ -3797,11 +3808,15 @@ mirror.yer.az
 mirror.za.abantu.cloud
 mirror.za.web4africa.net
 mirror.zzunipark.com
+mirror1.gnc.am
 mirror1.infomaniak.com
 mirror1.ku.ac.th
 mirror1.totbb.net
 mirror2.evolution-host.com
+mirror2.gnc.am
 mirror2.infomaniak.com
+mirror2.keiminem.com
+mirror2.krfoss.org
 mirror2.tuxinator.org
 mirrorbits.lineageos.org
 mirrors-ubuntu.behostings.com
@@ -3825,7 +3840,6 @@ mirrors.concertpass.com
 mirrors.coreix.net
 mirrors.de.sahilister.net
 mirrors.dotsrc.org
-mirrors.edge.kernel.org
 mirrors.evoluso.com
 mirrors.evowise.com
 mirrors.fedoraproject.org
@@ -7605,6 +7619,7 @@ xnxx-cdn.com
 xnxx.com
 xpressunblock.com
 xquartz.org
+xsrv.moratelindo.io
 xvideo-jp.com
 xvideos-cdn.com
 xvideos.com
