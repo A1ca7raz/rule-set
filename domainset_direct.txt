@@ -815,7 +815,6 @@ msdn.download.prss.microsoft.com
 msdprod-ad.download.prss.microsoft.com
 msg.vg
 msproduct.download.prss.microsoft.com
-msproductuat.download.prss.microsoft.com
 msstatic.com
 mtyun.com
 mubu.com
@@ -1183,7 +1182,6 @@ wps.cn
 wpscdn.cn
 wpscdn.com
 wscn.net
-wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 wukong.com
 www.apple.com

@@ -308,6 +308,7 @@ artifacts.electronjs.org
 artstation.com
 asanet.brsserver.com.br
 asanet1.brsserver.com.br
+asbn-speedtest.northstate.net
 ashbn-va.speedtest.shentel.net
 ashemaletube.com
 ask.com
