@@ -478,6 +478,7 @@ assettype.com
 astrill.com
 astrill.org
 at
+atl-speedtest.northstate.net
 atl-speedtest.shifthosting.com
 atlassian.com
 atlassian.net
@@ -3529,6 +3530,7 @@ mfcimg.com
 mg
 mgx-backend-cdn.metadl.com
 mi-speedtest.optimaitalia.com
+mia-speedtest.northstate.net
 mia01.screenshot.download
 miami-speedtest.reliablesite.net
 miami.getstreamhosting.com
@@ -5681,6 +5683,7 @@ speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk212.hkg.cn.nerocloud.io
 speedtest.hkg01.node.as9516.com
+speedtest.hlinknet.com
 speedtest.hnd.fdcservers.net
 speedtest.homecomminc.com
 speedtest.honest.net
@@ -5947,6 +5950,7 @@ speedtest.roraimanet.com.br
 speedtest.routinger.com.br
 speedtest.roweinternet.com
 speedtest.royalehosting.net
+speedtest.sahinotomotiv.com
 speedtest.saidnettelecom.com.br
 speedtest.samparkinfo.com
 speedtest.sbcglobal.net
