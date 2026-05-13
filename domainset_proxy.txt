@@ -1124,6 +1124,7 @@ cdn.vector.co
 cdn.vemetric.com
 cdn.verifypass.com
 cdn.viafoura.net
+cdn.videy.co
 cdn.vidyard.com
 cdn.viglink.com
 cdn.violet.vin
@@ -4211,6 +4212,7 @@ ookla-mispeed.rackgenius.com
 ookla-speedtest.fsr.com
 ookla-speedtest.iu13.net
 ookla-speedtests.e2ro.com
+ookla-toronto.aerioncloud.com
 ookla.a56.as6453.net
 ookla.aeq.as6453.net
 ookla.alcloud.com.br
@@ -5768,6 +5770,7 @@ speedtest.lax.gigenet.com
 speedtest.lax.hivelocity.net
 speedtest.lax01.xfernet.net
 speedtest.lax1.nitelusa.net
+speedtest.lax2.sonic.net
 speedtest.lazco.dev
 speedtest.lcom.net
 speedtest.lekloud.net
