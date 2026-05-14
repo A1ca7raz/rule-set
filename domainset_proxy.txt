@@ -2870,6 +2870,7 @@ img.announcekit.app
 img.api.tryprofound.com
 img.api.video
 img.applealmond.com
+img.appledb.dev
 img.apponic.com
 img.atlasobscura.com
 img.badgesize.io
