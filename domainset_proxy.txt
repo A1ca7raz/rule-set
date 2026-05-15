@@ -260,6 +260,7 @@ app-cdn.logo.com
 app-spm.com
 app-static-prod.posthog.com
 app-static.eu.posthog.com
+app-static.sendsafely.com
 app-static.turtl.co
 app-updates.agilebits.com
 app.backinstock.org
@@ -715,6 +716,7 @@ cartastatic.com
 cartocdn.com
 cas-bridge.xethub.hf.co
 catbox.moe
+cbpuspeed.aspensmart.net
 cbs.com
 cbsaavideo.com
 cbsi.com
@@ -883,6 +885,7 @@ cdn.drata.com
 cdn.dynamicyield.com
 cdn.ea.com
 cdn.earthroulette.com
+cdn.easyling.com
 cdn.embedly.com
 cdn.episode.ninja
 cdn.equalweb.com
@@ -890,6 +893,7 @@ cdn.equinix.com
 cdn.eu.contentful.com
 cdn.evbstatic.com
 cdn.evolution-x.org
+cdn.f5.com
 cdn.faire.com
 cdn.fastcomments.com
 cdn.fasterthanli.me
@@ -1094,6 +1098,7 @@ cdn.staticswin.com
 cdn.stellarhosted.com
 cdn.stonly.com
 cdn.streamlabs.com
+cdn.studio.f5.com
 cdn.sunofbeaches.com
 cdn.super.com
 cdn.svgator.com
@@ -3731,6 +3736,7 @@ mirror.ossplanet.net
 mirror.ourhost.az
 mirror.pilotfiber.com
 mirror.pit.teraswitch.com
+mirror.pkgbuild.com
 mirror.plusline.net
 mirror.plusserver.com
 mirror.pop-sc.rnp.br
@@ -5571,6 +5577,7 @@ speedtest.contabo.net
 speedtest.coopesantos.com
 speedtest.coreix.net
 speedtest.correggio.netandwork.net
+speedtest.crservers.com
 speedtest.cstech.com
 speedtest.ct.co.cr
 speedtest.cteducation.net
@@ -6405,6 +6412,7 @@ st.prntscr.com
 st.racsanntechnologies.com
 st.ruinet.work
 st0.dal.tularosa.net
+st01.fynncloud.net
 st02.fynncloud.net
 st02.mtnsat.net
 st04.mtnsat.net
@@ -6891,6 +6899,7 @@ t8cdn.com
 tacdn.com
 tag.trovo-tag.com
 tag.unifyintent.com
+tags.f5.com
 tags.nationwide.com
 tags.nba.com
 tailfin.cc
