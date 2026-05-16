@@ -4207,6 +4207,7 @@ onepluscommunityserver.com
 onrender.com
 ookla-01.ind.fd-ix.com
 ookla-1.aerioncloud.com
+ookla-2.man.as58246.net
 ookla-anc.seroficom.com
 ookla-atl.gigsouth.com
 ookla-autazes.amazoniasat-isp.com.br
@@ -5194,6 +5195,7 @@ speed.gmavt.net
 speed.golddata.net
 speed.grinternett.com.br
 speed.hamilton.net
+speed.idnet.net.br
 speed.inet-isp.com
 speed.jumpernet.com.br
 speed.kansas.smishcraft.com
