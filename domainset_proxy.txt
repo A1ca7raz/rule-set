@@ -6362,6 +6362,7 @@ speedtestnet.relaix.net
 speedtestnet.velocity.net
 speedtestnorthpointe.arkdnacloud.com
 speedtestookla.itgate.net
+speedtestpnp.infolinkbroadband.com
 speedtestrm2.tilab.com
 speedtestro.vtal.net.br
 speedtestrr.vtal.net.br
