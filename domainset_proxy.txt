@@ -5743,6 +5743,7 @@ speedtest.ihrtelecom.com
 speedtest.il.mycci.net
 speedtest.image1tech.net
 speedtest.imais.com.br
+speedtest.impactusnet.net.br
 speedtest.inclusivebytes.org
 speedtest.ind1.gigabitnow.com
 speedtest.infinirc.com
