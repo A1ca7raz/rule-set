@@ -5250,6 +5250,7 @@ speed.upnetcaucaia.com.br
 speed.wdtcinfo.com
 speed.webseitenserver.com
 speed.weendeavor.com
+speed.x-idleb.com
 speed.x-sy.com
 speed.xiber.net
 speed01.aug.mfst.net
@@ -5395,6 +5396,7 @@ speedtest-mtl.beanfield.com
 speedtest-net-fra.dispaisy.systems
 speedtest-net.xjtlu.edu.cn
 speedtest-nl.bellaliant.net
+speedtest-nl.digiturunc.com
 speedtest-nl.hyperfilter.com
 speedtest-nl.the.hosting
 speedtest-nl.unihost.com
@@ -6192,6 +6194,7 @@ speedtest01-cty-gfld-ma-prod.gcet.net
 speedtest01.ber.server.camp
 speedtest01.bluestreamfiber.net
 speedtest01.imon.net
+speedtest01.netmountains.space
 speedtest01.srv.asbnva.alticeusa.net
 speedtest01.srv.chcgil.alticeusa.net
 speedtest01.srv.dllstx.alticeusa.net
