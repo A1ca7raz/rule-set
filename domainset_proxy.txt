@@ -1961,6 +1961,7 @@ expressvpn.com
 ext-twitch.tv
 externulls.com
 ezocdn.com
+f-cdn.com
 f-droid.org
 f.convertkit.com
 f.hubspotemail.net
