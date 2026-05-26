@@ -1921,6 +1921,7 @@ ero-video.net
 erocdn.co
 eroimg.net
 eroterest.net
+error.c.cdn77.org
 es
 es.pinkbike.org
 esc-apps-cdn.com
@@ -2088,6 +2089,7 @@ fontawesome.com
 fonts.bunny.net
 fonts.cat.net
 fonts.com
+fonts.coollabs.io
 fonts.gishan.cc
 fonts.gsma.com
 fonts.loox.io
