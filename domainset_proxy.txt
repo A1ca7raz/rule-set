@@ -4220,6 +4220,7 @@ ookla-anc.seroficom.com
 ookla-atl.gigsouth.com
 ookla-autazes.amazoniasat-isp.com.br
 ookla-dfw.gigsouth.com
+ookla-estepona.aerioncloud.com
 ookla-in.mercuryfiber.com
 ookla-ita.asanet.tec.br
 ookla-ks.mercuryfiber.com
