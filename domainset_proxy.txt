@@ -7051,6 +7051,7 @@ teste.suprainternet.com.br
 teste.topnetservices.com.br
 teste.tstelecomltda.com.br
 teste.wificonnect.com.br
+teste.wnettecnologia.com.br
 teste.wsfibra.com.br
 teste.wspeednet.com.br
 teste.xfconnect.com.br
@@ -7409,6 +7410,7 @@ velocidade.gcnetprovedor.com.br
 velocidade.giga7telecom.com.br
 velocidade.gtmtelecom.com.br
 velocidade.hnaconecta.com.br
+velocidade.hrcfiber.com
 velocidade.hrctelecom.com.br
 velocidade.idnetttelecom.com.br
 velocidade.impertechtelecom.com.br
