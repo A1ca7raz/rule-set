@@ -5000,6 +5000,7 @@ signalcloud.cdnbye.com
 signalusers.org
 signature.overwolf.com
 silca.cc
+siliguri.zitatel.com
 siloh-ns1.plutotv.net
 simgbb.com
 similarcdn.com
@@ -7332,10 +7333,12 @@ upcitemdb.com
 update.cyberduck.io
 update.microsoft.com
 update.parallels.com
+updateinfo.devmate.com
 updater.snipaste.com
 updates-cdn.bravesoftware.com
 updates.64gr.am
 updates.bravesoftware.com
+updates.devmate.com
 updates.edovia.com
 updates.vibeisland.app
 updownradar.com
