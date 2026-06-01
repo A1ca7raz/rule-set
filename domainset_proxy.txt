@@ -6011,6 +6011,7 @@ speedtest.roraimanet.com.br
 speedtest.routinger.com.br
 speedtest.roweinternet.com
 speedtest.royalehosting.net
+speedtest.s3rdv.com
 speedtest.sahinotomotiv.com
 speedtest.saidnettelecom.com.br
 speedtest.samparkinfo.com
