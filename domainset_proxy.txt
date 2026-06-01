@@ -989,6 +989,7 @@ cdn.miohentai.com
 cdn.mozilla.net
 cdn.music.com
 cdn.myfonts.net
+cdn.myopenpass.com
 cdn.myportfolio.com
 cdn.nba.com
 cdn.nerdschalk.com
