@@ -5084,6 +5084,7 @@ south-plus.org
 sp-chi-01.ezeefiber.net
 sp-sea-01.ezeefiber.net
 sp-thn2.wildanet.com
+sp.corce.link
 sp.esim-international.net
 sp.nba.com
 sp.pendc.com
@@ -6148,6 +6149,7 @@ speedtest.vienna.nodescrape.net
 speedtest.viperhost.net
 speedtest.vipnetconexao.com.br
 speedtest.visiontelecom.com.br
+speedtest.voiceone.dev
 speedtest.voip-unlimited.net
 speedtest.volo.net
 speedtest.vortexnetsol.com
