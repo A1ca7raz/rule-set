@@ -258,8 +258,6 @@ app-analytics-services.com
 app-api.vidjet.io
 app-cdn.logo.com
 app-spm.com
-app-static-prod.posthog.com
-app-static.eu.posthog.com
 app-static.sendsafely.com
 app-static.turtl.co
 app-updates.agilebits.com
@@ -1937,7 +1935,6 @@ etherscan.io
 etsy.com
 etsystatic.com
 eu
-eu-assets.i.posthog.com
 eu-images.contentstack.com
 eu.cdnbye.com
 eu.hamreus.com
@@ -4549,6 +4546,7 @@ pornpics.com
 porntrex.com
 porntube.com
 postapps.com
+posthog.com
 postimg.cc
 postmarkapp.com
 pp-static.monotype.com
@@ -6029,6 +6027,7 @@ speedtest.sercomm.com
 speedtest.serveroyun.com
 speedtest.serverpronto.com
 speedtest.serverside.com
+speedtest.serversistemleri.com
 speedtest.sg220.sgp.sg.ctcsci.com
 speedtest.shtrueinternet.com
 speedtest.sinetonline.net
@@ -7363,7 +7362,6 @@ uptodown.com
 urbanonet.brsserver.com.br
 urlscan.io
 us
-us-assets.i.posthog.com
 us-central1-c.gcp.spd.synthesis.health
 us-js.zonka.co
 us.dyi.ng
