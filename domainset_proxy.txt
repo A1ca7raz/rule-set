@@ -408,6 +408,7 @@ assets.northflank.com
 assets.nxtrace.org
 assets.ontrack.com
 assets.openalternative.co
+assets.openlogi.org
 assets.openshift.com
 assets.openshift.net
 assets.orz.uno
@@ -615,6 +616,7 @@ blogjav.net
 bloomberg.com
 bloomberg.net
 bmp.ovh
+bn.d.miui.com
 bnbstatic.com
 bombay-speedtest.ishancloud.com
 bookface-static.ycombinator.com
