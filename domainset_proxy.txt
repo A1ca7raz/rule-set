@@ -5827,6 +5827,7 @@ speedtest.lax2.sonic.net
 speedtest.lazco.dev
 speedtest.lcom.net
 speedtest.lekloud.net
+speedtest.lhr1.uk.as61049.net
 speedtest.lightsource1.com
 speedtest.link.bm
 speedtest.linkamos.com.br
