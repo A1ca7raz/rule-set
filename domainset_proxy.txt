@@ -5218,6 +5218,7 @@ speed.gatewayftth.com
 speed.gmavt.net
 speed.golddata.net
 speed.grinternett.com.br
+speed.haefeleconnect.com
 speed.hamilton.net
 speed.idnet.net.br
 speed.inet-isp.com
@@ -6194,6 +6195,7 @@ speedtest.xipnet.com
 speedtest.xprimehost.com
 speedtest.xstreamservices.com
 speedtest.yalniz.net
+speedtest.zeer.com.br
 speedtest.zenex5ive.com
 speedtest.zentrointernet.com
 speedtest.zerospace.cloud
@@ -7355,6 +7357,7 @@ upload.teftera.com
 uploadhouse.com
 uploads-cdn.omnicalculator.com
 uploads.bikeindex.org
+uploads.pullfrog.com
 uploads.sitepoint.com
 uplynk.com
 upornia.com
