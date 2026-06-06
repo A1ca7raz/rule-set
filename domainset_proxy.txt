@@ -523,6 +523,7 @@ azureedge.net
 azurerms.com
 azurestaticapps.net
 azurewebsites.net
+b.manufact.com
 b.peatio.com
 b.sf-syn.com
 b2.mcarchive.net
@@ -7213,6 +7214,7 @@ tracking.inflection.io
 tradingview.com
 trafficdeposit.com
 trafficmanager.net
+trakt.tv
 transcend-cdn.com
 travis-ci.com
 travis-ci.org
@@ -7354,6 +7356,7 @@ updownradar.com
 upjav.org
 uplinkfibra.brsserver.com.br
 upload.teftera.com
+uploadcare.mwcglobalprofile.com
 uploadhouse.com
 uploads-cdn.omnicalculator.com
 uploads.bikeindex.org
