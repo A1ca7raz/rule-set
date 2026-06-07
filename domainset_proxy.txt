@@ -5503,6 +5503,7 @@ speedtest.agw2.as49436.net
 speedtest.airlinkdc.com
 speedtest.airmaxnetwork.com
 speedtest.airnetnetworks.com
+speedtest.airsip.net
 speedtest.ak4digital.com.br
 speedtest.alagas.net
 speedtest.alastyr.com
