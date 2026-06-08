@@ -894,6 +894,7 @@ cdn.equalweb.com
 cdn.equinix.com
 cdn.eu.contentful.com
 cdn.evbstatic.com
+cdn.evgnet.com
 cdn.evolution-x.org
 cdn.f5.com
 cdn.faire.com
@@ -4253,6 +4254,7 @@ ookla.evolushost.com
 ookla.fibraleste.com.br
 ookla.fnm.as6453.net
 ookla.fullisp.com.br
+ookla.gctelecom.com.br
 ookla.gru.net
 ookla.hk2.as6453.net
 ookla.idnet.net
@@ -5695,6 +5697,7 @@ speedtest.fra1.hivelocity.net
 speedtest.frankfurt-am-main.valtrix.org
 speedtest.frantic.link
 speedtest.frontier.com
+speedtest.frontlineinternetservices.com
 speedtest.ftmojave.net
 speedtest.ftth.wien
 speedtest.gabysantos.com.br
@@ -6022,6 +6025,7 @@ speedtest.s3rdv.com
 speedtest.sahinotomotiv.com
 speedtest.saidnettelecom.com.br
 speedtest.samparkinfo.com
+speedtest.sandiego.intrepidfiber.com
 speedtest.sbcglobal.net
 speedtest.sc1.loopinternet.com
 speedtest.sea.accretive-networks.net
