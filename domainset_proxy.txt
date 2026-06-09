@@ -445,6 +445,7 @@ assets.tatlerasia.com
 assets.the-independent.com
 assets.tigerdata.com
 assets.tokopedia.net
+assets.transfernow.net
 assets.tvtropes.org
 assets.unifi-ai.com
 assets.upload.io
@@ -1493,6 +1494,7 @@ creative.eizzih.com
 creativelab5.com
 crl.usertrust.com
 crl.verisign.com
+crl3.digicert.com
 crls-speedtest-02.brightspeed.com
 crossbell.io
 crt.comodoca.com
@@ -1707,7 +1709,6 @@ dl.cloudsmith.io
 dl.devmate.com
 dl.dropboxusercontent.com
 dl.elementary.io
-dl.flathub.org
 dl.getaurora.dev
 dl.imobie.com
 dl.min.io
@@ -1874,6 +1875,7 @@ edge.marker.io
 edge.personalizer.io
 edge.sitecorecloud.io
 edge.steam-dns.top.comcast.net
+edge.zerofs.link
 edgeapp.net
 edgecastcdn.net
 edgecdn-embza6g8cacagcbn.z01.azurefd.net
@@ -2072,6 +2074,7 @@ flaglog.com
 flagpedia.net
 flagsapi.com
 flagstaff.speedtest.bluespanwireless.com
+flathub.org
 flickr.com
 flightradar24.com
 flipboard.com
@@ -3242,6 +3245,8 @@ komoot.net
 konachan.com
 konya.verinomidns.com
 kr
+kr1-speedtest-infra.lunaiz.com
+kr2-speedtest-infra.lunaiz.com
 kraken.com
 krllooklaspeed1.jioconnect.com
 ks3-cn-hk-1.ksyuncs.com
@@ -6972,6 +6977,7 @@ synergyse.com
 syrny-speedtest-ookla-02.st.charter.com
 sysctl-explorer.net
 szjal.cn
+t-assets.net
 t-moni.nebulax.digital
 t.betterstack.com
 t.co
