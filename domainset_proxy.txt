@@ -361,6 +361,7 @@ assets.controld.com
 assets.convertkit.com
 assets.customer.io
 assets.cyberghostvpn.com
+assets.dataflare.app
 assets.dnsfilter.com
 assets.documentcloud.org
 assets.driffle.com
@@ -6026,6 +6027,7 @@ speedtest.roraimanet.com.br
 speedtest.routinger.com.br
 speedtest.roweinternet.com
 speedtest.royalehosting.net
+speedtest.rpmgllc.com
 speedtest.s3rdv.com
 speedtest.sahinotomotiv.com
 speedtest.saidnettelecom.com.br
@@ -6289,6 +6291,7 @@ speedtest17.suddenlink.net
 speedtest19.suddenlink.net
 speedtest1a.socket.net
 speedtest1c.hkix.net
+speedtest2-kc.kanren.net
 speedtest2-tor.teksavvy.com
 speedtest2.acentek.net
 speedtest2.aureon.com
@@ -7183,6 +7186,7 @@ tinyurl.com
 tiqcdn.com
 tkcdns.com
 tktube.com
+tls3.speedtest.mire.sfr.net
 tmagazine.com
 tmas-ga-st.highlinefast.com
 tmpfiles.org
