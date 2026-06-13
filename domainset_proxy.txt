@@ -5937,6 +5937,7 @@ speedtest.nextfibra.com
 speedtest.nftctelecom.net
 speedtest.ngcbroadband.com
 speedtest.nikhef.qonnected.net
+speedtest.nl-ams.as210558.net
 speedtest.nl.novoserve.com
 speedtest.nl1.mirhosting.net
 speedtest.nl3.mirhosting.net
