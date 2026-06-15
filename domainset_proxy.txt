@@ -6281,6 +6281,7 @@ speedtest1.whsdk12.net
 speedtest1.xbase.com
 speedtest10.haashnet.com
 speedtest10.vqbn.com
+speedtest10g.ash.as13760.net
 speedtest10g.atl.as13760.net
 speedtest10g.bhm.as13760.net
 speedtest10g.ics-llc.net
@@ -6597,6 +6598,7 @@ static.bytepan.com
 static.c-spanvideo.org
 static.canva.com
 static.captcha-delivery.com
+static.captcha.awswaf.com
 static.carfax.com
 static.cdnlogo.com
 static.chaika.moe
