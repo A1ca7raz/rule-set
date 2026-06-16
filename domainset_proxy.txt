@@ -2187,6 +2187,7 @@ ftp.unicamp.br
 ftpmirror.gnu.org
 ftpmirror.your.org
 ftpmirror1.infania.net
+fullstackopen.com
 fuq.com
 futurecdn.net
 fuwamofu.com
@@ -2581,6 +2582,7 @@ hello.zonos.com
 hembed.com
 hencover.xyz
 henread.xyz
+hentai0.com
 hentaicdn.com
 hentaiera.com
 hentaifox.com
@@ -7433,6 +7435,7 @@ vanspeedtest.altimatel.com
 vaspeedtest.rackdog.com
 vcmdiawe.com
 vectorified.com
+vel.cabralnet.com.br
 velocidad.fiberlink.com.pa
 velocidade-fla.algartelecom.com.br
 velocidade-mns.4wnet.net.br
