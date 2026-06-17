@@ -3266,6 +3266,7 @@ kwcdn.com
 kym-cdn.com
 la-ookla.geolinks.com
 laby.net
+larksuitepkg.com
 lasspeed.sharktech.net
 lasvegas-speedtest.commnetbroadband.com
 latam.orbitor.dev
@@ -5288,6 +5289,7 @@ speed06.gonetspeed.com
 speed07.gonetspeed.com
 speed08.gonetspeed.com
 speed09.gonetspeed.com
+speed1.airtek.com.ve
 speed1.directnet7star.com
 speed1.e-caps.net
 speed1.sandiego.intrepidfiber.com
