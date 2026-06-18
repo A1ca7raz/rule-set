@@ -929,6 +929,7 @@ cdn.heapanalytics.com
 cdn.hellofresh.com
 cdn.hero-sms.com
 cdn.hextom.com
+cdn.hf.co
 cdn.highporn.net
 cdn.hiive.space
 cdn.himetrica.com
@@ -4067,6 +4068,7 @@ netlify.app
 netperf-pl.gigatrans.ua
 nets-mad01.servihosting.net
 netservice01.ber01.lwlcom.net
+netspeed.empireaccess.com
 netspeedtestmaster.com
 network
 new
@@ -6408,6 +6410,7 @@ speedtestpnp.infolinkbroadband.com
 speedtestrm2.tilab.com
 speedtestro.vtal.net.br
 speedtestrr.vtal.net.br
+speedtests.ord.your.org
 speedtestsantarem.zumtelecom.com.br
 speedtestsgc.csmtelecom.net.br
 speedtestshriganganagar.777network.net
