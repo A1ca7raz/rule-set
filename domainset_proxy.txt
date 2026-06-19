@@ -5209,6 +5209,7 @@ speed-test.ukservers.com
 speed.airwavesinternet.com
 speed.alsalamnet.net
 speed.amazonett.com.br
+speed.as198997.net
 speed.beachnet.com.br
 speed.bitnettecnologia.com.br
 speed.brandaonet.com.br
@@ -6134,6 +6135,7 @@ speedtest.tpa1.hivelocity.net
 speedtest.trepicnetworks.com
 speedtest.tri-cogo.com
 speedtest.tricolinksc.com
+speedtest.troccolisistemi.com
 speedtest.tularosa.net
 speedtest.tulix.com
 speedtest.turnkeyinternet.net
@@ -6211,6 +6213,7 @@ speedtest.wolfpaw.net
 speedtest.wp.shawcable.net
 speedtest.wrinternet.com
 speedtest.wtcks.com
+speedtest.x-tabqa.com
 speedtest.xcdtelecom.com
 speedtest.xcelx.net
 speedtest.xipnet.com
