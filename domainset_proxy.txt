@@ -354,6 +354,7 @@ assets.canny.io
 assets.capterra.com
 assets.cello.so
 assets.cgtrader.com
+assets.churnkey.co
 assets.clever-cloud.com
 assets.clickfunnels.com
 assets.cmcmarkets.com
@@ -676,6 +677,7 @@ byspotify.com
 bytebucket.org
 bytedapm.com
 byteoversea.com
+bytescale.mobbin.com
 bytp-speedtest-1.123.net
 bzip.org
 c-bin.b-cdn.net
@@ -1902,6 +1904,7 @@ elgoog.im
 ellsworth.from-ks.com
 elmirror.cl
 els-cdn.com
+embed-audio.cnevids.com
 embed-cloudfront.wistia.com
 embed-ssl.wistia.com
 embed.culturalspot.org
