@@ -364,7 +364,6 @@ dcarlive.com
 dcarstatic.com
 dcarvod.com
 dcloud.io
-devblogs.microsoft.com
 developer.microsoft.com
 dewu.com
 dfcfw.com
