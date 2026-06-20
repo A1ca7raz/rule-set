@@ -7073,6 +7073,7 @@ testdevelocidadvld.jazztel.com
 teste.diotelecom.com.br
 teste.dstelecom.net.br
 teste.firenetwork.com.br
+teste.freedomnetwork.net.br
 teste.grupolivenet.com.br
 teste.i9va.net.br
 teste.jsnet.manaus.br
