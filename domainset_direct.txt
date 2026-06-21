@@ -40,7 +40,6 @@
 -.res.cdn.office.net
 -.router.asus.com
 -.setmeup.arubanetworks.com
--.statics.teams.cdn.office.net
 -.unifi
 -.url.cn
 -.www.intel.cn
@@ -201,6 +200,7 @@ azuremigrate.download.prss.microsoft.com
 azuremigratetest.download.prss.microsoft.com
 azurestackhub.download.prss.microsoft.com
 azurestackhubuat.download.prss.microsoft.com
+b.c2r.ts.cdn.office.net
 baidu.cn
 baidu.com
 baidubce.com
@@ -439,6 +439,7 @@ et8.org
 etao.com
 eudic.net
 exoticaz.to
+f.c2r.ts.cdn.office.net
 fang.com
 feelgood.cn
 feiliao.com
@@ -868,6 +869,7 @@ sdx.microsoft.com
 segmentfault.com
 sevencdn.com
 sharepoint.cn
+shell.cdn.office.net
 shifen.com
 shyhhema.com
 sifou.com
@@ -904,6 +906,7 @@ springernature.com
 springsunday.net
 sspai.com
 staticdn.net
+statics.teams.cdn.office.net
 steam.clngaa.com
 steam.ksyna.com
 steamchina.com
@@ -915,6 +918,7 @@ storeedgefd.dsx.mp.microsoft.com
 suning.cn
 suning.com
 surface.download.prss.microsoft.com
+surface.downloads.prss.microsoft.com
 szbdyd.com
 t.cn
 t3go.cn
