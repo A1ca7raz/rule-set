@@ -4010,6 +4010,7 @@ mui.com
 muku.tv
 mullvad.net
 mum-speedtest.digianaspeednet.com
+mum-speedtest.sanghviinfo.com
 mumbaispeedtest.pioneeronline.com
 mumbaispeedtest.spectra.co
 mumbooklaspeed1.jioconnect.com
@@ -4298,6 +4299,7 @@ ookla.pgservicos.com.br
 ookla.playmaisreverso.net.br
 ookla.pvu.as6453.net
 ookla.pye.as6453.net
+ookla.rbn.gr
 ookla.rcp.net
 ookla.siditelecom-isp.com.br
 ookla.slimnet.com.br
