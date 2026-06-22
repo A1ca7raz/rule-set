@@ -4985,6 +4985,7 @@ sg
 sg-bgp-speedtest.nearoute.io
 sg.cloudhost.asia
 sg.st.spacecore.pro
+sg1-sg.lg.skylineconnect.io
 sgarooklaspeed1.jioconnect.com
 sghome.govpro.app
 sgmlooklaspeed1.jioconnect.com

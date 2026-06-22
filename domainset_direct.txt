@@ -2,6 +2,7 @@
 -.127.skk.moe
 -.acg.tv
 -.api.smoot.apple.cn
+-.app.viayoo.com
 -.appleintelligencefeedback.care.apple.com
 -.assets1.xboxlive.cn
 -.assets2.xboxlive.cn
@@ -38,12 +39,15 @@
 -.res-2.cdn.office.net
 -.res-h3.public.cdn.office.net
 -.res.cdn.office.net
+-.res.viayoo.com
 -.router.asus.com
 -.setmeup.arubanetworks.com
 -.unifi
 -.url.cn
+-.viayoo.com
 -.www.intel.cn
 -.www.layuicdn.com
+-.www.viayoo.com
 10.in-addr.arpa
 10010.com
 10086.cn
