@@ -417,6 +417,7 @@ assets.openshift.net
 assets.orz.uno
 assets.peatio.com
 assets.pingie.com
+assets.pingone.com
 assets.pinterest.com
 assets.pixlee.com
 assets.polarbyte.com
@@ -653,6 +654,7 @@ bucket.noy.asia
 bucket1.notaku.so
 buft-speedtest-02.brightspeed.com
 bugly.qcloud.com
+builds.dotnet.microsoft.com
 builds.paranoidandroid.co
 builds.parsec.app
 bulletin.svc.litv.tv
@@ -1138,6 +1140,7 @@ cdn.uptimia.com
 cdn.usd.fan
 cdn.userreport.com
 cdn.userway.org
+cdn.usestoryteller.com
 cdn.vector.co
 cdn.vemetric.com
 cdn.verifypass.com
@@ -1179,6 +1182,7 @@ cdn1.bigcommerce.com
 cdn1.dan.com
 cdn1.edgedatg.com
 cdn1.epicgames.com
+cdn1.espn.net
 cdn1.ettoday.net
 cdn1.hentaicity.com
 cdn1.hotmoza.tv
@@ -1489,6 +1493,7 @@ cpan.saix.net
 cpan.zbr.pt
 cpp-content.bhn.cards
 cpuid.com
+cr
 cr.yandex
 craftassets.unraid.net
 crashlytics.com
@@ -1531,6 +1536,7 @@ ctfassets.net
 cthd.icu
 cugspeed.chinaunicomglobal.com
 curseforge.com
+cursor-cdn.com
 cuscspeed.169ol.com
 cust924-london01.tropicalgames.net
 customerioforms.com
@@ -1663,6 +1669,7 @@ dialogflow.com
 dictionary.com
 digikeyassets.com
 digital-net-isp.com
+digitalhub.fifa.com
 digitalocean.com
 digitaloceanspaces.com
 dilcdn.com
@@ -2343,7 +2350,6 @@ google.co
 google.co.ao
 google.co.bw
 google.co.ck
-google.co.cr
 google.co.ke
 google.co.ls
 google.co.ma
@@ -3929,7 +3935,6 @@ mirrors.tds.net.org
 mirrors.teamcloud.am
 mirrors.tino.org
 mirrors.ubuntu.dimit.cloud
-mirrors.ucr.ac.cr
 mirrors.uk2.net
 mirrors.up.pt
 mirrors.us.kernel.org
@@ -5227,14 +5232,12 @@ speed.clair.global
 speed.connextelecom.com.br
 speed.cronomagic.com
 speed.cyborgtelecom.com.br
-speed.data.cr
 speed.datahouse.net
 speed.de-west-02.wiit-cloud.io
 speed.dedi.zone
 speed.econett.com.br
 speed.farknet.net
 speed.fgtelecom.com.br
-speed.fibraencasa.cr
 speed.flttelecom.com.br
 speed.fyberlink.com.br
 speed.gatewayftth.com
@@ -5643,7 +5646,6 @@ speedtest.correggio.netandwork.net
 speedtest.crservers.com
 speedtest.csg1.jmfnetworks.net
 speedtest.cstech.com
-speedtest.ct.co.cr
 speedtest.cteducation.net
 speedtest.ctsiok.com
 speedtest.cubedns.com
@@ -5873,7 +5875,6 @@ speedtest.longlines.com
 speedtest.love
 speedtest.lrecok.net
 speedtest.lucas.company
-speedtest.luminet.cr
 speedtest.lumischvps.cloud
 speedtest.lumos.net
 speedtest.lungustefan.com
@@ -6033,7 +6034,6 @@ speedtest.redevisualnet.com.br
 speedtest.redewsp.com.br
 speedtest.resoundnetworks.com
 speedtest.revolutionbroadband.net
-speedtest.reycom.cr
 speedtest.rfchost.net
 speedtest.rfnow.net
 speedtest.rlimn.com
@@ -6128,8 +6128,6 @@ speedtest.theskyinternet.com
 speedtest.thn.lon.network.as201838.net
 speedtest.thn.uk.syntura.io
 speedtest.tierpoint.net
-speedtest.tigo.co.cr
-speedtest.tigo.cr
 speedtest.tirolnet.com
 speedtest.tjokas.com
 speedtest.tlhsflaa.metronetinc.com
@@ -6263,7 +6261,6 @@ speedtest1.axes.com.br
 speedtest1.cfoc.tech
 speedtest1.chi.nxlink.com
 speedtest1.cirbn.net
-speedtest1.claro.cr
 speedtest1.ctstelecom.com
 speedtest1.dpdfsd.com
 speedtest1.dsm1.ippathways.net
@@ -6886,6 +6883,7 @@ store-images.microsoft.com
 store-images.s-microsoft.com
 store1.gofile.io
 stories.freepiklabs.com
+stories.usestoryteller.com
 storillia.rogers.com
 storilliawireless.rogers.com
 storj.io
@@ -7345,7 +7343,6 @@ ubuntu.rootlicense.com
 ubuntu.securedservers.com
 ubuntu.servering.info
 ubuntu.tuxuri.com
-ubuntu.ucr.ac.cr
 ubuntu.unc.edu.ar
 ubuntu.volia.net
 ubuntu.vpsttt.com
@@ -7374,6 +7371,7 @@ unavatar.io
 underhentai.net
 ungh.cc
 ungrounded.net
+unleash.codeium.com
 unpkg.co
 unpkg.com
 unsubscribe-imgs.leavemealone.com
