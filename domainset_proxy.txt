@@ -916,6 +916,7 @@ cdn.foxycart.com
 cdn.freebiesupply.com
 cdn.freesound.org
 cdn.freshdesk.com
+cdn.fundraiseup.com
 cdn.fwupd.org
 cdn.gamemonkey.org
 cdn.getfeedback.com
@@ -1374,6 +1375,7 @@ cloudimg.io
 cloudinary-res.cloudinary.com
 cloudinary.vpsvc.com
 cloudlin.vip
+cltn-speedtest-02.brightspeed.com
 clubhouse.com
 clubhouseapi.com
 cmail19.com
@@ -1742,6 +1744,7 @@ dlhiooklaspeed1.jioconnect.com
 dlhiooklaspeed2.jioconnect.com
 dllstx-ookla1.vyvebroadband.net
 dlsite.com
+dlstats.izzyondroid.org
 dlunar.net
 dmc.nico
 dmcdn.net
@@ -1917,6 +1920,7 @@ embed-cloudfront.wistia.com
 embed-ssl.wistia.com
 embed.culturalspot.org
 embed.getwally.net
+embed.lantern.io
 embed.runkit.com
 embed.savvycal.com
 embed.ted.com
@@ -2147,6 +2151,7 @@ freemirror.org
 freepik.com
 front-resource.fs.com
 frontapp.com
+frontend-apps-multi-region.workos.com
 frontend-apps.workos.com
 frontend-assets.supabase.com
 frontend.floatplane.com
@@ -4179,6 +4184,7 @@ ny3-speedtest.tier.net
 nyaa.land
 nyc01.screenshot.download
 nyc1-speedtest.webnx.com
+nycmetro-speedtest.reliablesite.net
 nycny-speedtest-ookla-01.st.charter.com
 nypost.com
 nyt.com
@@ -5433,6 +5439,7 @@ speedtest-msk.retn.net
 speedtest-mtl.beanfield.com
 speedtest-net-fra.dispaisy.systems
 speedtest-net.xjtlu.edu.cn
+speedtest-newjersey.ripplefiber.com
 speedtest-nl.bellaliant.net
 speedtest-nl.digiturunc.com
 speedtest-nl.hyperfilter.com
@@ -5442,6 +5449,7 @@ speedtest-nl.webdade.com
 speedtest-ns.bellaliant.net
 speedtest-ntt-fra.as20011.net
 speedtest-ntt-ldn.as20011.net
+speedtest-nwrk-nj.wtsky.net
 speedtest-nxtb2.fsg-hosting.com
 speedtest-nxts1.fsg-hosting.com
 speedtest-nyc.dish-wireless.com
@@ -5736,6 +5744,7 @@ speedtest.gigas.com
 speedtest.gigawebtecnologia.com.br
 speedtest.gilarivertel.com
 speedtest.global-layer.com
+speedtest.globalfiberbrasil.com.br
 speedtest.gmtel.net
 speedtest.gobec.net
 speedtest.goetel.net
@@ -6165,6 +6174,7 @@ speedtest.us-at.kamatera.com
 speedtest.us-ch.kamatera.com
 speedtest.us-la.kamatera.com
 speedtest.us-mi2.kamatera.com
+speedtest.us-ny2.kamatera.com
 speedtest.us-se.kamatera.com
 speedtest.us-tx.kamatera.com
 speedtest.us.grupogtd.com
@@ -6249,6 +6259,7 @@ speedtest01.srv.snjsca.alticeusa.net
 speedtest01.wowrack.com
 speedtest02.bluestreamfiber.net
 speedtest02.coppernet.net
+speedtest02.srv.prnynj.alticeusa.net
 speedtest03.ber.server.camp
 speedtest03.bluestreamfiber.net
 speedtest03.srv.whplny.alticeusa.net
@@ -6645,6 +6656,7 @@ static.filestackapi.com
 static.foxbusiness.com
 static.frame.work
 static.freeimages.com
+static.fundraiseup.com
 static.getbutton.io
 static.getpostman.com
 static.giant-bicycles.com
@@ -6883,6 +6895,7 @@ storangeville.rogers.com
 storangevillewireless.rogers.com
 store-images.microsoft.com
 store-images.s-microsoft.com
+store.nethunter.com
 store1.gofile.io
 stories.freepiklabs.com
 stories.usestoryteller.com
@@ -6903,6 +6916,7 @@ stosat-indp-01.sys.comcast.net
 stosat-jkvl-01.sys.comcast.net
 stosat-ndhm-01.sys.comcast.net
 stosat-pima-01.sys.comcast.net
+stosat-plfi-08p.sys.comcast.net
 stosat-rvlt-01.sys.comcast.net
 stosat-smil-01.sys.comcast.net
 stosat-tall-01.sys.comcast.net
@@ -7704,6 +7718,7 @@ wordpress.org
 wordtune.com
 workday.com
 workers.dev
+workoscdn.com
 wowmodels.com
 wp.com
 wp.salesforce.com
