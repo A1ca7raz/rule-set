@@ -1729,10 +1729,12 @@ dl.imobie.com
 dl.min.io
 dl.motrix.app
 dl.nwjs.io
+dl.orangefox.download
 dl.playstation.net
 dl.pstmn.io
 dl.snipaste.com
 dl.tailscale.com
+dl.twrp.me
 dl.vanadium.app
 dl.vibeisland.app
 dl.wechat.com
