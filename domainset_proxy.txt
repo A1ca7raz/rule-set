@@ -6010,6 +6010,7 @@ speedtest.peariverbroadband.com
 speedtest.pemtelco.com
 speedtest.pendc.com
 speedtest.philasd.org
+speedtest.phlconnect.com.br
 speedtest.phnxaz19.metronetinc.com
 speedtest.phoenix.xiber.net
 speedtest.phoenixnap.com
@@ -6245,6 +6246,7 @@ speedtest.zerospace.cloud
 speedtest.zivlinaa.metronetinc.com
 speedtest.zoominternet.net
 speedtest.zoomtelcom.com
+speedtest.zttcc.cloud
 speedtest001.bfinetworks.com
 speedtest001.dnainfotel.com
 speedtest01-cty-gfld-ma-prod.gcet.net
@@ -7617,6 +7619,7 @@ web-sdk.eyefitu.com
 web-toolbar.playstation.com
 web.app
 web.dev
+web01.onthepixel.net
 webappassets.smartsheet.com
 webcdn.17app.co
 webfe.shopee.io
