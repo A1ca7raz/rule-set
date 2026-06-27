@@ -2635,6 +2635,7 @@ hk.mymonitor.space
 hk01.bigball.top
 hk01.com
 hkepc.com
+hkg.speedtest.lshiy.net
 hkspeedtest.netvigator.com
 hkt.hkspeedtest.com
 hkthspeedtest02.telstraglobal.net
@@ -5162,6 +5163,7 @@ sp1.raplink.com.br
 sp1.redenettelecom-ce.com.br
 sp1.scinternet.net
 sp1.sellnett.com.br
+sp1.semfronteiras.net.br
 sp1.simplybits.net
 sp1.snsinternet.com
 sp1.sntisp.com
@@ -5556,6 +5558,7 @@ speedtest.amazontelecom.com.br
 speedtest.americatelecom.net.br
 speedtest.amesiaaa.metronetinc.com
 speedtest.amnet.net.br
+speedtest.ams.fdcservers.net
 speedtest.ams.sharktech.net
 speedtest.ams.wd6.net
 speedtest.ams0.nl.as61049.net
@@ -5587,6 +5590,7 @@ speedtest.asbn.va.wtsky.net
 speedtest.asimonetworks.com
 speedtest.asymptote.cc
 speedtest.atccomm.net
+speedtest.atl.fdcservers.net
 speedtest.atl.hivelocity.net
 speedtest.atl1.jmfnetworks.net
 speedtest.atl1.nitelusa.net
@@ -5630,6 +5634,7 @@ speedtest.chi.gigenet.com
 speedtest.chi.sharktech.net
 speedtest.chi1.nitelusa.net
 speedtest.chickasawphone.net
+speedtest.chie.fdcservers.net
 speedtest.chisholmbb.com
 speedtest.cirbn.net
 speedtest.circlebwirelessllc.com
@@ -5856,6 +5861,7 @@ speedtest.kraus.jbarbieri.net
 speedtest.ktis.net
 speedtest.kuducom.com
 speedtest.la2.gigabitnow.com
+speedtest.la3eq.fdcservers.net
 speedtest.labixe.net
 speedtest.lagrangeremcisp.net
 speedtest.lakelandnetworks.com
@@ -5869,6 +5875,7 @@ speedtest.lax1.nitelusa.net
 speedtest.lax2.sonic.net
 speedtest.lazco.dev
 speedtest.lcom.net
+speedtest.ld7.fdcservers.net
 speedtest.lekloud.net
 speedtest.lhr1.uk.as61049.net
 speedtest.lightsource1.com
@@ -6147,6 +6154,7 @@ speedtest.tjokas.com
 speedtest.tlhsflaa.metronetinc.com
 speedtest.tngnet.com
 speedtest.topnettelecomservicos.com.br
+speedtest.tor.fdcservers.net
 speedtest.toshamisp.com
 speedtest.townisp.com
 speedtest.tpa1.hivelocity.net
@@ -6192,6 +6200,7 @@ speedtest.vc.shawcable.net
 speedtest.verimek.com
 speedtest.vermontel.net
 speedtest.viberlink.net
+speedtest.vie.fdcservers.net
 speedtest.vienna.nodescrape.net
 speedtest.viperhost.net
 speedtest.vipnetconexao.com.br
@@ -6205,6 +6214,7 @@ speedtest.vt.mycci.net
 speedtest.vuduacres.com
 speedtest.waicore.com
 speedtest.wakewireless.net
+speedtest.war.fdcservers.net
 speedtest.warian.net
 speedtest.warsaw.valtrix.org
 speedtest.waterloofiber.com
@@ -7407,6 +7417,7 @@ updates.64gr.am
 updates.bravesoftware.com
 updates.devmate.com
 updates.edovia.com
+updates.openlogi.org
 updates.vibeisland.app
 updownradar.com
 upjav.org
