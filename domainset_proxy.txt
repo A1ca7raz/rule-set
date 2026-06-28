@@ -6083,6 +6083,7 @@ speedtest.serveroyun.com
 speedtest.serverpronto.com
 speedtest.serverside.com
 speedtest.serversistemleri.com
+speedtest.sg.fdcservers.net
 speedtest.sg220.sgp.sg.ctcsci.com
 speedtest.shtrueinternet.com
 speedtest.sinetonline.net
