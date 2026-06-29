@@ -2263,6 +2263,7 @@ girlsgogames.com
 girlsgogamescdn.com
 gis.pinkbike.org
 giscus.app
+gisho.work
 git.io
 gitbook.com
 gitbook.io
@@ -5417,6 +5418,7 @@ speedtest-nl.hyperfilter.com
 speedtest-nl.the.hosting
 speedtest-nl.unihost.com
 speedtest-nl.webdade.com
+speedtest-nl1.expresshost.cloud
 speedtest-ns.bellaliant.net
 speedtest-ntt-fra.as20011.net
 speedtest-ntt-ldn.as20011.net
