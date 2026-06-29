@@ -144,6 +144,7 @@
 9game.cn
 9xiu.com
 abchina.com
+ac.cn
 acfun.cn
 acgvideo.com
 acm.org
@@ -655,6 +656,7 @@ livechina.cn
 livechina.com
 ljcdn.com
 lkcoffee.com
+lltskb.com
 local
 localdomain
 lofter.com

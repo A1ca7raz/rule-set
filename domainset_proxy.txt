@@ -1289,6 +1289,7 @@ cfr.org
 cfvod.kaltura.com
 ch
 change.org
+changelog-widget.canny.io
 channel4.com
 channel5.com
 characterai.io
@@ -1368,6 +1369,7 @@ cloudimg.io
 cloudinary-res.cloudinary.com
 cloudinary.vpsvc.com
 cloudlin.vip
+cloudns.net
 cltn-speedtest-02.brightspeed.com
 clubhouse.com
 clubhouseapi.com
@@ -1561,6 +1563,7 @@ dam.freshworks.com
 damassets.autodesk.net
 dashlane.com
 dassets.shimano.com
+data.caida.org
 data.cdn.siemens.com
 data.debugbear.com
 data.pendo.io
@@ -1642,6 +1645,7 @@ deno.land
 denopkg.com
 denspeed.sharktech.net
 descopecdn.com
+desec.io
 design-assets.hubspot.com
 design-system.yext.com
 design.keyoxide.org
@@ -7652,6 +7656,7 @@ widget.finlogix.com
 widget.freshworks.com
 widget.gotolstoy.com
 widget.reviews.io
+widget.rss.app
 widget.usepylon.com
 widget.user.com
 widget.usersnap.com
