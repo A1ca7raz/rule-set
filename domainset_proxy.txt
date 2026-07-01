@@ -155,6 +155,7 @@ akamaihd.net
 akidoo.top
 akrd-speedtest.loni.org
 albuquerque-speedtest.sacredwindcommunications.com
+albynynp-ookla01.gonetspeed.com
 aldlmi-speedtest-ookla-01.st.charter.com
 algolianet.com
 allawnofs.com
@@ -304,6 +305,7 @@ archiveofourown.org
 armorgames.com
 artfiles.org
 artifacts.electronjs.org
+artifacts.nixos.org
 artstation.com
 asanet.brsserver.com.br
 asanet1.brsserver.com.br
@@ -1139,6 +1141,7 @@ cdn.userreport.com
 cdn.userway.org
 cdn.usestoryteller.com
 cdn.vector.co
+cdn.veeam.com
 cdn.vemetric.com
 cdn.verifypass.com
 cdn.viafoura.net
@@ -1431,6 +1434,7 @@ connect-js.stripe.com
 connect.facebook.net
 connect.getflowbox.com
 connect.nosto.com
+consent.formula1.com
 consentdeliveryfd.azurefd.net
 content-management-files.canva.com
 content-origin.steampowered.com
@@ -2220,6 +2224,8 @@ gameflare.com
 gameloft.com
 gamesgamescdn.com
 gammacdn.com
+gannett-cdn.com
+gannett-cdn.ex.co
 garmin.com
 garmincdn.com
 gartner.com
@@ -3494,6 +3500,7 @@ media.e4le.me
 media.ettoday.net
 media.fidoalliance.org
 media.flaticon.com
+media.formula1.com
 media.fs.com
 media.gamestop.com
 media.geeksforgeeks.org
@@ -6658,6 +6665,7 @@ static.fc2id.com
 static.ffx.io
 static.filehorse.com
 static.filestackapi.com
+static.formula1.com
 static.foxbusiness.com
 static.frame.work
 static.freeimages.com
@@ -6833,6 +6841,8 @@ steam.naeu.qtlglb.com
 steam.ru.qtlglb.com
 steamcommunity.com
 steamcontent.com
+steamdeck-images.steamos.cloud
+steamdeck-packages.steamos.cloud
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
