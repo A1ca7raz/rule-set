@@ -4241,6 +4241,7 @@ ookla-2.man.as58246.net
 ookla-anc.seroficom.com
 ookla-atl.gigsouth.com
 ookla-autazes.amazoniasat-isp.com.br
+ookla-ber.evolushost.com
 ookla-dfw.gigsouth.com
 ookla-estepona.aerioncloud.com
 ookla-in.mercuryfiber.com
@@ -6082,6 +6083,7 @@ speedtest.sg.fdcservers.net
 speedtest.sg220.sgp.sg.ctcsci.com
 speedtest.shentel.net
 speedtest.shtrueinternet.com
+speedtest.sidicoimbratelecom.com.br
 speedtest.sinetonline.net
 speedtest.singapore.globalxtreme.net
 speedtest.sinovatec.com
@@ -6251,6 +6253,7 @@ speedtest.zeer.com.br
 speedtest.zenex5ive.com
 speedtest.zentrointernet.com
 speedtest.zerospace.cloud
+speedtest.zetrikcloud.com
 speedtest.zivlinaa.metronetinc.com
 speedtest.zoominternet.net
 speedtest.zoomtelcom.com
