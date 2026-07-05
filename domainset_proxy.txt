@@ -532,6 +532,7 @@ b.manufact.com
 b.peatio.com
 b.sf-syn.com
 b2.mcarchive.net
+b2b-contenthub.com
 b2c-contenthub.com
 babeltik.com
 backend.librespeed.org
@@ -3303,6 +3304,7 @@ learn-attachment.microsoft.com
 lecontent.sololearn.com
 ledger.com
 leetcode.com
+legacy-us-images.foundryco.app
 lencr.org
 lethe.chinstrap.org
 letsencrypt.org
@@ -5060,6 +5062,7 @@ slidesharecdn.com
 sllgooklaspeed1.jioconnect.com
 slrmpqfh-speedtest-01.telus.com
 sm.ign.com
+sm.pcmag.com
 smartmailcloud.com
 smartmediarep.com
 smartscreen.microsoft.com
