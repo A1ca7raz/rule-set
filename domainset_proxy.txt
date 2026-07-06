@@ -426,6 +426,7 @@ assets.queue-it.net
 assets.redbullshop.com
 assets.repair.org
 assets.reviews.io
+assets.ryanair.com
 assets.safing.io
 assets.salesmartly.com
 assets.scaleflex.com
@@ -762,6 +763,7 @@ cdn-longterm.mee6.xyz
 cdn-loyalty.yotpo.com
 cdn-main.plus500.com
 cdn-node.diskpart.com
+cdn-o.suno.com
 cdn-one.com
 cdn-patch.swtor.com
 cdn-plain.com
@@ -835,6 +837,7 @@ cdn.c1.amplience.net
 cdn.calibermind.com
 cdn.cameo.com
 cdn.camweara.com
+cdn.candid.org
 cdn.casetify.com
 cdn.cbd.int
 cdn.changelog.com
@@ -988,6 +991,7 @@ cdn.manageengine.com
 cdn.masto.host
 cdn.mathjax.org
 cdn.matterhorn.app
+cdn.mcp-use.com
 cdn.mcr.ea.com
 cdn.mer.run
 cdn.mercury.com
@@ -6513,6 +6517,7 @@ spx.neonetce.com.br
 spx.r2mpe.com.br
 sqaookla.ddns.net
 sqspcdn.com
+squarecdn.com
 squarespace-cdn.com
 srcdn.com
 srv02-sjdm.imj-wanklik.com
