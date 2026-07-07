@@ -5389,6 +5389,7 @@ speedtest-fra.melbicom.net
 speedtest-fyvl.areon.net
 speedtest-ga2.truvista.net
 speedtest-hkg.retn.net
+speedtest-huachuca.cochise.net
 speedtest-hv-1.zoominternet.net
 speedtest-iad.acreto.net
 speedtest-iad.dish-wireless.com
@@ -5857,6 +5858,7 @@ speedtest.kr260.gmp.kr.ctcsci.com
 speedtest.kraus.jbarbieri.net
 speedtest.ktis.net
 speedtest.kuducom.com
+speedtest.kyouma.net
 speedtest.la2.gigabitnow.com
 speedtest.la3eq.fdcservers.net
 speedtest.labixe.net
@@ -6280,6 +6282,7 @@ speedtest01.srv.phnxaz.alticeusa.net
 speedtest01.srv.snjsca.alticeusa.net
 speedtest01.wowrack.com
 speedtest02.bluestreamfiber.net
+speedtest02.cochise.net
 speedtest02.coppernet.net
 speedtest02.srv.prnynj.alticeusa.net
 speedtest03.ber.server.camp
@@ -7098,6 +7101,7 @@ test.infoconnecttelecom.com.br
 test.internetliontelecom.com.br
 test.logae.net.br
 test.manyse.com
+test.mycloudvps.net
 test.rconnects.com
 test.rnfibra.com.br
 test.slic.com
