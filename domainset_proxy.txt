@@ -5496,6 +5496,7 @@ speedtest-tus-az.ngxnetworks.net
 speedtest-txg.infinirc.net
 speedtest-uk.the.hosting
 speedtest-utc.northland.net
+speedtest-val.masmovil.com
 speedtest-van.beanfield.com
 speedtest-vix.cosys.cc
 speedtest-vsbu.rolimnet.com.br
@@ -5694,6 +5695,7 @@ speedtest.ed.shawcable.net
 speedtest.ediscom.net
 speedtest.eidnet.org
 speedtest.einet.etc.br
+speedtest.eletrochip.net.br
 speedtest.elsynet.net
 speedtest.embrasnet.com.br
 speedtest.empireaccess.com
@@ -7519,6 +7521,7 @@ velocidade.megawavetelecom.com.br
 velocidade.milaninnet.com.br
 velocidade.ndtelecom.com.br
 velocidade.netshowtelecom.com.br
+velocidade.newclicktelecom.com.br
 velocidade.niktelecom.com.br
 velocidade.oxetelecomce.com.br
 velocidade.phinfortelecom.com.br
