@@ -1310,6 +1310,7 @@ chat.digitalgenius.com
 chatgpt.com
 chatwidgetmetrics-proxy.usepylon.com
 chcdn.xyz
+chd.softechinfosol.com
 chdspd.myinternet.services
 checkout-sdk.bigcommerce.com
 checkout.stripe.com
