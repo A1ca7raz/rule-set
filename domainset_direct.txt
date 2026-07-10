@@ -42,6 +42,7 @@
 -.res.viayoo.com
 -.router.asus.com
 -.setmeup.arubanetworks.com
+-.statics.teams.cdn.office.net
 -.unifi
 -.url.cn
 -.viayoo.com
@@ -912,7 +913,6 @@ springernature.com
 springsunday.net
 sspai.com
 staticdn.net
-statics.teams.cdn.office.net
 steam.clngaa.com
 steam.ksyna.com
 steamchina.com
@@ -920,7 +920,6 @@ steamcontent.com
 steamserver.net
 storecorefulfillment.download.prss.microsoft.com
 storeedge.microsoft.com
-storeedgefd.dsx.mp.microsoft.com
 suning.cn
 suning.com
 surface.download.prss.microsoft.com
