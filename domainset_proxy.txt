@@ -5393,6 +5393,7 @@ speedtest-florida.hyperfiber.com
 speedtest-fra.melbicom.net
 speedtest-fyvl.areon.net
 speedtest-ga2.truvista.net
+speedtest-hk.tgb-host.com
 speedtest-hkg.retn.net
 speedtest-huachuca.cochise.net
 speedtest-hv-1.zoominternet.net
