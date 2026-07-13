@@ -1597,6 +1597,7 @@ dc-telemetry.net
 dca-ll-livedazn-dznlivejp.s.llnwi.net
 dcalivedazn.akamaized.net
 dcblivedazn.akamaized.net
+dd-static.net
 dd.blackhawknetwork.com
 dd.dexscreener.com
 dditsadn.com
@@ -1983,6 +1984,7 @@ events.backtrace.io
 events.ld.catamorphic.com
 events.tableplus.com
 everymac.com
+exbd.ex.co
 exc-speedtest.unitedfiber.com
 exhentai.org
 exp-tas.com
@@ -3000,11 +3002,13 @@ imgflip.com
 imgikuncdn.com
 imgikzy.com
 imgimg.cc
+imgix.datadoghq.com
 imgix.net
 imglink.win
 imgmrplay.xyz
 imgpng.xyz
 imgproxy.fourthwall.com
+imgproxy.org
 imgs.socialinsider.io
 imgs02.aventertainments.com
 imgs3.hcaptcha.com
