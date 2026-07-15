@@ -370,7 +370,6 @@ dcarlive.com
 dcarstatic.com
 dcarvod.com
 dcloud.io
-developer.microsoft.com
 dewu.com
 dfcfw.com
 dianping.com
@@ -876,7 +875,6 @@ sdx.microsoft.com
 segmentfault.com
 sevencdn.com
 sharepoint.cn
-shell.cdn.office.net
 shifen.com
 shyhhema.com
 sifou.com
