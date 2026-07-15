@@ -752,6 +752,7 @@ cdn-dynmedia-1.microsoft.com
 cdn-edge.karte.io
 cdn-eu.dynamicyield.com
 cdn-eu.readspeaker.com
+cdn-fi-1.comaps.app
 cdn-forum.networklessons.com
 cdn-icons-png.flaticon.com
 cdn-image01.casetify.com
@@ -763,6 +764,7 @@ cdn-live.foreignaffairs.com
 cdn-longterm.mee6.xyz
 cdn-loyalty.yotpo.com
 cdn-main.plus500.com
+cdn-nl1.organicmaps.app
 cdn-node.diskpart.com
 cdn-o.suno.com
 cdn-one.com
@@ -783,6 +785,9 @@ cdn-swell-assets.yotpo.com
 cdn-teams-slug.flaticon.com
 cdn-telegram.org
 cdn-uicons.flaticon.com
+cdn-uk1.organicmaps.app
+cdn-us-1.comaps.app
+cdn-us-2.comaps.tech
 cdn-us.readspeaker.com
 cdn-website.com
 cdn-widgetsrepository.yotpo.com
@@ -3464,6 +3469,7 @@ manhuagui.com
 mantisloader.mantis-awx.com
 map.adsbexchange.com
 mapbox.com
+mapgen-fi-1.comaps.app
 mapi.4kvm.net
 maps.geoapify.com
 maps.wplace.live
@@ -6064,6 +6070,7 @@ speedtest.ptsi.net
 speedtest.quadro.net
 speedtest.rackoona.com
 speedtest.raftarnet.com
+speedtest.rajeshcable.com
 speedtest.razorblue.com
 speedtest.readingsd.org
 speedtest.redevisualnet.com.br
