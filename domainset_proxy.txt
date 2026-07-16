@@ -2652,6 +2652,7 @@ hkt.hkspeedtest.com
 hkthspeedtest02.telstraglobal.net
 hl-speed.twmbroadband.com
 hls.hentaicity.com
+hmc-speedtest.northstate.net
 holopin.io
 home.integrate.com
 homedepot.com
