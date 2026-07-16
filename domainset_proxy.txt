@@ -1088,7 +1088,6 @@ cdn.sapphire.microsoftapp.net
 cdn.scalar.com
 cdn.schemaapp.com
 cdn.sciencecast.org
-cdn.scripts.wtwhmedia.com
 cdn.sedo.com
 cdn.segment.com
 cdn.seline.so
@@ -1182,7 +1181,6 @@ cdn.yinghuazy.xyz
 cdn.ywxi.net
 cdn.zapier.com
 cdn.zeabur.com
-cdn.zhujiwiki.com
 cdn.zigpoll.com
 cdn.zolplay.com
 cdn0-i.techbang.com
@@ -1211,6 +1209,7 @@ cdn1122.com
 cdn2.abiresearch.com
 cdn2.airdroid.com
 cdn2.bigcommerce.com
+cdn2.cameo.com
 cdn2.dan.com
 cdn2.edgedatg.com
 cdn2.editmysite.com
@@ -1315,7 +1314,6 @@ chat-assets.front.app
 chat.com
 chat.digitalgenius.com
 chatgpt.com
-chatwidgetmetrics-proxy.usepylon.com
 chcdn.xyz
 chd.softechinfosol.com
 chdspd.myinternet.services
@@ -2844,7 +2842,6 @@ images.everyplate.com
 images.fandango.com
 images.filepuma.com
 images.financemagnates.com
-images.freeimages.com
 images.g2crowd.com
 images.hentaicity.com
 images.hothardware.com
@@ -2928,7 +2925,6 @@ img.apponic.com
 img.atlasobscura.com
 img.badgesize.io
 img.biguz.net
-img.bttimg.com
 img.catwvod.xyz
 img.clerk.com
 img.connatix.com
@@ -2954,7 +2950,6 @@ img.kbhgames.com
 img.logokit.com
 img.ltyears.com
 img.lvv2.com
-img.m.mw
 img.majors.im
 img.manyse.com
 img.ml0987.com
@@ -2962,7 +2957,6 @@ img.moedog.org
 img.mresou.com
 img.noy.asia
 img.perfops.net
-img.represent.com
 img.riskified.com
 img.shoplineapp.com
 img.sooplive.com
@@ -4831,6 +4825,9 @@ rsms.me
 rspcdn.net
 rss3.dev
 rsync.fjordos.com
+rt1.maphub.net
+rt2.maphub.net
+rt3.maphub.net
 rtcg-access.bytevcloud.com
 rtings.com
 rts-static-prod.freshworksapi.com
@@ -5215,6 +5212,7 @@ spdfra.cndd.net
 spdms.mytpn.net
 spdookla10g0201.noanet.net
 spdt.voenetworks.com
+spdtest.omegatelecom.net.br
 spdtestkpr.myinternet.services
 spdtst-southbend.fourway.net
 spdtst.iad.xenyth.net
@@ -6589,6 +6587,8 @@ st1.scaleway.com
 st1.stratusnet.com
 st1.tbaytel.net
 st1.tzulo.com
+st1.worldfibernet.com
+st1alguazas.borecom.com
 st2-lax.panaops.com
 st2-msn.5nines.com
 st2.3c1b.com
@@ -6620,7 +6620,6 @@ static-assets.juksy.com
 static-assets.vinted.com
 static-cache.fboom.me
 static-cache.k2s.cc
-static-cdn.bytegiftia.top
 static-cf.foxdata.com
 static-community.tp-link.com
 static-dm.ubisoft.com
@@ -6701,7 +6700,6 @@ static.filestackapi.com
 static.formula1.com
 static.foxbusiness.com
 static.frame.work
-static.freeimages.com
 static.fundraiseup.com
 static.getbutton.io
 static.getpostman.com
@@ -6734,6 +6732,7 @@ static.killedbygoogle.com
 static.klaviyo.com
 static.licdn.com
 static.lwn.net
+static.maphub.net
 static.maxmind.com
 static.meiguo.com
 static.mendeley.com
@@ -7560,6 +7559,7 @@ velocimetro.fibernetwork.com.br
 velocimetro.govistabr.com.br
 velocimetro.proveinter.com.br
 velocimetro.speednetworks.com.br
+velocimetro.stylosnet.com.br
 velocimetro.wiretelecom.com.br
 velocimetro.wspeednet.com.br
 velocimetrostm.interlig.net
