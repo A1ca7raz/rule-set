@@ -1581,6 +1581,7 @@ dassets.shimano.com
 data.caida.org
 data.cdn.siemens.com
 data.debugbear.com
+data.peer.as
 data.pendo.io
 data.schemaapp.com
 data.web.clickup.com
@@ -6373,6 +6374,7 @@ speedtest2.dpdfsd.com
 speedtest2.flowtrinidad.com
 speedtest2.grm.net
 speedtest2.htcnetracer.com
+speedtest2.il.mycci.net
 speedtest2.keyubu.com
 speedtest2.mfbroadband.com
 speedtest2.mywnz.com
