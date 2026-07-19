@@ -6328,6 +6328,7 @@ speedtest1.hostin.cc
 speedtest1.hyperflexbb.com
 speedtest1.indosatooredoo.com
 speedtest1.itp360.com
+speedtest1.lax1-us.gozfly.net
 speedtest1.mia.fl.us.convergia.net
 speedtest1.nardc.com
 speedtest1.nckcn.com
