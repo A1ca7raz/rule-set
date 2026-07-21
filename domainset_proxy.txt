@@ -6067,6 +6067,7 @@ speedtest.provedoracesso.net
 speedtest.provedornet.net.br
 speedtest.provisiondata.net
 speedtest.ptsi.net
+speedtest.puraknet.com.br
 speedtest.quadro.net
 speedtest.rackoona.com
 speedtest.raftarnet.com
@@ -7256,6 +7257,7 @@ tiles.planet.com
 tiles.stadiamaps.com
 tiles.terria.io
 tiles.versatiles.org
+tiles.zoom.earth
 tiles0.planet.com
 tiles1.planet.com
 tiles2.mapiful.com
