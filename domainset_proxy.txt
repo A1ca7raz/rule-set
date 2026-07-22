@@ -4068,6 +4068,7 @@ namedotcom-cdn.name.tools
 nas2.d.tube
 navegaooklafortaleza.navegamais.com.br
 naver.com
+navi-mumbai-speedtest.wsnl-isp.net
 navismithapis-cdn.com
 nbc.com
 nbclosangeles.com
@@ -5805,6 +5806,7 @@ speedtest.homecomminc.com
 speedtest.honest.net
 speedtest.hostabil.net
 speedtest.hostdzire.com
+speedtest.hostgrap.com
 speedtest.hostimux.com
 speedtest.hytekcomputers.com
 speedtest.i3broadband.com
@@ -5922,6 +5924,7 @@ speedtest.macapatelecom.net.br
 speedtest.macrosignal.net
 speedtest.mad2.edgoo.net
 speedtest.maisnetfibra.net.br
+speedtest.marshallfibernet.com
 speedtest.maryno.net
 speedtest.massivemesh.com
 speedtest.masteritsupport.com
@@ -6315,11 +6318,13 @@ speedtest1-qupra-ams-nl.ebgp.fi
 speedtest1-sttlwawb.as20055.net
 speedtest1.acentek.net
 speedtest1.alpinecom.net
+speedtest1.atl1-us.gozfly.net
 speedtest1.axes.com.br
 speedtest1.cfoc.tech
 speedtest1.chi.nxlink.com
 speedtest1.cirbn.net
 speedtest1.ctstelecom.com
+speedtest1.dfw1-us.gozfly.net
 speedtest1.dpdfsd.com
 speedtest1.dsm1.ippathways.net
 speedtest1.fibratown.com
@@ -6599,6 +6604,7 @@ st2-msn.5nines.com
 st2.3c1b.com
 st2.wificanarias.com
 st2a.les.net
+st3.depositphotos.com
 st3.surajnetwork.com
 st3.wificanarias.com
 stackassets.com
