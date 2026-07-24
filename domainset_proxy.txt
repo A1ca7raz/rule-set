@@ -6280,6 +6280,7 @@ speedtest.xcelx.net
 speedtest.xipnet.com
 speedtest.xprimehost.com
 speedtest.xstreamservices.com
+speedtest.xxs-speedtest-zxxy.me
 speedtest.yalniz.net
 speedtest.zeer.com.br
 speedtest.zenex5ive.com
