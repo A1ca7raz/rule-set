@@ -5544,6 +5544,7 @@ speedtest.acenetbj.com.br
 speedtest.acrospirenetworks.com
 speedtest.actelecom.com.br
 speedtest.advps.org
+speedtest.aerloop.com
 speedtest.agilityparacuru.com.br
 speedtest.agw1.as49436.net
 speedtest.agw2.as49436.net
