@@ -4666,6 +4666,7 @@ public.zoorix.com
 publicsuffix.org
 pubmirrors.dal.corespace.com
 purtel39.purtel.com
+purtel70.purtel.com
 push-apple.com.akadns.net
 pusher.com
 px-cloud.net
