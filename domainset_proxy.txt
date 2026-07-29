@@ -490,6 +490,7 @@ atlassian.com
 atlassian.net
 atlat0001speedtestserver01.wiline.com
 atlat0001speedtestserver02.wiline.com
+atmeta.com
 atom.com
 attach.setn.com
 au
@@ -555,6 +556,7 @@ bandcamp.com
 bandwagonhost.com
 bang.com
 bangumi.moe
+bangumi.tv
 banners.chessbase.com
 barracuda-assets.zoovu.com
 barracuda-cdn.zoovu.com
@@ -2799,7 +2801,6 @@ image.status.io
 image.telanganatoday.com
 image.theblockbeats.info
 image.thefly.com
-image.tmdb.org
 image.vuukle.com
 image.worthepenny.com
 image.xmanhua.net
@@ -2957,6 +2958,10 @@ img.manyse.com
 img.ml0987.com
 img.moedog.org
 img.mresou.com
+img.novipnoad.cc
+img.novipnoad.com
+img.novipnoad.net
+img.novipnoad.xyz
 img.noy.asia
 img.perfops.net
 img.riskified.com
@@ -6719,6 +6724,7 @@ static.fundraiseup.com
 static.getbutton.io
 static.getpostman.com
 static.giant-bicycles.com
+static.giffgaff.com
 static.gigabyte.com
 static.gl-inet.com
 static.global.visioncritical.com
@@ -7289,6 +7295,7 @@ tkcdns.com
 tktube.com
 tmagazine.com
 tmas-ga-st.highlinefast.com
+tmdb.org
 tmpfiles.org
 tmsimg.com
 tn.tubepornclassic.com
