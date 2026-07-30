@@ -4324,6 +4324,7 @@ ookla.pgservicos.com.br
 ookla.playmaisreverso.net.br
 ookla.pvu.as6453.net
 ookla.pye.as6453.net
+ookla.radishnetworks.net
 ookla.rbn.gr
 ookla.rcp.net
 ookla.siditelecom-isp.com.br
@@ -5260,6 +5261,7 @@ speed.econett.com.br
 speed.farknet.net
 speed.fgtelecom.com.br
 speed.flttelecom.com.br
+speed.fs-it.systems
 speed.fyberlink.com.br
 speed.gatewayftth.com
 speed.gmavt.net
@@ -6207,6 +6209,7 @@ speedtest.turnkeyinternet.net
 speedtest.tushino.com
 speedtest.twerion.net
 speedtest.twinvalley.net
+speedtest.uania.cloud
 speedtest.ufinetlatam.net
 speedtest.uia.net
 speedtest.undercorp.com.br
