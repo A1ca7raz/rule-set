@@ -4760,6 +4760,7 @@ registry.bower.io
 registry.fedoraproject.org
 registry.oomol.com
 registry.terraform.io
+reikonteste.reikoninternet.com.br
 reimu.net
 release.arcboxcdn.com
 release.runcloud.io
