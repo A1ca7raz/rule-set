@@ -3473,6 +3473,7 @@ mapbox.com
 mapgen-fi-1.comaps.app
 mapi.4kvm.net
 maps.geoapify.com
+maps.hereapi.com
 maps.wplace.live
 maptiler.com
 marfeelexperimentsexperienceengine.mrf.io
