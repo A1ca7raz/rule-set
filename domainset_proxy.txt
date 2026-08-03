@@ -1745,6 +1745,7 @@ dl.min.io
 dl.motrix.app
 dl.nwjs.io
 dl.orangefox.download
+dl.pikpak.site
 dl.playstation.net
 dl.pstmn.io
 dl.snipaste.com
@@ -4146,6 +4147,7 @@ nms.bhrbroadband.com
 no
 no-cache.hubspot.com
 nobara-images.nobaraproject.org
+node-registry.bit.cloud
 node.green
 node01-eulon-free.tropicalgames.net
 nodecdn.net
