@@ -5957,6 +5957,7 @@ speedtest.mia.upx.net.br
 speedtest.miam.fl.wtsky.net
 speedtest.micron21.com
 speedtest.mifflincountywireless.com
+speedtest.milanfiber.co.tz
 speedtest.milaninternet.com
 speedtest.milink1.com
 speedtest.miplhr.com
@@ -7344,6 +7345,7 @@ tracking.inflection.io
 tradingview.com
 trafficdeposit.com
 trafficmanager.net
+trainingpeaks.com
 trakt.tv
 transcend-cdn.com
 travis-ci.com
@@ -7697,6 +7699,7 @@ web.dev
 web01.onthepixel.net
 webappassets.smartsheet.com
 webcdn.17app.co
+webdist.data.apnic.net
 webfe.shopee.io
 webflow.com
 webfonts.zoho.com
