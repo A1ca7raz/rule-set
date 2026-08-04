@@ -1057,7 +1057,6 @@ cdn.playersupport.riotgames.com
 cdn.playwire.com
 cdn.plus500.com
 cdn.plyr.io
-cdn.powershellgallery.com
 cdn.pricespider.com
 cdn.printfriendly.com
 cdn.prismic.io
@@ -4602,6 +4601,7 @@ postapps.com
 posthog.com
 postimg.cc
 postmarkapp.com
+powershellgallery.com
 pp-static.monotype.com
 ppa.launchpad.net
 pplusstatic.com
