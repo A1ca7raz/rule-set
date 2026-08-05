@@ -453,6 +453,7 @@ assets.tokopedia.net
 assets.transfernow.net
 assets.tvtropes.org
 assets.unifi-ai.com
+assets.unredacted.org
 assets.upload.io
 assets.video.yahoo.net
 assets.videowise.com
@@ -6125,6 +6126,7 @@ speedtest.serveroyun.com
 speedtest.serverpronto.com
 speedtest.serverside.com
 speedtest.serversistemleri.com
+speedtest.sesfiber.com.br
 speedtest.sg.fdcservers.net
 speedtest.sg220.sgp.sg.ctcsci.com
 speedtest.shentel.net
@@ -6237,6 +6239,7 @@ speedtest.us-se.kamatera.com
 speedtest.us-tx.kamatera.com
 speedtest.us.grupogtd.com
 speedtest.us.mirhosting.net
+speedtest.us.novoserve.com
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
 speedtest.uvfiber.com
@@ -6344,6 +6347,7 @@ speedtest1.ctstelecom.com
 speedtest1.dfw1-us.gozfly.net
 speedtest1.dpdfsd.com
 speedtest1.dsm1.ippathways.net
+speedtest1.ewr.nj.us.planet.net
 speedtest1.fibratown.com
 speedtest1.flashwifi.com.br
 speedtest1.fleetinfo.info
