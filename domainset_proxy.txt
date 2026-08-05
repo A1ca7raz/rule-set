@@ -83,6 +83,7 @@
 9to5mac.com
 9to5toys.com
 a-speedtest.brasildigital.net.br
+a-tiles.locationiq.com
 a.gawby.com
 a.kickstarter.com
 a.klaviyo.com
@@ -531,6 +532,7 @@ azureedge.net
 azurerms.com
 azurestaticapps.net
 azurewebsites.net
+b-tiles.locationiq.com
 b.manufact.com
 b.peatio.com
 b.sf-syn.com
@@ -688,6 +690,7 @@ bzip.org
 c-bin.b-cdn.net
 c-dn.net
 c-span.org
+c-tiles.locationiq.com
 c.animaapp.com
 c.marsflag.com
 c.mi.com
@@ -7274,6 +7277,7 @@ tiles-a.koordinates.com
 tiles-eu.stadiamaps.com
 tiles.arcgis.com
 tiles.immich.cloud
+tiles.locationiq.com
 tiles.mapilion.com
 tiles.mapillary.com
 tiles.maps.opensearch.org
