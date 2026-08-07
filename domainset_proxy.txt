@@ -1319,6 +1319,7 @@ chat-assets.front.app
 chat.com
 chat.digitalgenius.com
 chatgpt.com
+chatgpt.site
 chcdn.xyz
 chd.softechinfosol.com
 chdspd.myinternet.services
@@ -6217,6 +6218,7 @@ speedtest.tularosa.net
 speedtest.tulix.com
 speedtest.turnkeyinternet.net
 speedtest.tushino.com
+speedtest.tvtcable.com
 speedtest.twerion.net
 speedtest.twinvalley.net
 speedtest.uania.cloud
