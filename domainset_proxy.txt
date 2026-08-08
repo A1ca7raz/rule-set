@@ -462,6 +462,7 @@ assets.vidyard.com
 assets.visioncritical.net
 assets.vogue.com
 assets.volvo.com
+assets.weather-forecast.com
 assets.xmind.net
 assets.zephr.com
 assets.zerohedge.com
@@ -521,6 +522,7 @@ aws
 aws.dev
 awscloud.com
 awsstatic.com
+awxcdn.com
 ax1x.com
 axiecdn.axieinfinity.com
 axios.com
@@ -753,6 +755,7 @@ cdn-builds.paw.cloud
 cdn-bundler.nice-team.net
 cdn-c.leavemealone.com
 cdn-centaurus.com
+cdn-city.livere.com
 cdn-cookieyes.com
 cdn-dynmedia-1.microsoft.com
 cdn-edge.karte.io
@@ -2025,6 +2028,7 @@ fakestoreapi.com
 fanbox.cc
 fandom.com
 fanfox.net
+fast-sfc.com
 fast.appcues.com
 fast.blackbearfiber.com
 fast.chameleon.io
@@ -5427,6 +5431,7 @@ speedtest-huachuca.cochise.net
 speedtest-hv-1.zoominternet.net
 speedtest-iad.acreto.net
 speedtest-iad.dish-wireless.com
+speedtest-iad.sectrify.com
 speedtest-ict.ideatek.com
 speedtest-iowa.airstreamcomm.net
 speedtest-ist1.netlojik.com
@@ -5510,6 +5515,7 @@ speedtest-sg.unihost.com
 speedtest-sin.melbicom.net
 speedtest-sjc.acreto.net
 speedtest-sjc.dish-wireless.com
+speedtest-sjc.sectrify.com
 speedtest-srv-a.homeworks.org
 speedtest-srv01.tut.net
 speedtest-stm.redeconecta.com
