@@ -672,6 +672,8 @@ bucket.noy.asia
 bucket1.notaku.so
 buft-speedtest-02.brightspeed.com
 bugly.qcloud.com
+buildkiteassets.com
+buildkiteusercontent.com
 builds.dotnet.microsoft.com
 builds.paranoidandroid.co
 builds.parsec.app
@@ -1766,6 +1768,7 @@ dl.min.io
 dl.motrix.app
 dl.nwjs.io
 dl.orangefox.download
+dl.pikpak.io
 dl.pikpak.site
 dl.playstation.net
 dl.pstmn.io
@@ -1844,6 +1847,7 @@ download.dm.origin.com
 download.eassos.com
 download.edovia.com
 download.epicgames.com
+download.fcitx-im.org
 download.gigabyte.com
 download.gimp.org
 download.jetbrains.com
