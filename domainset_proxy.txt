@@ -847,7 +847,6 @@ cdn.azul.com
 cdn.babylonjs.com
 cdn.bfe.dev
 cdn.bfldr.com
-cdn.bigcloud.click
 cdn.birdie.so
 cdn.bitmovin.com
 cdn.blogarama.com
@@ -1002,7 +1001,6 @@ cdn.judge.me
 cdn.jwplayer.com
 cdn.kinopio.club
 cdn.kinsta.com
-cdn.koala.live
 cdn.langshop.app
 cdn.leandata.com
 cdn.lemonsqueezy.com
@@ -1092,7 +1090,6 @@ cdn.quickemailverification.com
 cdn.rauno.me
 cdn.readme.io
 cdn.rebuyengine.com
-cdn.recovermycart.com
 cdn.redhat.com
 cdn.redwap.xyz
 cdn.registerdisney.go.com
@@ -1148,7 +1145,6 @@ cdn.super.com
 cdn.svgator.com
 cdn.svgporn.com
 cdn.syftdata.com
-cdn.tabarn.ap
 cdn.tatlerasia.com
 cdn.techcommunity.microsoft.com
 cdn.thewirecutter.com
@@ -1162,7 +1158,6 @@ cdn.transifex.com
 cdn.trustedsite.com
 cdn.ttgtmedia.com
 cdn.ttloli.com
-cdn.tuk.dev
 cdn.turner.com
 cdn.tvpagewidgets.com
 cdn.ubi.com
@@ -1816,7 +1811,6 @@ docs.mrchromebox.tech
 documenter-assets.pstmn.io
 dogehls.xyz
 dolphin-anty-cdn.com
-domain.expiring-soon.xyz
 doodcdn.co
 doppiocdn.com
 doppiocdn.live
@@ -1935,7 +1929,6 @@ edge.marker.io
 edge.personalizer.io
 edge.sitecorecloud.io
 edge.steam-dns.top.comcast.net
-edge.zerofs.link
 edgeapp.net
 edgecastcdn.net
 edgecdn-embza6g8cacagcbn.z01.azurefd.net
@@ -2961,7 +2954,6 @@ img.apponic.com
 img.atlasobscura.com
 img.badgesize.io
 img.biguz.net
-img.catwvod.xyz
 img.clerk.com
 img.connatix.com
 img.decrypt.co
@@ -2988,7 +2980,6 @@ img.ltyears.com
 img.lvv2.com
 img.majors.im
 img.manyse.com
-img.ml0987.com
 img.moedog.org
 img.mresou.com
 img.novipnoad.cc
@@ -3002,12 +2993,10 @@ img.shoplineapp.com
 img.sooplive.com
 img.sparemin.com
 img.sparknotes.com
-img.telemetr.io
 img.tg.cc
 img.timero.xyz
 img.toto.im
 img.utdstc.com
-img.vim-cn.com
 img.voguehk.com
 img.xhacgn.com
 img.xjh.me
