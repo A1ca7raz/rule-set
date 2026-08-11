@@ -460,6 +460,7 @@ assets.tvtropes.org
 assets.unifi-ai.com
 assets.unredacted.org
 assets.upload.io
+assets.userstyles.org
 assets.video.yahoo.net
 assets.videowise.com
 assets.vidyard.com
@@ -731,6 +732,7 @@ cache.industry.siemens.com
 cache.ip-api.com
 cache.mapcomplete.org
 cache.omnicalculator.com
+cache.sgvafs.com
 cached.rebuyengine.com
 cachefly.net
 cafe
@@ -2155,6 +2157,7 @@ fonts.loox.io
 fonts.mailerlite.com
 fonts.net
 fonts.upset.dev
+fonts.wd40.info
 fonts.zapier.com
 fonts1.unidays.world
 forbes.com
@@ -3020,6 +3023,7 @@ img8.socialshopwave.com
 img9.socialshopwave.com
 imgair.net
 imgbox.com
+imgcdn8.com
 imgcn.bgmbk.tv
 imgcn2.bgmbk.tv
 imgcn3.bgmbk.tv
@@ -3583,6 +3587,7 @@ media.technologycounter.com
 media.telanganatoday.com
 media.theresanaiforthat.com
 media.user.com
+media.wd40.asia
 media.webtoo.ls
 media.wired.com
 media.zestyio.com
@@ -5576,6 +5581,7 @@ speedtest.6667890.xyz
 speedtest.7stardigitalnetwork.com
 speedtest.832communications.com
 speedtest.a4telecom.com.br
+speedtest.aattizen.net
 speedtest.absolutevalidation.com
 speedtest.accessoninternet.com
 speedtest.acenetbj.com.br
@@ -6908,6 +6914,7 @@ staticw2.yotpo.com
 staticworld.net
 stats.setapp.macpaw.dev
 stats.snipaste.com
+status.openai.com
 statuspage.io
 stbarrie.rogers.com
 stbarriewireless.rogers.com
