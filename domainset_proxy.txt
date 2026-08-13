@@ -3066,6 +3066,7 @@ infura-ipfs.io
 ingest.atoms.dev
 initiummall.com
 inova.net.gegnet.com.br
+insightcdn.net
 instafeed.nfcube.com
 instagr.am
 instagram.com
@@ -6624,6 +6625,7 @@ srvteste.edntelecom.net.br
 ss-cdn.com
 ss-domain.com
 ssl-images-amazon.com
+sso-static.razer.com
 sstatic.net
 st
 st-4.fibrenest.com
