@@ -978,6 +978,7 @@ cdn.hypershort.com
 cdn.i-scmp.com
 cdn.icomoon.io
 cdn.icon-icons.com
+cdn.id.life
 cdn.imageengine.io
 cdn.imago-images.com
 cdn.imghaste.com
@@ -2889,6 +2890,7 @@ images.microcms-assets.io
 images.mobilism.org
 images.moegoat.com
 images.moovitapp.com
+images.motion.dev
 images.nebula.tv
 images.now-tv.com
 images.nvidia.com
@@ -3498,6 +3500,7 @@ map.adsbexchange.com
 mapbox.com
 mapgen-fi-1.comaps.app
 mapi.4kvm.net
+maps-api-cdn.meteoblue.com
 maps.geoapify.com
 maps.hereapi.com
 maps.wplace.live
@@ -4992,6 +4995,7 @@ sdks.automizely.com
 se
 sea-speedtest.net.sangoma.net
 sea.st.spacecore.pro
+seacaftest.aptalaska.net
 seadn.io
 seal-newyork.bbb.org
 searchanise-ef84.kxcdn.com
@@ -5223,6 +5227,7 @@ sp2.semfronteiras.net.br
 sp3.atcc-gns.net
 sp3.contilnet.net
 sp7.atcc-gns.net
+spaceship-cdn.com
 spankbang.com
 spankinglibrary.com
 spankingtube.com
@@ -5676,6 +5681,7 @@ speedtest.bug.pw
 speedtest.buzzbroadband.com
 speedtest.bwtelcom.net
 speedtest.ca-tr.kamatera.com
+speedtest.ca1.colobix.com
 speedtest.cascadecomm.com
 speedtest.cdlan.net
 speedtest.cdmsfirst.com
@@ -6460,6 +6466,7 @@ speedtest3.dal.nxlink.com
 speedtest3.myninestar.net
 speedtest3.networks.bt.com
 speedtest3.point-broadband.com
+speedtest3.ptd.net
 speedtest3.westmancom.com
 speedtest31.suddenlink.net
 speedtest31.turk.net
@@ -6802,6 +6809,7 @@ static.maphub.net
 static.maxmind.com
 static.meiguo.com
 static.mendeley.com
+static.meteoblue.com
 static.microsoft
 static.mocortech.com
 static.moegoat.com
