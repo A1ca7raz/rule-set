@@ -340,6 +340,7 @@ coding.me
 coding.net
 collaborate.download.prss.microsoft.com
 collaborateppe.download.prss.microsoft.com
+collegeboard.org
 coloros.com
 com.cn
 comicat.org
