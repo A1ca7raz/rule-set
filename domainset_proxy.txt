@@ -6281,6 +6281,7 @@ speedtest.us.mirhosting.net
 speedtest.us.novoserve.com
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
+speedtest.usc-dfw1.pllx.net
 speedtest.uvfiber.com
 speedtest.uzmansoft.net
 speedtest.vacastelecom.net
@@ -7628,6 +7629,7 @@ velocidade.rdctelecomce.com.br
 velocidade.rltelecom.net.br
 velocidade.sejalivretelecom.com.br
 velocidade.softtelecom.net.br
+velocidade.tecsattelecom.com.br
 velocidade.tecsattelecom.net.br
 velocidade.tntelecomfortaleza.com.br
 velocidade.webzoomtelecom.com.br
