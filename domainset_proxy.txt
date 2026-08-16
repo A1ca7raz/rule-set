@@ -5377,6 +5377,7 @@ speed1.yasarnet.xyz
 speed10.gonetspeed.com
 speed11.gonetspeed.com
 speed12.gonetspeed.com
+speed13.gonetspeed.com
 speed2.dg-sys.net
 speedam.wsp.net.br
 speedapi.race.com
@@ -5762,6 +5763,7 @@ speedtest.duocast.net
 speedtest.dvnpiaaa.metronetinc.com
 speedtest.dvois.com
 speedtest.ecfaccess.net
+speedtest.ecmnet.com.br
 speedtest.ed.shawcable.net
 speedtest.ediscom.net
 speedtest.eidnet.org
