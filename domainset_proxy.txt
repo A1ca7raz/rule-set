@@ -923,6 +923,7 @@ cdn.document360.io
 cdn.doofinder.com
 cdn.dotaoutpost.com
 cdn.drata.com
+cdn.dyn.com
 cdn.dynamicyield.com
 cdn.ea.com
 cdn.earthroulette.com
@@ -5985,6 +5986,7 @@ speedtest.marshallfibernet.com
 speedtest.maryno.net
 speedtest.massivemesh.com
 speedtest.masteritsupport.com
+speedtest.matrixtelecon.com.br
 speedtest.mbs.cloud
 speedtest.mci.as1003.net
 speedtest.mcr0.uk.as61049.net
