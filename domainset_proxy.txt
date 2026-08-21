@@ -883,7 +883,6 @@ cdn.cms-twdigitalassets.com
 cdn.cnx-software.com
 cdn.cocoapods.org
 cdn.codeblackbelt.com
-cdn.commandbar.com
 cdn.comparitech.com
 cdn.concert.io
 cdn.configcat.com
@@ -2158,6 +2157,7 @@ fonts.gsma.com
 fonts.loox.io
 fonts.mailerlite.com
 fonts.net
+fonts.reown.com
 fonts.upset.dev
 fonts.wd40.info
 fonts.zapier.com
@@ -2182,7 +2182,6 @@ framer.com
 framercdn.com
 framerstatic.com
 framerusercontent.com
-frames-commandbar-prod.commandbar.com
 free.hands.com
 freebeacon.com
 freecodecamp.org
@@ -4919,7 +4918,6 @@ s3-website.fr-par.scw.cloud
 s3-website.nl-ams.scw.cloud
 s3-website.pl-waw.scw.cloud
 s3.2233778.xyz
-s3.aaaaa.io
 s3.arkjp.net
 s3.c.im
 s3.cointelegraph.com
