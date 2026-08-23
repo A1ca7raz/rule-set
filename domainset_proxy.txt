@@ -168,6 +168,7 @@ alpha-gnu-org.ip-connect.vn.ua
 alpha.gnu.org
 alphafish.top
 altoonaspeedtest.crowsnestbb.net
+alzenspeedtest.duckdns.org
 am-cdn.online
 am-cdn.pics
 amaicdn.com
@@ -6452,6 +6453,7 @@ speedtest2.htcnetracer.com
 speedtest2.il.mycci.net
 speedtest2.keyubu.com
 speedtest2.mfbroadband.com
+speedtest2.myninestar.net
 speedtest2.mywnz.com
 speedtest2.nckcn.com
 speedtest2.networks.bt.com
