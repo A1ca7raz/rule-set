@@ -5753,12 +5753,14 @@ speedtest.ddl.red
 speedtest.defferrari.com.br
 speedtest.deltacable.com
 speedtest.deltatelecomam.com.br
+speedtest.dfw.fdcservers.net
 speedtest.dfw1.sonic.net
 speedtest.dfw2.sonic.net
 speedtest.dg-sys.net
 speedtest.digitalconnections.net
 speedtest.dimdams.com
 speedtest.dllstx97.metronetinc.com
+speedtest.dme.fdcservers.net
 speedtest.dsgroupmedia.com
 speedtest.dukekunshan.edu.cn
 speedtest.duocast.net
@@ -5806,6 +5808,7 @@ speedtest.flintrvr.com
 speedtest.fortdodgefiber.net
 speedtest.foxcell.net
 speedtest.foxnettelecom.net.br
+speedtest.fr8.fdcservers.net
 speedtest.fra01.fusionflare.cloud
 speedtest.fra1.hivelocity.net
 speedtest.frankfurt-am-main.valtrix.org
@@ -5857,6 +5860,7 @@ speedtest.hizhosting.com
 speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk212.hkg.cn.nerocloud.io
+speedtest.hkg.fdcservers.net
 speedtest.hkg01.node.as9516.com
 speedtest.hlinknet.com
 speedtest.hnd.fdcservers.net
@@ -5980,6 +5984,7 @@ speedtest.lwlcom.net
 speedtest.maanglobalnetworks.com
 speedtest.macapatelecom.net.br
 speedtest.macrosignal.net
+speedtest.mad.fdcservers.net
 speedtest.mad2.edgoo.net
 speedtest.maisnetfibra.net.br
 speedtest.marshallfibernet.com
@@ -6089,6 +6094,7 @@ speedtest.oswgilaa.metronetinc.com
 speedtest.oxon3.net
 speedtest.ozarksgo.net
 speedtest.p1.mhn.cloud
+speedtest.pa10.fdcservers.net
 speedtest.pa5.as198831.net
 speedtest.packetworks.net
 speedtest.palmerone.com
@@ -6160,6 +6166,7 @@ speedtest.sandiego.intrepidfiber.com
 speedtest.sbcglobal.net
 speedtest.sc1.loopinternet.com
 speedtest.sea.accretive-networks.net
+speedtest.sea.fdcservers.net
 speedtest.sea1.hivelocity.net
 speedtest.sea1.nitelusa.net
 speedtest.seattle.wa.limewave.net
