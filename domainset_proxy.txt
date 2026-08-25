@@ -5748,6 +5748,7 @@ speedtest.dataspindle.com
 speedtest.datatr.com
 speedtest.dathannetworks.com
 speedtest.datonofibra.com
+speedtest.datos101.com
 speedtest.dchost.com
 speedtest.ddl.red
 speedtest.defferrari.com.br
@@ -5873,6 +5874,7 @@ speedtest.hostimux.com
 speedtest.hytekcomputers.com
 speedtest.i3broadband.com
 speedtest.i3d.net
+speedtest.iad.fdcservers.net
 speedtest.iad01.wdc.pilotfiber.com
 speedtest.ibltelecom.com.br
 speedtest.idnet.net.br
