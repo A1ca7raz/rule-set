@@ -6026,6 +6026,7 @@ speedtest.msfiber.net
 speedtest.mtc4me.com
 speedtest.mtctech.net
 speedtest.multicablehn.com
+speedtest.mum.skynetmp.com
 speedtest.mum.vodafoneidea.com
 speedtest.mvdsl.com
 speedtest.mvec.com
