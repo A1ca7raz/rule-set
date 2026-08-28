@@ -329,7 +329,6 @@ cmvideo.cn
 cn-ssl.ls.apple.com
 cn.apple.com
 cn.ls.apple.com
-cn.windowssearch.com
 cnb.cool
 cnblogs.com
 cnnic.cn
