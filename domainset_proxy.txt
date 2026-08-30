@@ -330,6 +330,7 @@ assets-next.matters.news
 assets-next.mattersprotocol.io
 assets-s3-us-east-1.ceros.com
 assets-servd.host
+assets-tcpviewer.proxyman.com
 assets-v2.i-scmp.com
 assets-v2.super.so
 assets-www.readspeaker.com
@@ -869,6 +870,7 @@ cdn.calibermind.com
 cdn.cameo.com
 cdn.camweara.com
 cdn.candid.org
+cdn.candycode.com
 cdn.casetify.com
 cdn.cbd.int
 cdn.changelog.com
@@ -1432,6 +1434,7 @@ cnbetacdn.com
 cnet.com
 cnn.com
 cnn.io
+cns-speedtest.duckdns.org
 cnyes.com
 code.benco.io
 code.highcharts.com
@@ -1676,6 +1679,7 @@ deepmind.google
 deezer.com
 delegated-ipfs.dev
 delivery.mp.microsoft.com
+delivery.twentythree.com
 dellcdn.com
 demo.unified-streaming.com
 demotiles.maplibre.org
@@ -2814,6 +2818,7 @@ image-forwarder.notaku.so
 image-stgus.samsung.com
 image-us.samsung.com
 image.ap-mail.org
+image.blocktempo.com
 image.civitai.com
 image.comicbz.com
 image.crisp.chat
@@ -6606,6 +6611,7 @@ spt-jfk1.edgeuno.com
 spt-lax1.edgeuno.com
 spt-lon1.edgeuno.com
 spt-mia.edgeuno.com
+spt-noc.umal-nds.com
 spt-nyc.as13786.net
 spt-sjo1.edgeuno.com
 spt.valexcloud.com
@@ -7786,6 +7792,7 @@ website-cdn.ipinfo.io
 website-files.com
 website-media.deel.com
 website-prod.cache.wpscdn.com
+websiteres.nmteam.xyz
 webstatic.chargebee.com
 weebly.com
 wellington-speedtest.connectwithusa.com
