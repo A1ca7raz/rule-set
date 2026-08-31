@@ -5751,6 +5751,7 @@ speedtest.cytranet.net
 speedtest.dakshbroadband.com
 speedtest.dal.hivelocity.net
 speedtest.dal1.nitelusa.net
+speedtest.dashcloudly.com
 speedtest.dataspindle.com
 speedtest.datatr.com
 speedtest.dathannetworks.com
@@ -5948,6 +5949,7 @@ speedtest.kosciuskoconnect.com
 speedtest.kouten.barcelona
 speedtest.kr260.gmp.kr.ctcsci.com
 speedtest.kraus.jbarbieri.net
+speedtest.krottisrv.net
 speedtest.ktis.net
 speedtest.kuducom.com
 speedtest.kyouma.net
@@ -6229,6 +6231,7 @@ speedtest.starhub.com
 speedtest.stellarbb.com
 speedtest.steppod.io
 speedtest.stgscloud.com
+speedtest.stormclient.xyz
 speedtest.stradacomm.com
 speedtest.stratoone.com
 speedtest.sukaininfoway.com
