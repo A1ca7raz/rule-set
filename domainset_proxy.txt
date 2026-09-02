@@ -1045,7 +1045,6 @@ cdn.neustar
 cdn.neverbounce.com
 cdn.nfcube.com
 cdn.nintendo.net
-cdn.nodeimage.com
 cdn.nolt.io
 cdn.northropgrumman.com
 cdn.nperf.com
@@ -1151,6 +1150,7 @@ cdn.super.com
 cdn.svgator.com
 cdn.svgporn.com
 cdn.syftdata.com
+cdn.system1.com
 cdn.tatlerasia.com
 cdn.techcommunity.microsoft.com
 cdn.thewirecutter.com
@@ -4044,6 +4044,7 @@ motherlessmedia.com
 moviefap.com
 mozilla.com
 mozilla.org
+mqcdn.com
 mrutooklaspeed1.jioconnect.com
 ms
 msappproxy.net
@@ -4189,6 +4190,7 @@ node.green
 node01-eulon-free.tropicalgames.net
 nodecdn.net
 nodei.co
+nodeimage.com
 nodejs.org
 nodeseek.com
 nohar.softechinfosol.com
@@ -7625,6 +7627,7 @@ vanityfair.com
 vanspeedtest.altimatel.com
 vaspeedtest.rackdog.com
 vcmdiawe.com
+vector.hereapi.com
 vectorified.com
 vel.cabralnet.com.br
 velocidad.fiberlink.com.pa
