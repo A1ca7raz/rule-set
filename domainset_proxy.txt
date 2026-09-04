@@ -984,6 +984,7 @@ cdn.icon-icons.com
 cdn.id.life
 cdn.imageengine.io
 cdn.imago-images.com
+cdn.imgchest.com
 cdn.imghaste.com
 cdn.insightmediagroup.io
 cdn.inviter.co
@@ -5355,6 +5356,7 @@ speed.tritan-bb.net
 speed.tudoall.com.br
 speed.turbodc.com
 speed.turbonetce.com.br
+speed.uberlinktelecom.com.br
 speed.ultranetrr.com.br
 speed.upnetcaucaia.com.br
 speed.wdtcinfo.com
