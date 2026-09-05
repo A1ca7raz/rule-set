@@ -447,7 +447,6 @@ assets.squarespace.com
 assets.squarewebsites.org
 assets.st-note.com
 assets.stash.com
-assets.static-upwork.com
 assets.stickpng.com
 assets.stigg.io
 assets.streamlinehq.com
@@ -6749,6 +6748,7 @@ static-overlay.ubisoft.com
 static-r.kamihimeproject.net
 static-r2.gear4music.com
 static-resource.np.community.playstation.net
+static-upwork.com
 static-us.afterpay.com
 static-web-prod.skillshare.com
 static-webfonts.myfonts.com
