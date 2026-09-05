@@ -1788,6 +1788,7 @@ dl3.xmind.net
 dlcdnets.asus.com
 dlhiooklaspeed1.jioconnect.com
 dlhiooklaspeed2.jioconnect.com
+dlls-speedtest.northstate.net
 dllstx-ookla1.vyvebroadband.net
 dlsite.com
 dlstats.izzyondroid.org
@@ -4510,6 +4511,7 @@ perf.keyyo.net
 perfect-privacy.com
 periscope.tv
 permaweb.io
+pgimgs.com
 pgl.yoyo.org
 ph
 ph.langfuse.com
@@ -6326,6 +6328,7 @@ speedtest.vie.fdcservers.net
 speedtest.vienna.nodescrape.net
 speedtest.viperhost.net
 speedtest.vipnetconexao.com.br
+speedtest.virtical.cloud
 speedtest.visiontelecom.com.br
 speedtest.voiceone.dev
 speedtest.voip-unlimited.net
