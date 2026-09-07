@@ -5655,6 +5655,7 @@ speedtest.artelco.net
 speedtest.artofautomation.net
 speedtest.as203446.net
 speedtest.as210667.net
+speedtest.as210699.net
 speedtest.as212683.net
 speedtest.as214199.net
 speedtest.as214243.net
@@ -5695,6 +5696,7 @@ speedtest.brightspeed.com
 speedtest.brightstar.cloud
 speedtest.brnchost.com
 speedtest.brooketel.coop
+speedtest.btc-bci.com
 speedtest.bug.pw
 speedtest.buzzbroadband.com
 speedtest.bwtelcom.net
