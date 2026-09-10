@@ -6093,6 +6093,7 @@ speedtest.nt.net
 speedtest.numarohost.com
 speedtest.nxt-telecom.com
 speedtest.nyc.elcro.digital
+speedtest.oa.net
 speedtest.oceansls.com
 speedtest.octelinfonet.com
 speedtest.oecfiber.com
