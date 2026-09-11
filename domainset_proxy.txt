@@ -1346,6 +1346,7 @@ checkout.stripe.com
 chess.com
 chesscomfiles.com
 chi-speedtest.net.sangoma.net
+chi-speedtest.northstate.net
 chi-speedtest.shifthosting.com
 chicago1.cabospeed.com
 chich0003ooklaspeedtestserver01.wiline.com
@@ -4391,6 +4392,7 @@ ooklaserver1-del1.skymaxbroadband.com
 ooklaspeedtest-cdv.quebeccloud.com
 ooklaspeedtest-ist1.quickzone.net
 ooklaspeedtest.as198053.net
+ooklaspeedtest.d-pcomm.com
 ooklaspeedtest.wilcowireless.com
 ooklatins.redeconexaonet.com
 ooklay2.skynet360.com
@@ -5193,6 +5195,7 @@ sp.streamlabs.com
 sp.tulipgroup.io
 sp.yakshtel.com
 sp01.rbfibra.net.br
+sp1-de.delska.com
 sp1.adnbroadband.com
 sp1.angelbroadband.com
 sp1.asthriona.com
