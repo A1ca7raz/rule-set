@@ -4856,6 +4856,7 @@ resource.tnlmediagene.com
 resources.allstate.com
 resources.chessbase.com
 resources.help.salesforce.com
+resources.redbull.tv
 resources.whatwg.org
 rest.happierleads.com
 returnyoutubedislike.com
