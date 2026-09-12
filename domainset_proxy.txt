@@ -6170,6 +6170,7 @@ speedtest.readingsd.org
 speedtest.redevisualnet.com.br
 speedtest.redewsp.com.br
 speedtest.resoundnetworks.com
+speedtest.respawnhost.com
 speedtest.revolutionbroadband.net
 speedtest.rfchost.net
 speedtest.rfnow.net
