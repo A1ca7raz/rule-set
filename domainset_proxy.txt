@@ -537,6 +537,7 @@ awsstatic.com
 awxcdn.com
 ax1x.com
 axiecdn.axieinfinity.com
+axiom-cdn.io
 axios.com
 axis-cdn.net
 azure-mobile.net
@@ -654,6 +655,7 @@ bootstrapcdn.com
 botsrv2.com
 box.com
 boxcdn.net
+boxcloud.com
 bp.blogspot.com
 bpwoippy.vialis.net
 brand-assets.cne.ngc.nvidia.com
@@ -1767,6 +1769,7 @@ dl.devmate.com
 dl.dropboxusercontent.com
 dl.elementary.io
 dl.getaurora.dev
+dl.gl-inet.com
 dl.imobie.com
 dl.min.io
 dl.motrix.app
@@ -6848,6 +6851,7 @@ static.isitetv.com
 static.iyf.tv
 static.izanmei.icu
 static.j51.net
+static.jup.ag
 static.k2s.cc
 static.killedbygoogle.com
 static.klaviyo.com
