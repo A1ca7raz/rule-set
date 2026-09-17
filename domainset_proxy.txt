@@ -6376,6 +6376,7 @@ speedtest.wnmc.com
 speedtest.wolfpaw.net
 speedtest.wp.shawcable.net
 speedtest.wrinternet.com
+speedtest.wsp.net.br
 speedtest.wtcks.com
 speedtest.x-tabqa.com
 speedtest.xcdtelecom.com
