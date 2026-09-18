@@ -939,6 +939,7 @@ cdn.eu.contentful.com
 cdn.evbstatic.com
 cdn.evgnet.com
 cdn.evolution-x.org
+cdn.eye-able.com
 cdn.f5.com
 cdn.faire.com
 cdn.fastcomments.com
@@ -4838,6 +4839,7 @@ repo.jztkft.hu
 repo.maven.apache.org
 repo.powerdns.com
 repo.sleeping.town
+repo.xtom.com
 repo1.maven.org
 repo2.shinjiru.com
 report-uri.com
@@ -5028,6 +5030,7 @@ secretspeedsterserver2364.cpe.nj.crnrstn.comcast.net
 secure-res.craft.do
 secure.beer7live.com
 seecdn.com
+seecdn.net
 seeusercontent.com
 segapi.clerk.com
 sendbird.com
@@ -5894,6 +5897,7 @@ speedtest.hostabil.net
 speedtest.hostdzire.com
 speedtest.hostgrap.com
 speedtest.hostimux.com
+speedtest.huxleycommunications.net
 speedtest.hytekcomputers.com
 speedtest.i3broadband.com
 speedtest.i3d.net
@@ -5986,6 +5990,7 @@ speedtest.ld7.fdcservers.net
 speedtest.lekloud.net
 speedtest.lhr1.uk.as61049.net
 speedtest.lightsource1.com
+speedtest.limericknetworks.com
 speedtest.link.bm
 speedtest.linkamos.com.br
 speedtest.linknetbv.com
@@ -6039,6 +6044,7 @@ speedtest.milaninternet.com
 speedtest.milink1.com
 speedtest.miplhr.com
 speedtest.mire.sfr.net
+speedtest.miriquidi-net.works
 speedtest.mismenet.net
 speedtest.mixam.com.br
 speedtest.mobtelecom.com.br
@@ -6879,6 +6885,7 @@ static.newsbreak.com
 static.nyse.com
 static.observablehq.com
 static.oklink.com
+static.okou.io
 static.okx.cab
 static.onlinewebfonts.com
 static.onlyfans.com
@@ -7451,7 +7458,6 @@ trakt.tv
 transcend-cdn.com
 travis-ci.com
 travis-ci.org
-tripcdn.com
 tronscan.org
 trtspeedtest.altimatel.com
 trustless-gateway.link
