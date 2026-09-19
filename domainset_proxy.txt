@@ -5930,6 +5930,7 @@ speedtest.internetsubway.com
 speedtest.intlink.com.br
 speedtest.ioflood.com
 speedtest.ipcore.com
+speedtest.ipvolume.net
 speedtest.iqfiber.com
 speedtest.isp.net
 speedtest.isplinkdigital.com.br
