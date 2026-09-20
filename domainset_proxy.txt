@@ -2824,6 +2824,7 @@ im.np-payment-gateway.com
 imag.malavida.com
 image-forwarder.notaku.so
 image-stgus.samsung.com
+image-tc.galaxy.tf
 image-us.samsung.com
 image.ap-mail.org
 image.blocktempo.com
@@ -4536,6 +4537,7 @@ phoenixim-speedtest.commnetbroadband.com
 phonefactor.net
 photobucket.com
 photocdn.stream
+photos.flightaware.com
 photos5.appleinsider.com
 photoshop.adobe.com
 phprcdn.com
@@ -7382,6 +7384,7 @@ tilemaps.icgc.cat
 tiles-a.koordinates.com
 tiles-eu.stadiamaps.com
 tiles.arcgis.com
+tiles.flightaware.com
 tiles.immich.cloud
 tiles.locationiq.com
 tiles.mapilion.com
