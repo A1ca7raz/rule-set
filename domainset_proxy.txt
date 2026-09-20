@@ -988,6 +988,7 @@ cdn.imageengine.io
 cdn.imago-images.com
 cdn.imgchest.com
 cdn.imghaste.com
+cdn.infrawire.net
 cdn.insightmediagroup.io
 cdn.inviter.co
 cdn.ip2location.com
@@ -1224,6 +1225,7 @@ cdn1.hentaicity.com
 cdn1.hotmoza.tv
 cdn1.identitymind.com
 cdn1.plesk.com
+cdn1.singteldigital.com
 cdn1.stamped.io
 cdn1.sysgears.com
 cdn1.techbang.com
@@ -5940,6 +5942,7 @@ speedtest.itel.com
 speedtest.ixirhost.com
 speedtest.jackrabbitwireless.com
 speedtest.japanettelecom.com.br
+speedtest.jasmyrahnetworks.com
 speedtest.jbarbieri.net
 speedtest.jcnettelecom.com
 speedtest.jeebr.net
@@ -6339,6 +6342,7 @@ speedtest.uzmansoft.net
 speedtest.vacastelecom.net
 speedtest.valleycom.com
 speedtest.vc.shawcable.net
+speedtest.velosonet.com.br
 speedtest.verimek.com
 speedtest.vermontel.net
 speedtest.viberlink.net
@@ -7398,6 +7402,7 @@ tiles1.planet.com
 tiles2.mapiful.com
 tiles2.planet.com
 tiles3.planet.com
+tileserver.b10s.net
 tileserver.gnome.org
 tiltbrush.com
 time.akamai.com
