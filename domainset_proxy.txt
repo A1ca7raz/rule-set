@@ -2892,6 +2892,7 @@ images.financemagnates.com
 images.g2crowd.com
 images.gog.com
 images.hentaicity.com
+images.hibob.com
 images.hothardware.com
 images.icon-icons.com
 images.indianexpress.com
@@ -3550,6 +3551,7 @@ media-cms.ayoba.me
 media-cms.onesignal.com
 media-hls.growcdnssedge.com
 media-imdb.com
+media-process.hibob.com
 media-s3-us-east-1.ceros.com
 media.amplience.net
 media.beehiiv.com
