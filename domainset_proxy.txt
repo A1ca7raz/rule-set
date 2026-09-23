@@ -4372,10 +4372,12 @@ ookla.mu.as6453.net
 ookla.n0v.as6453.net
 ookla.nieqtv.com
 ookla.nw8.as6453.net
+ookla.onivia.net
 ookla.opticaltel.com
 ookla.oriontelecom.com.br
 ookla.paulonet.srv.br
 ookla.pgservicos.com.br
+ookla.pgservicos.net.br
 ookla.playmaisreverso.net.br
 ookla.pvu.as6453.net
 ookla.pye.as6453.net
