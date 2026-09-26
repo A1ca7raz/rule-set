@@ -1801,6 +1801,7 @@ dlsite.com
 dlstats.izzyondroid.org
 dlunar.net
 dm-static.com
+dma.canyon.com
 dmc.nico
 dmcdn.net
 dmm-extension.com
@@ -3118,7 +3119,6 @@ ipfs.busy.org
 ipfs.cyou
 ipfs.decoo.io
 ipfs.denarius.io
-ipfs.ecolatam.com
 ipfs.eternum.io
 ipfs.filebase.io
 ipfs.fleek.co
@@ -3585,6 +3585,7 @@ media.hentaifreak.org
 media.infosec.exchange
 media.inhumanity.com
 media.invisioncic.com
+media.karousell.com
 media.kit.com
 media.lantern.io
 media.letsdeel.com
