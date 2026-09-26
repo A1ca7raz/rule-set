@@ -4883,6 +4883,7 @@ rfa.org
 rfc-editor.org
 rferl.org
 riorancho1.cabospeed.com
+riospeedtest.rconnects.com
 rip
 ripe.net
 riseup.net
@@ -5272,6 +5273,7 @@ spd-ookla.stelogy.io
 spd-phnhazva.wyyerd.io
 spd-phnxaz19.wyyerd.io
 spd-sndacawa.wyyerd.io
+spd-sndgcajw.wyyerd.io
 spd-tr-istanbul.hostlayici.net
 spd.basefix.net
 spd.cndd.net
@@ -5822,6 +5824,7 @@ speedtest.eu.kamatera.com
 speedtest.euronettelecom.com.br
 speedtest.excom.net
 speedtest.extremanetwork.com.br
+speedtest.eyeit.com.br
 speedtest.faelix.net
 speedtest.fastwyre.com
 speedtest.fbc-tele.com
@@ -5857,6 +5860,7 @@ speedtest.gabysantos.com.br
 speedtest.gamedoping.com
 speedtest.gci.net
 speedtest.geneseo.com
+speedtest.genxbroadband.com
 speedtest.getstreamhosting.com
 speedtest.getwireless.net
 speedtest.ggcmedia.net
@@ -6664,6 +6668,7 @@ spthc1.taiwanmobile.com
 spthl1.taiwanmobile.com
 sptkh1_tc.taiwanmobile.com
 sptkh2.taiwanmobile.com
+sptst1.ntua.net
 spttc2.taiwanmobile.com
 spttn2.taiwanmobile.com
 spttp1.taiwanmobile.com
