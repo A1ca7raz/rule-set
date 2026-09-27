@@ -5482,6 +5482,7 @@ speedtest-de.pq.hosting
 speedtest-de.unihost.com
 speedtest-de.webdade.com
 speedtest-dfw.dish-wireless.com
+speedtest-dsm.cowboyhosting.com
 speedtest-ens-nl.as215248.net
 speedtest-eqx-sg1.ixtelecom.net
 speedtest-eqxae1.fsg-hosting.com
