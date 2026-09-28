@@ -6851,6 +6851,7 @@ static.formula1.com
 static.foxbusiness.com
 static.frame.work
 static.fundraiseup.com
+static.gamma.app
 static.getbutton.io
 static.getpostman.com
 static.giant-bicycles.com
