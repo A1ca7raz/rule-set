@@ -7723,6 +7723,7 @@ velocimetro.esolution.srv.br
 velocimetro.fibernetwork.com.br
 velocimetro.govistabr.com.br
 velocimetro.proveinter.com.br
+velocimetro.smartmovel.net
 velocimetro.speednetworks.com.br
 velocimetro.stylosnet.com.br
 velocimetro.wiretelecom.com.br
