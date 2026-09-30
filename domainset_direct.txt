@@ -45,6 +45,7 @@
 -.router.asus.com
 -.setmeup.arubanetworks.com
 -.statics.teams.cdn.office.net
+-.time.xtracloud.net
 -.unifi
 -.url.cn
 -.viayoo.com
