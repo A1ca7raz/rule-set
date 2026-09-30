@@ -1774,6 +1774,7 @@ dl.dropboxusercontent.com
 dl.elementary.io
 dl.getaurora.dev
 dl.gl-inet.com
+dl.heycue.io
 dl.imobie.com
 dl.min.io
 dl.motrix.app
@@ -1863,6 +1864,7 @@ download.fcitx-im.org
 download.gigabyte.com
 download.gimp.org
 download.jetbrains.com
+download.manus.im
 download.maxmind.com
 download.mokeedev.com
 download.mxfast.com
@@ -2988,6 +2990,7 @@ img.fortawesome.com
 img.fzf404.art
 img.haiwaikan.com
 img.hellofresh.com
+img.helpnetsecurity.com
 img.highporn.net
 img.huffingtonpost.com
 img.icons8.com
@@ -3029,6 +3032,7 @@ img1.acsta.net
 img1.socialshopwave.com
 img1.yeggi.com
 img2.acsta.net
+img2.helpnetsecurity.com
 img2.socialshopwave.com
 img3.acsta.net
 img3.airdroid.com
@@ -5562,6 +5566,7 @@ speedtest-phl.dish-wireless.com
 speedtest-phx.dish-wireless.com
 speedtest-pit.omnifiber.com
 speedtest-pl.the.hosting
+speedtest-pl1.expresshost.cloud
 speedtest-preston-wv.prodigiwv.net
 speedtest-prs.vts.bf
 speedtest-pth.vocus.net
