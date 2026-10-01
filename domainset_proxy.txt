@@ -441,6 +441,7 @@ assets.scaleway.com
 assets.sendinblue.com
 assets.shazam.com
 assets.shots.so
+assets.singaporeair.com
 assets.slater.app
 assets.sololearn.com
 assets.speedvitals.com
@@ -2057,6 +2058,7 @@ f8.com
 fa.gsma.com
 faceit-cdn.net
 fakestoreapi.com
+fal.media
 fanbox.cc
 fandom.com
 fanfox.net
