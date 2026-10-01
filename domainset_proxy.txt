@@ -6576,6 +6576,7 @@ speedtestbltnfl.consolidated.com
 speedtestboca.gethotwired.com
 speedtestbti.angelbroadband.com
 speedtestce.vtal.net.br
+speedtestchi.cytranet.net
 speedtestcustom.com
 speedtestd.kpn.com
 speedtestda.fiberfasthomes.com
