@@ -5221,6 +5221,7 @@ sp.tulipgroup.io
 sp.yakshtel.com
 sp01.rbfibra.net.br
 sp1-de.delska.com
+sp1-nl.delska.com
 sp1.adnbroadband.com
 sp1.angelbroadband.com
 sp1.asthriona.com
@@ -5677,6 +5678,7 @@ speedtest.ank01.edge.kernzen.com
 speedtest.anksoft.net
 speedtest.aoter.net
 speedtest.apnet-rr.com.br
+speedtest.apnetbv.com.br
 speedtest.apnic.net
 speedtest.aquiss.net
 speedtest.aquitelecom.tv.br
