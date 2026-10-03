@@ -5488,6 +5488,7 @@ speedtest-dcy.ideatek.com
 speedtest-de.pq.hosting
 speedtest-de.unihost.com
 speedtest-de.webdade.com
+speedtest-de1.expresshost.cloud
 speedtest-dfw.dish-wireless.com
 speedtest-dsm.cowboyhosting.com
 speedtest-ens-nl.as215248.net
