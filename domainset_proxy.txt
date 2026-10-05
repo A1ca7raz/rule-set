@@ -5399,6 +5399,7 @@ speed.xiber.net
 speed01.aug.mfst.net
 speed01.gonetspeed.com
 speed01.lasotel.net
+speed01.mil01.cmp.hb-bkbn.net
 speed02.buchholz-digital.net
 speed02.gonetspeed.com
 speed03.gonetspeed.com
