@@ -5305,6 +5305,7 @@ spdel.pcpli.net
 spdfra.cndd.net
 spdms.mytpn.net
 spdookla10g0201.noanet.net
+spdt.lanxus.com.br
 spdt.voenetworks.com
 spdtest.omegatelecom.net.br
 spdtestkpr.myinternet.services
@@ -5323,6 +5324,7 @@ speed-server2.summit-broadband.com
 speed-server3.summit-broadband.com
 speed-test.ornethd.net
 speed-test.ukservers.com
+speed.airmaxbroadband.com
 speed.airwavesinternet.com
 speed.alsalamnet.net
 speed.amazonett.com.br
@@ -5869,6 +5871,7 @@ speedtest.frontier.com
 speedtest.frontlineinternetservices.com
 speedtest.ftmojave.net
 speedtest.ftth.wien
+speedtest.g5nortetelecom.com.br
 speedtest.gabysantos.com.br
 speedtest.gamedoping.com
 speedtest.gci.net
