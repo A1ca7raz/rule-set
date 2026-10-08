@@ -285,6 +285,7 @@ apple.news
 applemusic.com
 applicationinsights.azure.cn
 appmifile.com
+approveit.today
 apps-static.route4me.com
 apps.bazaarvoice.com
 apps.paidy.com
@@ -4925,6 +4926,7 @@ rules1.clearurls.xyz
 rules2.clearurls.xyz
 rum-agent.na-01.cloud.solarwinds.com
 rum-cdn.perfops.net
+rum-ingest.us1.signalfx.com
 rum.cronitor.io
 rumble.com
 run.app
@@ -6807,6 +6809,7 @@ static-web-prod.skillshare.com
 static-webfonts.myfonts.com
 static-www.onlyoffice.com
 static-www.sendsafely.com
+static.acm.account.sony.com
 static.ada.support
 static.addtoany.com
 static.adguardvpn.com
@@ -6974,7 +6977,6 @@ static.tryprofound.com
 static.tvtropes.org
 static.typingclub.com
 static.uptimia.com
-static.vanta.com
 static.vinted.com
 static.vocadb.net
 static.webclicks24.com
@@ -7215,6 +7217,7 @@ surfsharkdns.com
 surge-activation.com
 surrit.com
 surrit.store
+surveymonkey.com
 susercontent.com
 sv-ookla.geolinks.com
 svbtleusercontent.com
@@ -7689,6 +7692,7 @@ vanilla-extract.style
 vanillicon.com
 vanityfair.com
 vanspeedtest.altimatel.com
+vanta.com
 vaspeedtest.rackdog.com
 vcmdiawe.com
 vector.hereapi.com
