@@ -3079,6 +3079,7 @@ imgyzzy.com
 imo.im
 imostatic.com
 import-cdn.default.com
+imrteixeira.brsserver.com.br
 in
 ind-nperf.verizon.net
 indazn.com
@@ -3347,6 +3348,7 @@ kucoin.com
 kwai.com
 kwcdn.com
 kym-cdn.com
+kzspeedtest01.aunalytics.com
 la-ookla.geolinks.com
 laby.net
 larksuitepkg.com
@@ -5794,6 +5796,7 @@ speedtest.cvalley.net
 speedtest.cyberline.com.br
 speedtest.cyberlinkinternet.com.br
 speedtest.cytranet.net
+speedtest.dacomfibra.com
 speedtest.dakshbroadband.com
 speedtest.dal.hivelocity.net
 speedtest.dal1.nitelusa.net
@@ -6138,6 +6141,7 @@ speedtest.novateldigital.com
 speedtest.nrflvaaa.metronetinc.com
 speedtest.nt.net
 speedtest.numarohost.com
+speedtest.nwlab.org
 speedtest.nxt-telecom.com
 speedtest.nyc.elcro.digital
 speedtest.oa.net
@@ -7965,6 +7969,7 @@ wpcomstaging.com
 wpmedia.tealium.com
 wpmucdn.com
 wrbg-speedtest-02.brightspeed.com
+wrlcc.synology.me
 wrsw-speedtest-02.brightspeed.com
 ws
 ws-cdn.nperf.com
