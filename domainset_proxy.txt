@@ -18,9 +18,12 @@
 -.hbolb.onwardsmg.com
 -.hbounify-prod.evergent.com
 -.help.ubnt.com
+-.inference.codeium.com
 -.manifest.prod.boltdns.net
 -.news.ycombinator.com
 -.prod-api.crackle.com
+-.server.codeium.com
+-.server.self-serve.windsurf.com
 -.staticasiafox.akamaized.net
 -.store.ui.com.cn
 -.tubi.tv
@@ -6735,6 +6738,7 @@ st-jamestown.sumofiber.com
 st-kenosha.sumofiber.com
 st-lwr.midco.net
 st-oma-1.binary.net
+st-ookla.zas.virtualiza.me
 st-rockford.sumofiber.com
 st.bardia.tech
 st.blazenet.co
