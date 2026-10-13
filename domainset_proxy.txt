@@ -6576,6 +6576,7 @@ speedtest4.fastfortechnologies.com
 speedtest4.plateautel.net
 speedtest4.point-broadband.com
 speedtest5.fybercom.net
+speedtest5.mywnz.com
 speedtest5.nmsurf.com
 speedtest54.turk.net
 speedtest59.turk.net
