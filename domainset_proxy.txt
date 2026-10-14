@@ -1094,6 +1094,7 @@ cdn.plyr.io
 cdn.pricespider.com
 cdn.printfriendly.com
 cdn.prismic.io
+cdn.priv.center
 cdn.privacy-mgmt.com
 cdn.privacy.com
 cdn.privacy.paramount.com
@@ -1590,6 +1591,7 @@ curseforge.com
 cursor-cdn.com
 cuscspeed.169ol.com
 cust924-london01.tropicalgames.net
+customer-first-focus.b-cdn.net
 customerioforms.com
 customeriomail.com
 cuty.io
@@ -4846,6 +4848,7 @@ release.runcloud.io
 releases.grapheneos.org
 releases.hashicorp.com
 releases.landrop.app
+releases.openai.com
 releases.warp.dev
 releases.whatpulse.org
 reload.getsentry.net
