@@ -4355,6 +4355,7 @@ ookla.aeq.as6453.net
 ookla.alcloud.com.br
 ookla.amazoniasat-isp.com.br
 ookla.araujotelecom.com.br
+ookla.argsment.com
 ookla.as400442.net
 ookla.bigredne.com
 ookla.ct8.as6453.net
