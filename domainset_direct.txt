@@ -419,7 +419,6 @@ douyucdn.cn
 douyucdn2.cn
 douyuscdn.com
 douyutv.com
-download.microsoft.com
 download.visualstudio.microsoft.com
 download.windowsupdate.com
 dpfile.com
