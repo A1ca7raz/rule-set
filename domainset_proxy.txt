@@ -4111,6 +4111,7 @@ mumspeedtest.uvfiber.com
 muscache.com
 muscdn.com
 mvnrepository.com
+mweb-cdn.karousell.com
 mwf-service.akamaized.net
 mx
 mx-app-blob-prod.maxon.net
@@ -5168,6 +5169,7 @@ skype.com
 skypeassets.com
 skypeforbusiness.com
 sl-04.wemacom.net
+sl3-cdn.karousell.com
 slack-edge.com
 slack-imgs.com
 slack.com
@@ -5962,6 +5964,7 @@ speedtest.infogamesvr.net.br
 speedtest.informartelecom.com.br
 speedtest.inforr.com.br
 speedtest.infortec.net.br
+speedtest.infortectelecom.net.br
 speedtest.infowest.com
 speedtest.infraly.co
 speedtest.infrawire.host
