@@ -4694,6 +4694,7 @@ pressidiumcdn.com
 prettier.io
 previews.fleek.co
 prhcdn.com
+pri-r450-speedtest.metrocomm.com
 prime-video.com
 primevideo.cc
 primevideo.com
@@ -5866,6 +5867,7 @@ speedtest.fibercomm.net
 speedtest.fiberfirst.com
 speedtest.fiberlink.net.ua
 speedtest.fiberlinknetwork.net
+speedtest.fiberlinksolutionsltd.co.ke
 speedtest.fiberlync.net
 speedtest.fibernetwork.com.br
 speedtest.fibra-amg.com
