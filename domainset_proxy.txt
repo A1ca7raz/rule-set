@@ -1654,6 +1654,7 @@ de-bln2-ookla-01.wemacom.net
 de-ffm1-ookla-01.wemacom.net
 de-lg.h2.nexus
 de-speedtest.digitalexample.com
+de.riospeed.com
 de.st.spacecore.pro
 deb-mir1.naitways.net
 deb.campolargo.pr.gov.br
@@ -4337,6 +4338,8 @@ ookla-anc.seroficom.com
 ookla-atl.gigsouth.com
 ookla-autazes.amazoniasat-isp.com.br
 ookla-ber.evolushost.com
+ookla-dc3.services.proxad.net
+ookla-dc5.services.proxad.net
 ookla-dfw.gigsouth.com
 ookla-estepona.aerioncloud.com
 ookla-in.mercuryfiber.com
@@ -4345,8 +4348,10 @@ ookla-ks.mercuryfiber.com
 ookla-lax.extentit.com
 ookla-london.briantbroadband.com
 ookla-london01.tropicalgames.net
+ookla-lyo.services.proxad.net
 ookla-mia.gigsouth.com
 ookla-mispeed.rackgenius.com
+ookla-mrs.services.proxad.net
 ookla-speedtest.fsr.com
 ookla-speedtest.iu13.net
 ookla-speedtests.e2ro.com
