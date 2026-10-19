@@ -2221,6 +2221,7 @@ frontend-apps-multi-region.workos.com
 frontend-apps.workos.com
 frontend-assets.supabase.com
 frontend.floatplane.com
+frontend2.locally.com
 fscdn.eppo.cloud
 fsdn.com
 fsvod1.com
@@ -3627,6 +3628,7 @@ media.strapiapp.com
 media.technologycounter.com
 media.telanganatoday.com
 media.theresanaiforthat.com
+media.trekbikes.com
 media.user.com
 media.wd40.asia
 media.webtoo.ls
@@ -4233,6 +4235,7 @@ notebooklm.google
 notepad-plus-plus.org
 notify.bugsnag.com
 notion-static.com
+notion.com
 notion.site
 notion.so
 notionusercontent.com
@@ -7718,6 +7721,7 @@ vanityfair.com
 vanspeedtest.altimatel.com
 vanta.com
 vaspeedtest.rackdog.com
+vcc-assets.8x8.com
 vcmdiawe.com
 vector.hereapi.com
 vectorified.com
