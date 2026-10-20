@@ -3657,6 +3657,7 @@ meta.omaps.app
 metacritic.com
 metamask.io
 meteorclient.com
+metrics.manus.im
 mexc.com
 mfcimg.com
 mg
@@ -4860,7 +4861,6 @@ release.runcloud.io
 releases.grapheneos.org
 releases.hashicorp.com
 releases.landrop.app
-releases.openai.com
 releases.warp.dev
 releases.whatpulse.org
 reload.getsentry.net
@@ -6828,6 +6828,7 @@ static-main.moovit.com
 static-mh.content.disney.io
 static-oforms.onlyoffice.com
 static-overlay.ubisoft.com
+static-page.tp-link.com
 static-r.kamihimeproject.net
 static-r2.gear4music.com
 static-resource.np.community.playstation.net
