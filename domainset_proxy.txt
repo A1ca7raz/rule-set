@@ -4777,6 +4777,7 @@ qbittorrent.org
 qiniuyun22.xyz
 qoeookla-mimi-01.sys.comcast.net
 qoeookla-ncst-01.sys.comcast.net
+qoeookla-rmnd-01.sys.comcast.net
 qooqlevideo.com
 qspt.technofiber.net
 quad9.net
@@ -7258,6 +7259,7 @@ swupdate.chaosgroup.com
 swupdate.vray.com
 sx
 sxccdn.com
+syd.speedtest.pttnz.net
 sydspeedtest.rackdog.com
 sync.getpublica.com
 synergyse.com
