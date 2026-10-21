@@ -7530,6 +7530,7 @@ trafficmanager.net
 trainingpeaks.com
 trakt.tv
 transcend-cdn.com
+travel-assets.com
 travis-ci.com
 travis-ci.org
 tronscan.org
@@ -7538,6 +7539,7 @@ trustless-gateway.link
 trustpilot.com
 trustpilot.net
 truthsocial.com
+trvl-media.com
 trycloudflare.com
 tsdvuspeedtest01p.allstream.com
 tt
