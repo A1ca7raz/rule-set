@@ -5327,6 +5327,7 @@ spd76.claro.com.br
 spd79.claro.com.br
 spdel.pcpli.net
 spdfra.cndd.net
+spdgnet.gnetserver.com.br
 spdms.mytpn.net
 spdookla10g0201.noanet.net
 spdt.lanxus.com.br
