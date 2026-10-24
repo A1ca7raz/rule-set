@@ -7012,6 +7012,7 @@ static.tokenview.io
 static.toss.im
 static.touhoudb.com
 static.tp-link.com
+static.truemed.com
 static.tryprofound.com
 static.tvtropes.org
 static.typingclub.com
