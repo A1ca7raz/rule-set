@@ -5560,6 +5560,7 @@ speedtest-lax.advinservers.com
 speedtest-lax.dish-wireless.com
 speedtest-lax.melbicom.net
 speedtest-lax.perfectip.net
+speedtest-lenexa.resoundnetworks.com
 speedtest-lil.one-elephant.org
 speedtest-lon.retn.net
 speedtest-lon.veloxserv.net
@@ -6182,6 +6183,7 @@ speedtest.ok.shawcable.net
 speedtest.okencore.com
 speedtest.ollatelecom.com.br
 speedtest.omegasul.com.br
+speedtest.onetouchexpress.com
 speedtest.ontarionet.net
 speedtest.oopaya.com
 speedtest.opennetfortaleza.com.br
