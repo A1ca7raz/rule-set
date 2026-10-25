@@ -881,6 +881,7 @@ cdn.cameo.com
 cdn.camweara.com
 cdn.candid.org
 cdn.candycode.com
+cdn.capcom-unity.com
 cdn.casetify.com
 cdn.cbd.int
 cdn.changelog.com
@@ -1102,6 +1103,7 @@ cdn.privacy-mgmt.com
 cdn.privacy.com
 cdn.privacy.paramount.com
 cdn.prod.atlassian-dev.net
+cdn.promo.capcomusa.com
 cdn.promotekit.com
 cdn.pubnub.com
 cdn.quadpay.com
@@ -5350,6 +5352,7 @@ speed-miss.systemlifeline.com
 speed-mix.dimensione.com
 speed-mix.dispaisy.systems
 speed-oak.systemlifeline.com
+speed-pd.dispaisy.systems
 speed-rm.dimensione.com
 speed-server1.summit-broadband.com
 speed-server2.summit-broadband.com
@@ -6874,6 +6877,7 @@ static.buydomains.com
 static.bytepan.com
 static.c-spanvideo.org
 static.canva.com
+static.capcom.com
 static.captcha-delivery.com
 static.captcha.awswaf.com
 static.carfax.com
