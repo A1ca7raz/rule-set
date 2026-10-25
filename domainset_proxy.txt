@@ -19,7 +19,6 @@
 -.hbounify-prod.evergent.com
 -.help.ubnt.com
 -.inference.codeium.com
--.manifest.prod.boltdns.net
 -.news.ycombinator.com
 -.prod-api.crackle.com
 -.server.codeium.com
@@ -534,7 +533,6 @@ avg.com
 avgle.com
 avspeedtest.apfutura.net
 avtoday.io
-avts.wmlabs.net
 avximg.com
 awaelisp.premiumtechiot.com
 aweber-static.com
@@ -744,7 +742,6 @@ cache.industry.siemens.com
 cache.ip-api.com
 cache.mapcomplete.org
 cache.omnicalculator.com
-cache.sgvafs.com
 cached.rebuyengine.com
 cachefly.net
 cafe
@@ -1580,7 +1577,6 @@ csp.microsoft.com
 csp.withgoogle.com
 cspeedtest.candorsolution.com
 css-1-cdn.airdroid.com
-css.4jpg.top
 css.blackmagicdesign.com
 css.comicbz.com
 css.createsend1.com
@@ -3537,6 +3533,7 @@ malwarebytes.com
 mangafox.me
 manhuabika.com
 manhuagui.com
+manifest.prod.boltdns.net
 mantisloader.mantis-awx.com
 manuscdn.com
 map.adsbexchange.com
@@ -3838,7 +3835,6 @@ mirror.low-orbit.net
 mirror.lyrahosting.com
 mirror.macomnet.net
 mirror.mangohost.net
-mirror.marcusn.net
 mirror.marwan.ma
 mirror.mci-1.serverforge.org
 mirror.metrocast.net
@@ -7149,7 +7145,6 @@ storage.deepin.org
 storage.gra.cloud.ovh.net
 storage.infomaniak.com
 storage.sciencecast.org
-storage.synctrack.io
 storage.tally.so
 storage.windiscover.com
 storage.withfabric.xyz
@@ -7298,7 +7293,6 @@ tacdn.com
 tag.trovo-tag.com
 tag.unifyintent.com
 tags.f5.com
-tags.nationwide.com
 tags.nba.com
 tailfin.cc
 tailwindcss.com
@@ -8028,7 +8022,6 @@ ww2-secure.justanswer.com
 ww2.justanswer.com
 www-cdn.uscardforum.com
 www-res.cablelabs.com
-www.10086.win
 www.bbthat.com
 www.envoyproxy.io
 www.fumadocs.dev
@@ -8039,7 +8032,6 @@ www.pngmart.com
 www.s81c.com
 www.tbstat.com
 www.typescriptlang.org
-www2.aomeisoftware.com
 wwwimages2.adobe.com
 wybo-speedtest.northstate.net
 x-art.com
