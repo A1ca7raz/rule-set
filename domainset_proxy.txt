@@ -315,6 +315,7 @@ artifacts.nixos.org
 artstation.com
 asanet.brsserver.com.br
 asanet1.brsserver.com.br
+asanettelecom1.brsserver.com.br
 asbn-speedtest.northstate.net
 ashemaletube.com
 ask.com
