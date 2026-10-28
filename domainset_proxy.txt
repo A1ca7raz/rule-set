@@ -6055,6 +6055,7 @@ speedtest.lax2.sonic.net
 speedtest.lazco.dev
 speedtest.lcom.net
 speedtest.ld7.fdcservers.net
+speedtest.lecrintv.com
 speedtest.lekloud.net
 speedtest.lhr1.uk.as61049.net
 speedtest.lightsource1.com
