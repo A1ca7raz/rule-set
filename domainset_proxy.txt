@@ -3086,6 +3086,7 @@ imgssl.constantcontact.com
 imgtbl.com
 imgtp.com
 imgur.com
+imgur.la
 imgyzzy.com
 imo.im
 imostatic.com
@@ -6981,6 +6982,7 @@ static.plus.net
 static.politico.com
 static.polldaddy.com
 static.prd.borderfree.com
+static.pub
 static.queue-it.net
 static.rakuten.com
 static.redhat.com
