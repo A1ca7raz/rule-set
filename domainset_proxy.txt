@@ -6009,6 +6009,7 @@ speedtest.japanettelecom.com.br
 speedtest.jasmyrahnetworks.com
 speedtest.jbarbieri.net
 speedtest.jcnettelecom.com
+speedtest.jdtelecom.com.br
 speedtest.jeebr.net
 speedtest.jetspeed.com.br
 speedtest.jonasdevries.net
