@@ -5946,6 +5946,7 @@ speedtest.heartland-fiber.com
 speedtest.heartlandtechnology.com
 speedtest.heartofiowa.coop
 speedtest.herza.cloud
+speedtest.hh.addix.net
 speedtest.hiboonetworks.com
 speedtest.highnet.com
 speedtest.hivedatacenter.com
