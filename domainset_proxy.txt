@@ -4257,6 +4257,7 @@ npmfs.com
 npmjs.com
 npmjs.org
 npms.io
+npmx.dev
 npr.org
 ns-cdn.neustar.biz
 ns1.fab5network.com
