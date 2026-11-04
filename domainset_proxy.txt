@@ -462,6 +462,7 @@ assets.streamlinehq.com
 assets.swiftkey.com
 assets.swoogo.com
 assets.tatlerasia.com
+assets.temporary-phone-number.com
 assets.the-independent.com
 assets.tigerdata.com
 assets.tokopedia.net
@@ -5996,6 +5997,7 @@ speedtest.infrawire.host
 speedtest.inoc.net
 speedtest.inovewifi.com
 speedtest.inovewifi.com.br
+speedtest.interligpro.com.br
 speedtest.internetbolaget.nu
 speedtest.internetsubway.com
 speedtest.intlink.com.br
