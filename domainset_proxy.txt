@@ -5886,6 +5886,7 @@ speedtest.fastwyre.com
 speedtest.fbc-tele.com
 speedtest.fc-fra4.as51202.net
 speedtest.fehmer.tech
+speedtest.fenixtelecom.net.br
 speedtest.fiber91.com
 speedtest.fibercast.net
 speedtest.fibercomm.net
@@ -6353,6 +6354,7 @@ speedtest.tcaexpress.net
 speedtest.tctelco.net
 speedtest.technobulut.com
 speedtest.technofiber.co
+speedtest.tefenet.com.br
 speedtest.telbo.net
 speedtest.telecablecr.com
 speedtest.telecaravaca.com
