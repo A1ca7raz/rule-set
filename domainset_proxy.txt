@@ -4434,6 +4434,7 @@ ookla1.talkiefiber.com
 ookla1.the.net.1310.io
 ookla2.eaglecable.net
 ookla2.mbspeed.net
+ooklaserver.dlls.tx.ogital.net
 ooklaserver.net
 ooklaserver1-del1.skymaxbroadband.com
 ooklaspdtstsvr.zitel.com
@@ -4789,6 +4790,7 @@ qiniuyun22.xyz
 qoeookla-mimi-01.sys.comcast.net
 qoeookla-ncst-01.sys.comcast.net
 qoeookla-rmnd-01.sys.comcast.net
+qoeookla-seat-01.sys.comcast.net
 qooqlevideo.com
 qspt.technofiber.net
 quad9.net
@@ -5855,6 +5857,7 @@ speedtest.digitalconnections.net
 speedtest.dimdams.com
 speedtest.dllstx97.metronetinc.com
 speedtest.dme.fdcservers.net
+speedtest.dreamnetgigafiber.com
 speedtest.dsgroupmedia.com
 speedtest.dukekunshan.edu.cn
 speedtest.duocast.net
@@ -6510,6 +6513,7 @@ speedtest03.srv.whplny.alticeusa.net
 speedtest03.suddenlink.net
 speedtest04.ber.server.camp
 speedtest0401.anexia-it.com
+speedtest1-phnyazjv.as20055.net
 speedtest1-qupra-ams-nl.ebgp.fi
 speedtest1-sttlwawb.as20055.net
 speedtest1.acentek.net
@@ -6578,6 +6582,7 @@ speedtest2.dg-sys.net
 speedtest2.dpdfsd.com
 speedtest2.flowtrinidad.com
 speedtest2.grm.net
+speedtest2.honeybroadband.com
 speedtest2.htcnetracer.com
 speedtest2.il.mycci.net
 speedtest2.keyubu.com
