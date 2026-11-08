@@ -4434,6 +4434,7 @@ ookla1.talkiefiber.com
 ookla1.the.net.1310.io
 ookla2.eaglecable.net
 ookla2.mbspeed.net
+ooklaserver.asbn.va.ogital.net
 ooklaserver.dlls.tx.ogital.net
 ooklaserver.net
 ooklaserver1-del1.skymaxbroadband.com
@@ -7769,6 +7770,7 @@ velocidade.4wnet.com.br
 velocidade.amazoniatelecom.com.br
 velocidade.conectato.com.br
 velocidade.csrnetwork.com.br
+velocidade.danieltechpro.com
 velocidade.exytelecom.com.br
 velocidade.gcnetprovedor.com.br
 velocidade.giga7telecom.com.br
