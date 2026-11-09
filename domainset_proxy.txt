@@ -5757,6 +5757,7 @@ speedtest.barcconnects.net
 speedtest.bellaliant.net
 speedtest.belmontcountygig.com
 speedtest.bemol.com.br
+speedtest.bgsi.io
 speedtest.bhaukaalbaba.com
 speedtest.bigventuresmedia.com
 speedtest.bitel.io
