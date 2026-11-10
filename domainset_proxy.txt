@@ -839,6 +839,7 @@ cdn.adguard.info
 cdn.affine.pro
 cdn.affonso.io
 cdn.allkeyshop.com
+cdn.altstore.io
 cdn.amcharts.com
 cdn.amgreatness.com
 cdn.animenewsnetwork.com
@@ -6425,6 +6426,7 @@ speedtest.uzmansoft.net
 speedtest.vacastelecom.net
 speedtest.valleycom.com
 speedtest.vc.shawcable.net
+speedtest.vel.as205941.net
 speedtest.velosonet.com.br
 speedtest.verimek.com
 speedtest.vermontel.net
@@ -6449,6 +6451,7 @@ speedtest.warian.net
 speedtest.warsaw.valtrix.org
 speedtest.waterloofiber.com
 speedtest.waveruralconnect.com
+speedtest.way2netbroadband.com
 speedtest.wb1.loopinternet.com
 speedtest.wccta.com
 speedtest.webdiscount.net
