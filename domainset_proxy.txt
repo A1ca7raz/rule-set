@@ -2835,6 +2835,7 @@ ih1.redbubble.net
 ih2.redbubble.net
 ih3.redbubble.net
 iheart.com
+ihgtelecom.brsserver.com.br
 iili.io
 iina.io
 ik.imgkit.net
@@ -4436,6 +4437,7 @@ ookla1.the.net.1310.io
 ookla2.eaglecable.net
 ookla2.mbspeed.net
 ooklaserver.asbn.va.ogital.net
+ooklaserver.atln.ga.ogital.net
 ooklaserver.dlls.tx.ogital.net
 ooklaserver.net
 ooklaserver1-del1.skymaxbroadband.com
@@ -5613,6 +5615,7 @@ speedtest-ookla-roc1.synoptek.com
 speedtest-ottawa.hivedatacenter.com
 speedtest-perth.macquarietelecom.com
 speedtest-phl.dish-wireless.com
+speedtest-phoenix.resoundnetworks.com
 speedtest-phx.dish-wireless.com
 speedtest-pit.omnifiber.com
 speedtest-pl.the.hosting
