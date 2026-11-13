@@ -3,6 +3,7 @@
 -.7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 -.acg.tv
 -.api.smoot.apple.cn
+-.app.jianguoyun.com
 -.app.viayoo.com
 -.appleintelligencefeedback.care.apple.com
 -.assets1.xboxlive.cn
@@ -12,6 +13,7 @@
 -.captive.apple.com
 -.cdnstatic.tencentcs.com
 -.cn.download.nvidia.com
+-.comet.jianguoyun.com
 -.config.ubnt.com
 -.console.gl-inet.com
 -.dl.ubnt.com

@@ -3178,6 +3178,7 @@ ipl3pt.syd.ops.aspac.uu.net
 ipleak.net
 ipns.co
 iporntv.net
+iprsoftwaremedia.com
 ipstatp.com
 ipxy.io
 iq.com
@@ -4774,6 +4775,7 @@ public.blob.vercel-storage.com
 public.hare200.com
 public.komiic.com
 public.mocortech.com
+public.popclip.app
 public.saasexch.com
 public.zoorix.com
 publicsuffix.org
