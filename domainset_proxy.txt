@@ -6229,6 +6229,7 @@ speedtest.par1.adky.net
 speedtest.par2.as216190.net
 speedtest.parishbroadband.com
 speedtest.pavlovmedia.net
+speedtest.paynetdigital.com
 speedtest.peariverbroadband.com
 speedtest.pemtelco.com
 speedtest.pendc.com
@@ -7808,6 +7809,7 @@ velocidade.softtelecom.net.br
 velocidade.tecsattelecom.com.br
 velocidade.tecsattelecom.net.br
 velocidade.tntelecomfortaleza.com.br
+velocidade.tpnt.com.br
 velocidade.webzoomtelecom.com.br
 velocidadestm.amazonett.com.br
 velocimetro-fla.virtua.com.br
