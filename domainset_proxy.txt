@@ -6604,6 +6604,7 @@ speedtest2.nckcn.com
 speedtest2.networks.bt.com
 speedtest2.pa.mycci.net
 speedtest2.pacificinternet.com
+speedtest2.par2.as216190.net
 speedtest2.phx.1gservers.com
 speedtest2.rainbowtel.net
 speedtest2.rhitcr.com
@@ -6968,6 +6969,7 @@ static.izanmei.icu
 static.j51.net
 static.jup.ag
 static.k2s.cc
+static.karousell.com
 static.killedbygoogle.com
 static.klaviyo.com
 static.licdn.com
