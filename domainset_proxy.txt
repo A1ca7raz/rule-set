@@ -9,6 +9,7 @@
 -.cbsservice.aws.syncbak.com
 -.ccmdl.adobe.com
 -.chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+-.cloud.zed.dev
 -.community.oneplus.com
 -.dashasiafox.akamaized.net
 -.ds-linear-abematv.akamaized.net
@@ -3594,6 +3595,7 @@ media.convertkit.com
 media.crazyshit.com
 media.currys.biz
 media.daily.dev
+media.datacamp.com
 media.datacenterdynamics.com
 media.e4le.me
 media.ettoday.net
