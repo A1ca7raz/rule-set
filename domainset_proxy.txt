@@ -1618,6 +1618,7 @@ dailymotion.com
 dailywire.com
 dal-speedtest.net.sangoma.net
 dal-speedtest.transtelco.net
+dallas.outboundrix.cloud
 dallas1.cabospeed.com
 dalspeedtest.rtatel.com
 dam-cdn.atl.orangelogic.com
