@@ -3,12 +3,14 @@
 -.apm-misaka.biliapi.net
 -.athome.fandango.com
 -.bbc.mp-pxcdn.com
+-.bridge.claudeusercontent.com
 -.cache.video.iqiyi.com
 -.cbsi.live.ott.irdeto.com
 -.cbsplaylistserver.aws.syncbak.com
 -.cbsservice.aws.syncbak.com
 -.ccmdl.adobe.com
 -.chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+-.claude.site
 -.cloud.zed.dev
 -.community.oneplus.com
 -.dashasiafox.akamaized.net
@@ -367,6 +369,7 @@ assets.capterra.com
 assets.cello.so
 assets.cgtrader.com
 assets.churnkey.co
+assets.claudeusercontent.com
 assets.clever-cloud.com
 assets.clickfunnels.com
 assets.cmcmarkets.com
@@ -1390,7 +1393,6 @@ ciscobinary.openh264.org
 cktu01.sbs
 cla-assistant.io
 claude.com
-claudeusercontent.com
 cldup.com
 clg-105-sptest.ncri.com
 clickup.marketlinc.com
@@ -2212,6 +2214,7 @@ fr2.rpmfind.net
 fra-de-008.xvperf.net
 fra.speedtest.csgobans.com
 fra1speedtest01.skylogic.com
+frame.claudeusercontent.com
 framer.com
 framercdn.com
 framerstatic.com
@@ -6916,6 +6919,7 @@ static.chaika.moe
 static.chaosgroup.com
 static.chessarena.com
 static.chrome-stats.com
+static.claudeusercontent.com
 static.cloud.coveo.com
 static.cloudcachetci.com
 static.cohere.so
@@ -7716,6 +7720,7 @@ updates.vibeisland.app
 updownradar.com
 upjav.org
 uplinkfibra.brsserver.com.br
+upload.claudeusercontent.com
 upload.teftera.com
 uploadcare.mwcglobalprofile.com
 uploadhouse.com
