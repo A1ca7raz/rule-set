@@ -423,6 +423,7 @@ assets.maxon.net
 assets.mcp.corespeed.io
 assets.media-platform.com
 assets.monei.com
+assets.monetizationos.com
 assets.nationbuilder.com
 assets.nintendo.com
 assets.northflank.com
@@ -709,6 +710,7 @@ bunnycdn.com
 bursaspeedtest.pendns.net
 businessinsider.com
 busuanzi.ibruce.info
+butterfly-effect-cdn.dev
 bwh1.net
 bybit.com
 bycsi.com
